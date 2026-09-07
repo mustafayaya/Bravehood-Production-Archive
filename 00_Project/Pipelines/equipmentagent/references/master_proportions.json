@@ -1,0 +1,879 @@
+{
+  "blend": "/Users/mustafayaya/bravehood-unity/Assets/Characters/warrior_master_rig.blend",
+  "bone_count": 45,
+  "meshes": [
+    {
+      "name": "Warrior_Torso",
+      "verts": 2186
+    },
+    {
+      "name": "Warrior_Head",
+      "verts": 368
+    },
+    {
+      "name": "Warrior_Legs",
+      "verts": 1924
+    }
+  ],
+  "landmarks": {
+    "total_height": 1.0,
+    "hip_height": 0.4943,
+    "shoulder_width": 0.2471,
+    "hip_width": 0.1513,
+    "arm_length": 0.3522,
+    "leg_length": 0.4598,
+    "head_center": [
+      -0.0009,
+      -0.0187,
+      0.8961
+    ],
+    "head_radius": 0.1344,
+    "neck_z": 0.7518,
+    "waist_seam_z": 0.5486,
+    "wrist_L": [
+      0.2544,
+      0.0046,
+      0.4422
+    ],
+    "wrist_R": [
+      -0.2428,
+      0.0075,
+      0.4422
+    ],
+    "ankle_L": [
+      0.1307,
+      0.0293,
+      0.0385
+    ],
+    "ankle_R": [
+      -0.1196,
+      0.0245,
+      0.0494
+    ],
+    "facing": "-Y",
+    "unity_global_scale": 1.5941,
+    "unity_hip_target_y": 0.78,
+    "unity_global_scale_note": "measured: theoretical 0.780/hip lands 1% short on FBX import",
+    "world_scale_note": "LOCKED 2026-08-25: player ~1.59m in Unity is intentional; dungeon/enemy ratios are tuned to it. Do NOT rescale to real-world 1.75-1.80m. Real-world-scale imports need ~x0.91."
+  },
+  "bones": {
+    "Root": {
+      "head": [
+        0.0071,
+        -0.0046,
+        0.0
+      ],
+      "tail": [
+        0.0071,
+        0.4898,
+        0.0
+      ],
+      "parent": null
+    },
+    "Hip": {
+      "head": [
+        0.0071,
+        -0.0046,
+        0.4943
+      ],
+      "tail": [
+        0.0071,
+        0.0022,
+        0.5017
+      ],
+      "parent": "Root"
+    },
+    "Pelvis": {
+      "head": [
+        0.0071,
+        -0.0046,
+        0.4943
+      ],
+      "tail": [
+        0.0074,
+        0.0046,
+        0.5694
+      ],
+      "parent": "Hip"
+    },
+    "L_Thigh": {
+      "head": [
+        0.0827,
+        -0.0015,
+        0.4941
+      ],
+      "tail": [
+        0.0943,
+        0.012,
+        0.3818
+      ],
+      "parent": "Pelvis"
+    },
+    "L_Calf": {
+      "head": [
+        0.1059,
+        0.0256,
+        0.2696
+      ],
+      "tail": [
+        0.1183,
+        0.0275,
+        0.154
+      ],
+      "parent": "L_Thigh"
+    },
+    "L_Foot": {
+      "head": [
+        0.1307,
+        0.0293,
+        0.0385
+      ],
+      "tail": [
+        0.1392,
+        -0.0207,
+        0.0345
+      ],
+      "parent": "L_Calf"
+    },
+    "L_ToeBase": {
+      "head": [
+        0.1392,
+        -0.0207,
+        0.0345
+      ],
+      "tail": [
+        0.1476,
+        -0.0708,
+        0.0304
+      ],
+      "parent": "L_Foot"
+    },
+    "L_CalfTwist01": {
+      "head": [
+        0.1059,
+        0.0256,
+        0.2697
+      ],
+      "tail": [
+        0.1162,
+        0.0272,
+        0.1733
+      ],
+      "parent": "L_Calf"
+    },
+    "L_CalfTwist02": {
+      "head": [
+        0.1162,
+        0.0272,
+        0.1733
+      ],
+      "tail": [
+        0.1266,
+        0.0287,
+        0.0769
+      ],
+      "parent": "L_CalfTwist01"
+    },
+    "L_ThighTwist01": {
+      "head": [
+        0.0826,
+        -0.0016,
+        0.4942
+      ],
+      "tail": [
+        0.0943,
+        0.012,
+        0.382
+      ],
+      "parent": "L_Thigh"
+    },
+    "L_ThighTwist02": {
+      "head": [
+        0.0943,
+        0.012,
+        0.382
+      ],
+      "tail": [
+        0.1059,
+        0.0256,
+        0.2697
+      ],
+      "parent": "L_ThighTwist01"
+    },
+    "R_Thigh": {
+      "head": [
+        -0.0685,
+        -0.0075,
+        0.4941
+      ],
+      "tail": [
+        -0.0801,
+        0.0031,
+        0.3818
+      ],
+      "parent": "Pelvis"
+    },
+    "R_ThighTwist01": {
+      "head": [
+        -0.0685,
+        -0.0075,
+        0.4942
+      ],
+      "tail": [
+        -0.0801,
+        0.003,
+        0.382
+      ],
+      "parent": "R_Thigh"
+    },
+    "R_ThighTwist02": {
+      "head": [
+        -0.0801,
+        0.003,
+        0.382
+      ],
+      "tail": [
+        -0.0917,
+        0.0136,
+        0.2697
+      ],
+      "parent": "R_ThighTwist01"
+    },
+    "R_Calf": {
+      "head": [
+        -0.0917,
+        0.0136,
+        0.2696
+      ],
+      "tail": [
+        -0.1057,
+        0.0191,
+        0.1595
+      ],
+      "parent": "R_Thigh"
+    },
+    "R_Foot": {
+      "head": [
+        -0.1196,
+        0.0245,
+        0.0494
+      ],
+      "tail": [
+        -0.1217,
+        -0.0169,
+        0.0421
+      ],
+      "parent": "R_Calf"
+    },
+    "R_ToeBase": {
+      "head": [
+        -0.1217,
+        -0.0169,
+        0.0421
+      ],
+      "tail": [
+        -0.1238,
+        -0.0582,
+        0.0347
+      ],
+      "parent": "R_Foot"
+    },
+    "R_CalfTwist01": {
+      "head": [
+        -0.0917,
+        0.0136,
+        0.2697
+      ],
+      "tail": [
+        -0.1033,
+        0.0182,
+        0.1779
+      ],
+      "parent": "R_Calf"
+    },
+    "R_CalfTwist02": {
+      "head": [
+        -0.1033,
+        0.0182,
+        0.1779
+      ],
+      "tail": [
+        -0.115,
+        0.0227,
+        0.086
+      ],
+      "parent": "R_CalfTwist01"
+    },
+    "Waist": {
+      "head": [
+        0.0071,
+        -0.0046,
+        0.4944
+      ],
+      "tail": [
+        0.0073,
+        0.0021,
+        0.5486
+      ],
+      "parent": "Hip"
+    },
+    "Spine01": {
+      "head": [
+        0.0073,
+        0.0021,
+        0.5486
+      ],
+      "tail": [
+        0.0079,
+        0.0154,
+        0.657
+      ],
+      "parent": "Waist"
+    },
+    "Spine02": {
+      "head": [
+        0.0079,
+        0.0154,
+        0.657
+      ],
+      "tail": [
+        0.0083,
+        0.0272,
+        0.7531
+      ],
+      "parent": "Spine01"
+    },
+    "NeckTwist01": {
+      "head": [
+        0.0083,
+        0.027,
+        0.7518
+      ],
+      "tail": [
+        0.0085,
+        0.0312,
+        0.7856
+      ],
+      "parent": "Spine02"
+    },
+    "NeckTwist02": {
+      "head": [
+        0.0085,
+        0.0312,
+        0.7856
+      ],
+      "tail": [
+        0.0086,
+        0.0337,
+        0.8059
+      ],
+      "parent": "NeckTwist01"
+    },
+    "Head": {
+      "head": [
+        0.0086,
+        0.0337,
+        0.8059
+      ],
+      "tail": [
+        0.0086,
+        0.0361,
+        0.8262
+      ],
+      "parent": "NeckTwist02"
+    },
+    "L_Clavicle": {
+      "head": [
+        0.0283,
+        0.027,
+        0.7518
+      ],
+      "tail": [
+        0.1317,
+        0.0286,
+        0.7596
+      ],
+      "parent": "Spine02"
+    },
+    "L_Upperarm": {
+      "head": [
+        0.1318,
+        0.0287,
+        0.7595
+      ],
+      "tail": [
+        0.177,
+        0.0407,
+        0.6733
+      ],
+      "parent": "L_Clavicle"
+    },
+    "L_Forearm": {
+      "head": [
+        0.2221,
+        0.0527,
+        0.5872
+      ],
+      "tail": [
+        0.2383,
+        0.0286,
+        0.5146
+      ],
+      "parent": "L_Upperarm"
+    },
+    "L_ForearmTwist01": {
+      "head": [
+        0.2221,
+        0.0527,
+        0.5872
+      ],
+      "tail": [
+        0.2383,
+        0.0286,
+        0.5147
+      ],
+      "parent": "L_Forearm"
+    },
+    "L_ForearmTwist02": {
+      "head": [
+        0.2383,
+        0.0286,
+        0.5147
+      ],
+      "tail": [
+        0.2544,
+        0.0045,
+        0.4421
+      ],
+      "parent": "L_ForearmTwist01"
+    },
+    "L_Hand": {
+      "head": [
+        0.2544,
+        0.0046,
+        0.4422
+      ],
+      "tail": [
+        0.2306,
+        -0.0094,
+        0.3691
+      ],
+      "parent": "L_Forearm"
+    },
+    "L_Fingers1": {
+      "head": [
+        0.2454,
+        -0.0007,
+        0.4144
+      ],
+      "tail": [
+        0.2347,
+        -0.007,
+        0.3817
+      ],
+      "parent": "L_Hand"
+    },
+    "L_Fingers2": {
+      "head": [
+        0.2347,
+        -0.007,
+        0.3817
+      ],
+      "tail": [
+        0.2241,
+        -0.0132,
+        0.3489
+      ],
+      "parent": "L_Fingers1"
+    },
+    "L_UpperarmTwist01": {
+      "head": [
+        0.1317,
+        0.0286,
+        0.7596
+      ],
+      "tail": [
+        0.1769,
+        0.0407,
+        0.6734
+      ],
+      "parent": "L_Upperarm"
+    },
+    "L_UpperarmTwist02": {
+      "head": [
+        0.1769,
+        0.0407,
+        0.6734
+      ],
+      "tail": [
+        0.2221,
+        0.0527,
+        0.5872
+      ],
+      "parent": "L_UpperarmTwist01"
+    },
+    "R_Clavicle": {
+      "head": [
+        -0.0117,
+        0.027,
+        0.7518
+      ],
+      "tail": [
+        -0.115,
+        0.0287,
+        0.771
+      ],
+      "parent": "Spine02"
+    },
+    "R_Upperarm": {
+      "head": [
+        -0.115,
+        0.0288,
+        0.7708
+      ],
+      "tail": [
+        -0.1628,
+        0.0423,
+        0.6789
+      ],
+      "parent": "R_Clavicle"
+    },
+    "R_UpperarmTwist01": {
+      "head": [
+        -0.115,
+        0.0287,
+        0.7709
+      ],
+      "tail": [
+        -0.1628,
+        0.0423,
+        0.679
+      ],
+      "parent": "R_Upperarm"
+    },
+    "R_UpperarmTwist02": {
+      "head": [
+        -0.1628,
+        0.0423,
+        0.679
+      ],
+      "tail": [
+        -0.2105,
+        0.0558,
+        0.5872
+      ],
+      "parent": "R_UpperarmTwist01"
+    },
+    "R_Forearm": {
+      "head": [
+        -0.2105,
+        0.0557,
+        0.5872
+      ],
+      "tail": [
+        -0.2266,
+        0.0316,
+        0.5146
+      ],
+      "parent": "R_Upperarm"
+    },
+    "R_ForearmTwist01": {
+      "head": [
+        -0.2105,
+        0.0557,
+        0.5872
+      ],
+      "tail": [
+        -0.2266,
+        0.0316,
+        0.5147
+      ],
+      "parent": "R_Forearm"
+    },
+    "R_ForearmTwist02": {
+      "head": [
+        -0.2266,
+        0.0316,
+        0.5147
+      ],
+      "tail": [
+        -0.2428,
+        0.0075,
+        0.4421
+      ],
+      "parent": "R_ForearmTwist01"
+    },
+    "R_Hand": {
+      "head": [
+        -0.2428,
+        0.0075,
+        0.4422
+      ],
+      "tail": [
+        -0.2198,
+        -0.0166,
+        0.3715
+      ],
+      "parent": "R_Forearm"
+    },
+    "R_Fingers1": {
+      "head": [
+        -0.2342,
+        -0.0015,
+        0.4159
+      ],
+      "tail": [
+        -0.2239,
+        -0.0123,
+        0.3842
+      ],
+      "parent": "R_Hand"
+    },
+    "R_Fingers2": {
+      "head": [
+        -0.2239,
+        -0.0123,
+        0.3842
+      ],
+      "tail": [
+        -0.2137,
+        -0.0231,
+        0.3526
+      ],
+      "parent": "R_Fingers1"
+    }
+  },
+  "surface_envelopes": {
+    "L_ForearmTwist01": {
+      "n": 80,
+      "rmax": 0.0688,
+      "zlo": 0.499,
+      "zhi": 0.6086,
+      "r_mean": 0.048
+    },
+    "R_UpperarmTwist01": {
+      "n": 337,
+      "rmax": 0.1103,
+      "zlo": 0.6517,
+      "zhi": 0.8298,
+      "r_mean": 0.0741
+    },
+    "R_Clavicle": {
+      "n": 353,
+      "rmax": 0.1345,
+      "zlo": 0.6908,
+      "zhi": 0.8493,
+      "r_mean": 0.0854
+    },
+    "R_ForearmTwist01": {
+      "n": 79,
+      "rmax": 0.0676,
+      "zlo": 0.499,
+      "zhi": 0.6086,
+      "r_mean": 0.0504
+    },
+    "R_ForearmTwist02": {
+      "n": 58,
+      "rmax": 0.0585,
+      "zlo": 0.4442,
+      "zhi": 0.5303,
+      "r_mean": 0.0402
+    },
+    "L_Fingers1": {
+      "n": 32,
+      "rmax": 0.0636,
+      "zlo": 0.3679,
+      "zhi": 0.4129,
+      "r_mean": 0.0321
+    },
+    "L_UpperarmTwist01": {
+      "n": 159,
+      "rmax": 0.0994,
+      "zlo": 0.6693,
+      "zhi": 0.8043,
+      "r_mean": 0.0634
+    },
+    "R_Fingers1": {
+      "n": 40,
+      "rmax": 0.0525,
+      "zlo": 0.3601,
+      "zhi": 0.4129,
+      "r_mean": 0.0338
+    },
+    "Spine01": {
+      "n": 313,
+      "rmax": 0.146,
+      "zlo": 0.5362,
+      "zhi": 0.6986,
+      "r_mean": 0.1093
+    },
+    "L_Clavicle": {
+      "n": 150,
+      "rmax": 0.1182,
+      "zlo": 0.6732,
+      "zhi": 0.8533,
+      "r_mean": 0.0864
+    },
+    "Head": {
+      "n": 381,
+      "rmax": 0.2205,
+      "zlo": 0.7965,
+      "zhi": 1.0,
+      "r_mean": 0.1077
+    },
+    "R_Hand": {
+      "n": 32,
+      "rmax": 0.0576,
+      "zlo": 0.3894,
+      "zhi": 0.4599,
+      "r_mean": 0.0389
+    },
+    "L_Hand": {
+      "n": 24,
+      "rmax": 0.067,
+      "zlo": 0.3933,
+      "zhi": 0.454,
+      "r_mean": 0.0408
+    },
+    "R_ThighTwist01": {
+      "n": 436,
+      "rmax": 0.2177,
+      "zlo": 0.2231,
+      "zhi": 0.5832,
+      "r_mean": 0.1022
+    },
+    "R_Fingers2": {
+      "n": 33,
+      "rmax": 0.045,
+      "zlo": 0.3503,
+      "zhi": 0.3894,
+      "r_mean": 0.0248
+    },
+    "L_ThighTwist01": {
+      "n": 296,
+      "rmax": 0.1876,
+      "zlo": 0.2603,
+      "zhi": 0.5753,
+      "r_mean": 0.0859
+    },
+    "L_Fingers2": {
+      "n": 44,
+      "rmax": 0.0594,
+      "zlo": 0.3503,
+      "zhi": 0.3894,
+      "r_mean": 0.0317
+    },
+    "L_ForearmTwist02": {
+      "n": 58,
+      "rmax": 0.0555,
+      "zlo": 0.4442,
+      "zhi": 0.5088,
+      "r_mean": 0.0415
+    },
+    "Spine02": {
+      "n": 99,
+      "rmax": 0.1391,
+      "zlo": 0.6125,
+      "zhi": 0.7573,
+      "r_mean": 0.1129
+    },
+    "Waist": {
+      "n": 63,
+      "rmax": 0.1971,
+      "zlo": 0.3444,
+      "zhi": 0.5734,
+      "r_mean": 0.1138
+    },
+    "L_UpperarmTwist02": {
+      "n": 107,
+      "rmax": 0.083,
+      "zlo": 0.5656,
+      "zhi": 0.6614,
+      "r_mean": 0.0512
+    },
+    "R_UpperarmTwist02": {
+      "n": 109,
+      "rmax": 0.0721,
+      "zlo": 0.5675,
+      "zhi": 0.6712,
+      "r_mean": 0.0484
+    },
+    "NeckTwist01": {
+      "n": 3,
+      "rmax": 0.0819,
+      "zlo": 0.7652,
+      "zhi": 0.7886,
+      "r_mean": 0.0662
+    },
+    "R_CalfTwist01": {
+      "n": 228,
+      "rmax": 0.0934,
+      "zlo": 0.1859,
+      "zhi": 0.2622,
+      "r_mean": 0.068
+    },
+    "L_CalfTwist01": {
+      "n": 220,
+      "rmax": 0.0883,
+      "zlo": 0.1859,
+      "zhi": 0.2642,
+      "r_mean": 0.0678
+    },
+    "L_Foot": {
+      "n": 42,
+      "rmax": 0.0914,
+      "zlo": 0.0,
+      "zhi": 0.0528,
+      "r_mean": 0.0623
+    },
+    "L_CalfTwist02": {
+      "n": 152,
+      "rmax": 0.0841,
+      "zlo": 0.0528,
+      "zhi": 0.1859,
+      "r_mean": 0.058
+    },
+    "L_ThighTwist02": {
+      "n": 118,
+      "rmax": 0.1429,
+      "zlo": 0.2681,
+      "zhi": 0.3914,
+      "r_mean": 0.0769
+    },
+    "R_ThighTwist02": {
+      "n": 95,
+      "rmax": 0.1014,
+      "zlo": 0.2681,
+      "zhi": 0.3914,
+      "r_mean": 0.0733
+    },
+    "R_Foot": {
+      "n": 44,
+      "rmax": 0.0963,
+      "zlo": 0.0,
+      "zhi": 0.0744,
+      "r_mean": 0.0648
+    },
+    "R_CalfTwist02": {
+      "n": 151,
+      "rmax": 0.0895,
+      "zlo": 0.0528,
+      "zhi": 0.1879,
+      "r_mean": 0.0579
+    },
+    "L_ToeBase": {
+      "n": 71,
+      "rmax": 0.0828,
+      "zlo": 0.0,
+      "zhi": 0.0998,
+      "r_mean": 0.058
+    },
+    "R_ToeBase": {
+      "n": 71,
+      "rmax": 0.1023,
+      "zlo": 0.0,
+      "zhi": 0.0998,
+      "r_mean": 0.0632
+    }
+  }
+}

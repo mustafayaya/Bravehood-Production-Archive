@@ -1,0 +1,147 @@
+# Sword1H_WalkForward_v012 — NOT GENERATED (gate 18 / 25)
+
+All three cleanup targets were root-caused. None of the three could be corrected without making
+another target measurably worse, so per item 18 ("do NOT solve one by making another visibly
+worse") and item 25, v011 stands. No production clip created; no rig, timing, support, swing,
+pelvis or Travel change.
+
+New permanent diagnostic: `LocomotionAnatomicalRotationAudit` - swing-twist decomposition about
+each bone's own long axis (Euler is unusable on this rig; the bone axes gimbal), plus a
+flexion-gated knee-plane measure and the spine/limb cancellation ratios.
+
+## MEASUREMENT CORRECTION
+
+The knee-plane measure in the first pass was wrong and its numbers should be discarded. The
+bend-plane normal is the cross product of thigh and shank, so as the leg straightens it collapses
+and its direction becomes noise - that artefact reported a 157 deg knee-plane range on the MOCAP
+SOURCE, which no walk has. The audit now returns NaN below 12 deg of knee flexion and excludes
+those frames. Every knee-plane number below is the gated one.
+
+## TARGET A — FEMUR / KNEE PLANE
+
+**Diagnosis (item 4).** The excess is not spread through the cycle; it is a spike at late left
+stance / toe-off:
+
+| L femur axial twist | 0.10 | **0.20** | 0.30 | 0.50 | range |
+|---|---|---|---|---|---|
+| source @150 spm | -11.8 | **-15.6** | -4.9 | 0.5 | 16.3 |
+| v009 | -13.8 | **-25.9** | 4.1 | 7.4 | 33.9 |
+| v011 | -14.0 | **-26.7** | 4.5 | 7.7 | 34.4 |
+
+Phase 0.20 is the end of the left semantic stance. Present already in v009, so neither the swing
+repair nor the twist prior created it. Ablations isolate the cause by elimination:
+
+| ablation | L femur twist |
+|---|---|
+| v011 baseline | 34.4 |
+| foot-yaw weight 0.014 -> 0.001 | 34.4 (no effect) |
+| track width 0.24 -> 0.18 m | 35.0 (worse) |
+| turnout limit 16 -> 40 deg | 32.6 (L barely; R 15.4 -> 9.2) |
+
+So it is **not** the foot-yaw target, the track width, or the turnout limit. The dominant cause is
+maximal reach on the planted left leg at toe-off: the pelvis has travelled forward, the foot is
+still held on its mark, and axial femur rotation is what the chain has left.
+
+**Flexion-gated knee plane** tells a subtler story than the twist range does:
+
+| | L range | L max frame step | L p95 vel | valid frames |
+|---|---|---|---|---|
+| source @150 spm | 157.5 | **5.0** | 156 | 39/60 |
+| v011 | 44.8 | **13.2** | 501 | 60/60 |
+
+v011's knee plane covers a much SMALLER range than the source but moves in 2.6x larger, 3.2x
+faster steps - it holds, then swivels. That is the real defect, and it is a continuity problem,
+not a magnitude problem.
+
+**Attempted fix** (item 6): `femurSteeringSmoothing`, a curvature (discrete Laplacian) prior on
+Upper Leg Twist In-Out and Upper Leg In-Out inside the whole-cycle solve - penalising jerk rather
+than magnitude, which is what measures badly.
+
+| strength | L femur twist | knee-plane step | knee-plane p95 vel | shelf | sword |
+|---|---|---|---|---|---|
+| v011 (off) | 34.4 | 13.2 | 501 | 17 ms | 169 |
+| 0.15 | 32.3 | 12.5 | 584 | 50 ms | 163 |
+| 0.30 | 32.4 | 13.1 | 490 | 167 ms | 143 |
+| 0.50 | 32.9 | 11.3 | 529 | 0 ms | 163 |
+
+Twist falls only ~6%, the frame step improves at best 13.2 -> 11.3, and p95 velocity does not
+improve at all. **Not material.** Kept in the profile, defaulted OFF.
+
+## TARGET B — FRONTAL TORSO (largest defect found, and unsolved)
+
+Confirmed and quantified. Roll ranges over the cycle:
+
+| | pelvis | spine | chest | head | head world tilt |
+|---|---|---|---|---|---|
+| idle v005 | 0.2 | 0.2 | 1.3 | 0.4 | 0.3 |
+| source @150 spm | 4.0 | 4.2 | 2.4 | 3.1 | 3.1 |
+| **v011** | **10.1** | **9.0** | **19.9** | **22.8** | **13.2** |
+
+The chest (19.9) and head (22.8) roll FURTHER than the pelvis (10.1) that is driving them. The
+chain amplifies instead of stabilising - precisely the inverted hierarchy item 10 describes, and
+the frontal twin of the sagittal hunch fixed in v009.
+
+**Attempted fix**: `FrontalPosturePass`, built on the proven `SagittalPosturePass` template -
+scale the roll toward the idle rather than cancel it, then recover neck and head.
+
+| | chest roll | head roll | **head world tilt** | chest pitch | head pitch | sword |
+|---|---|---|---|---|---|---|
+| v011 | 19.9 | 22.8 | **13.2** | +2.4 | -2.6 | 169 |
+| authority 0.4 | 16.0 | 15.7 | **16.2** | -0.3 | **-6.2** | 206 |
+| authority 0.6 | 14.4 | 12.3 | **17.7** | -0.2 | -5.4 | 285 |
+
+It reduces roll in the stance frame but makes the head's tilt from WORLD UP worse (13.2 -> 16.2),
+which is the metric that actually matters for gaze stability, and it damages the sagittal posture
+item 11 requires preserved (head pitch -2.6 -> -6.2). Correcting roll in the stance frame while
+pitch is being corrected in the same joints composes into a larger total tilt. Rejected. Kept in
+the profile, defaulted OFF.
+
+## TARGET C — SWORD SHOULDER
+
+**Root-caused precisely.** The saturation is generated by the weapon pass, and neither of the two
+plausible culprits is responsible:
+
+| configuration | Right Shoulder Down-Up | clavicle dev | sword path |
+|---|---|---|---|
+| approved pose | **+0.099** | 0.7 deg | - |
+| mocap source | -0.085 .. 0.038 | - | - |
+| v011 | **-1.000 .. -1.000** | 18.8 deg | 169 mm |
+| weaponStability 0.60 | -1.000 | 18.7 | 265 |
+| weaponStability 0.40 | -1.000 | 18.4 | 295 |
+| weaponStability 0.20 | -1.000 .. -0.86 | 18.1 | 407 |
+| **weaponStability 0 (solve off)** | **+0.068 .. +0.118** | ~0 | - |
+| warm start removed | -1.000 | 18.5 | 134 |
+| shoulder anchor 0.70 (v011 pass) | -1.000 | 18.8 | 337 |
+
+With the weapon solve off the shoulder sits exactly at the approved value, so the pass is the
+cause - but weakening it does not help, and removing the warm start does not help. The mechanism
+is the target itself: `SolveWeaponHand` pulls the hand toward its idle rest position expressed in
+ROOT space, and the pass runs three times, so the pull compounds at any strength. With the torso
+pitched ~15 deg forward in the walk, holding the hand at a root-space idle position genuinely
+requires ~19 deg of clavicle depression. The saturation is load-bearing.
+
+**The fix that would work** (item 13/14) is to express the weapon rest target in CHEST space, so
+the hand rides the torso instead of being pinned in root space. That is a change to
+`HumanoidFootLockSolver.SolveWeaponHand`, not a knob - and it changes the sword's relationship to
+the body, which is upper-body art direction. Per item 26 I did not force it.
+
+## STATE
+
+v001-v011 byte-identical (v008 `7a7ca074`, v009 `5546958e`, v010 `7c44dd1d`, v011 `e3705c2f`).
+No v012. Profile restored to the exact v011 recipe and **verified by regeneration**: all 102
+curves reproduce v011 to 0.000000 (the file hash differs only by the clip's embedded name).
+Regression suite 22/22.
+
+Serialized controller, read from disk: `Light_Walk8` forward = **v011 @ ts 1.00**,
+`Travel_Walk8` forward = **v008 @ ts 0.50**, `CombatWalkSpeedScale` 0.65. Travel did not drift
+this session. Test N1 passes.
+
+## RECOMMENDATION
+
+Ranked by measured severity, the frontal sway (B) is the largest and most visible defect: a 22.8
+deg head roll against the source's 3.1. It is worth its own milestone, and the failed attempt
+narrows the approach - the correction must be solved in a frame that treats pitch and roll
+together (a single orientation target for the chest and head) rather than as two independent
+scalar passes composing into a larger tilt.
+
+**ARTISTIC APPROVAL: PENDING** (v011 remains the candidate)

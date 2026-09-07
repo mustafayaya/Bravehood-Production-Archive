@@ -1,0 +1,15 @@
+{"room":"W1_IntakeCathedral","label":"rebuild_before","objects":[
+{"group":"_Blockout/Walls/W1_IntakeCathedral","name":"Wall_01","pos":[-14.19898,-1.67,47.8356],"rot":[0,180,0],"scale":[0.7908611,2.420029,1]},
+{"group":"_Blockout/Walls/W1_IntakeCathedral","name":"Wall_01","pos":[-1.798982,-1.67,48.1256],"rot":[0,180,0],"scale":[0.7908612,2.420029,1]},
+{"group":"_Blockout/Walls/W1_IntakeCathedral","name":"Wall_01","pos":[0.0010186,-1.67,51.3356],"rot":[0,89.99999,0],"scale":[1.537786,2.420029,1]},
+{"group":"_Blockout/Walls/W1_IntakeCathedral","name":"Wall_01","pos":[3.299018,-1.67,54.8356],"rot":[0,180,0],"scale":[1.537786,2.420029,1]},
+{"group":"_Blockout/Walls/W1_IntakeCathedral","name":"Wall_01","pos":[6.799018,-1.67,59.7606],"rot":[0,89.99999,0],"scale":[2,2.420029,1]},
+{"group":"_Blockout/Walls/W1_IntakeCathedral","name":"Wall_01","pos":[-1.188981,-1.67,74.0056],"rot":[0,89.99999,0],"scale":[1.537786,2.420029,1]},
+{"group":"_Blockout/Walls/W1_IntakeCathedral","name":"Wall_01","pos":[-4.550982,-1.67,77.5616],"rot":[0,1.001791E-05,0],"scale":[2,2.420029,1]},
+{"group":"_Blockout/Walls/W1_IntakeCathedral","name":"Wall_01","pos":[-11.44698,-1.67,77.5616],"rot":[0,1.001791E-05,0],"scale":[2,2.420029,1]},
+{"group":"_Blockout/Walls/W1_IntakeCathedral","name":"Wall_01","pos":[-15.99898,-1.67,74.3356],"rot":[0,270,0],"scale":[1.537786,2.420029,1]},
+{"group":"_Blockout/Walls/W1_IntakeCathedral","name":"Wall_01","pos":[-19.49898,-1.67,70.8356],"rot":[0,1.001791E-05,0],"scale":[1.537786,2.420029,1]},
+{"group":"_Blockout/Walls/W1_IntakeCathedral","name":"Wall_01","pos":[-22.99898,-1.67,59.7606],"rot":[0,270,0],"scale":[2,2.420029,1]},
+{"group":"_Blockout/Walls/W1_IntakeCathedral","name":"Wall_01","pos":[-19.49898,-1.67,54.8356],"rot":[0,180,0],"scale":[1.537786,2.420029,1]},
+{"group":"_Blockout/Walls/W1_IntakeCathedral","name":"Wall_01","pos":[-15.99898,-1.67,51.3356],"rot":[0,270,0],"scale":[1.537786,2.420029,1]},
+{"group":"_Blockout/Floors","name":"Floor_W1_IntakeCathedral","pos":[-7.998981,-1.67,62.8356],"scale":[2.88,1,2.88],"mat":"Stone_01_tiled_4,54_4,54"}]}
