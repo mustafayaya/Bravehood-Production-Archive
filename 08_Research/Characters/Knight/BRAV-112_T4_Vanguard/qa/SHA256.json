@@ -1,0 +1,10 @@
+{
+  "algorithm": "sha256",
+  "status": "approved concept research",
+  "files": {
+    "Knight_Vanguard_01_FrontA.png": "f14dc4ed1a8866fcc0d2822635066c90618e337e03be4f118b3a6628ef0bced7",
+    "Knight_Vanguard_02_BackA.png": "67e524297a6735680a8dd191c4201fdf6625a071deeb8998ae14b7e36f1a31f0",
+    "Knight_Vanguard_03_ThreeQuarter.png": "0e1ac28600ec1bc82402bab11b484b7637e2f4fed98554c44ef6a4d4f7f693ab",
+    "Knight_Vanguard_04_Helm.png": "ccfedca58921c85975dc641e0b586bcf9a9cbf3a1b59339122d6c07ce837fa07"
+  }
+}
