@@ -1,0 +1,9 @@
+{
+  "algorithm": "sha256",
+  "status": "research draft; not approved",
+  "files": {
+    "Knight_ManAtArms_01_FrontA.png": "7b79143b22a6623e1932b235a8e54599f23a19d285949fc3eb66b89495f6430d",
+    "Knight_ManAtArms_02_BackA.png": "46bf6d7ee2b5a0c4e7c7760a45bd8841e55a7e2077e67b2b7c56847b8bd4bdc4",
+    "Knight_ManAtArms_03_ThreeQuarter.png": "1d861ae318ef515bf73464089745e6d5f8deb7ccc9ea1d9a341754fc346ecb4c"
+  }
+}
