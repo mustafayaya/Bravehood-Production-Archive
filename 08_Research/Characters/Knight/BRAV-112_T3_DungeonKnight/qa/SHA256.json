@@ -1,0 +1,10 @@
+{
+  "algorithm": "sha256",
+  "status": "research; helmet approved, armour pending final approval",
+  "files": {
+    "Knight_DungeonKnight_01_FrontA.png": "1be59b9c8414b30ef886bc268d3bebfb7b50bb2238d34a5aac1057694e06a8f0",
+    "Knight_DungeonKnight_02_BackA.png": "999130521f4064fef8677f38766be32c567fbd6f06abe74a60daa26175387123",
+    "Knight_DungeonKnight_03_ThreeQuarter.png": "14b91c6392eb60c0a95d1e89a8174b80682a3556f46d8309a23a671d55b7f2a7",
+    "Knight_DungeonKnight_04_Helm.png": "db69133b59de438ab95465b37938d35cfa03503fc1a227090b47bbd19438edc6"
+  }
+}
