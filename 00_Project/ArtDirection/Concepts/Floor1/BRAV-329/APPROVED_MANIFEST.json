@@ -1,0 +1,119 @@
+[
+  {
+    "part": "RibVaultBay",
+    "file": "ApprovedDesigns/BRAV-329_RibVaultBay_45.png",
+    "source": "ReferenceDrafts/BRAV-329_RibVaultBay_45_DRAFT_v001.png",
+    "sha256": "DE6BC2A17D90F7AE88DFD8E5E1A4DFD9F61BA766B248DC9758529527D691A8C0",
+    "designApproval": "Approved by Mustafa in this chat, 2026-09-30",
+    "productionReady": false,
+    "remaining": "Resolution, greybox dimensions and mesh validation"
+  },
+  {
+    "part": "TimberTrussBay",
+    "file": "ApprovedDesigns/BRAV-329_TimberTrussBay_45.png",
+    "source": "ReferenceDrafts/BRAV-329_TimberTrussBay_45_DRAFT_v001.png",
+    "sha256": "08170B5AE470E0FE0650F0E5FA1FF0B1E158A9759C055441E81317B4760FB46A",
+    "designApproval": "Approved by Mustafa in this chat, 2026-09-30",
+    "productionReady": false,
+    "remaining": "Resolution, greybox dimensions and mesh validation"
+  },
+  {
+    "part": "BarrelVaultBay",
+    "file": "ApprovedDesigns/BRAV-329_BarrelVaultBay_45.png",
+    "source": "ReferenceDrafts/BRAV-329_BarrelVaultBay_45_DRAFT_v001.png",
+    "sha256": "AB07BBFAC28A7E59072BA86A2D75959949C7AFF78F31FEB9B13781DF420FD8AF",
+    "designApproval": "Approved by Mustafa in this chat, 2026-09-30",
+    "productionReady": false,
+    "remaining": "Resolution, greybox dimensions and mesh validation"
+  },
+  {
+    "part": "CofferedPanel",
+    "file": "ApprovedDesigns/BRAV-329_CofferedPanel_45.png",
+    "source": "ReferenceDrafts/BRAV-329_CofferedPanel_45_DRAFT_v001.png",
+    "sha256": "545964326F052ECEF8108B0BBFABD5DC313D92AC9B8BBA70B447CC342480C290",
+    "designApproval": "Approved by Mustafa in this chat, 2026-09-30",
+    "productionReady": false,
+    "remaining": "Resolution, greybox dimensions and mesh validation"
+  },
+  {
+    "part": "CofferedDome",
+    "file": "ApprovedDesigns/BRAV-329_CofferedDome_45.png",
+    "source": "ReferenceDrafts/BRAV-329_CofferedDome_OpenOculus_DRAFT_v003.png",
+    "sha256": "E5C78184C5131D0A1FBC08C57C7ECC981733AC53F369FCA8584ED316D69AC753",
+    "designApproval": "Approved by Mustafa in this chat, 2026-09-30",
+    "productionReady": false,
+    "remaining": "Resolution, greybox dimensions and mesh validation"
+  },
+  {
+    "part": "PointedDoorArch",
+    "file": "ApprovedDesigns/BRAV-329_PointedDoorArch_45.png",
+    "source": "ReferenceDrafts/BRAV-329_PointedDoorArch_45_DRAFT_v001.png",
+    "sha256": "79A464B8411F777F25DE7196DC3834A2CE5DBBB1F7B27593F60958DA7582D337",
+    "designApproval": "Approved by Mustafa in this chat, 2026-09-30",
+    "productionReady": false,
+    "remaining": "Resolution, greybox dimensions and mesh validation"
+  },
+  {
+    "part": "PointedArcadeBay",
+    "file": "ApprovedDesigns/BRAV-329_PointedArcadeBay_45.png",
+    "source": "ReferenceDrafts/BRAV-329_PointedArcadeBay_45_DRAFT_v001.png",
+    "sha256": "98A3DEF06A094EC8DE2A5CB38ECC00ADB75A09A854768AB47D9AE3C3E9867F57",
+    "designApproval": "Approved by Mustafa in this chat, 2026-09-30",
+    "productionReady": false,
+    "remaining": "Resolution, greybox dimensions and mesh validation"
+  },
+  {
+    "part": "RoundArcadeArch",
+    "file": "ApprovedDesigns/BRAV-329_RoundArcadeArch_45.png",
+    "source": "ReferenceDrafts/BRAV-329_RoundArcadeArch_45_DRAFT_v001.png",
+    "sha256": "7A94FC9FAF3C453BBD86E26B9F261A412C7EE605271DA75FC9447C798C5236C8",
+    "designApproval": "Approved by Mustafa in this chat, 2026-09-30",
+    "productionReady": false,
+    "remaining": "Resolution, greybox dimensions and mesh validation"
+  },
+  {
+    "part": "RenaissanceColumn",
+    "file": "ApprovedDesigns/BRAV-329_RenaissanceColumn_45.png",
+    "source": "ReferenceDrafts/BRAV-329_RenaissanceColumn_45_DRAFT_v002.png",
+    "sha256": "8AE1BACDDFB5E8FD5A4D26FC4BB6EB9AA029BD6C29266F5CEF6098574A492956",
+    "designApproval": "Approved by Mustafa in this chat, 2026-09-30",
+    "productionReady": false,
+    "remaining": "Resolution, greybox dimensions and mesh validation"
+  },
+  {
+    "part": "LancetWindow",
+    "file": "ApprovedDesigns/BRAV-329_LancetWindow_45.png",
+    "source": "ReferenceDrafts/BRAV-329_LancetWindow_45_DRAFT_v001.png",
+    "sha256": "507A6F6DCFF2709A7328878BF0BF45FF22A6CD24DDA1966C555644B1050CD9CA",
+    "designApproval": "Approved by Mustafa in this chat, 2026-09-30",
+    "productionReady": false,
+    "remaining": "Resolution, greybox dimensions and mesh validation"
+  },
+  {
+    "part": "BalustradeRun",
+    "file": "ApprovedDesigns/BRAV-329_BalustradeRun_45.png",
+    "source": "ReferenceDrafts/BRAV-329_BalustradeRun_45_DRAFT_v001.png",
+    "sha256": "158505674F4E44261E6696F1AC64A0CFB15AF8F79B2E9D20F1EEF9084E9DE7F9",
+    "designApproval": "Approved by Mustafa in this chat, 2026-09-30",
+    "productionReady": false,
+    "remaining": "Resolution, greybox dimensions and mesh validation"
+  },
+  {
+    "part": "BalustradeEndPost",
+    "file": "ApprovedDesigns/BRAV-329_BalustradeEndPost_45.png",
+    "source": "ReferenceDrafts/BRAV-329_BalustradeEndPost_45_DRAFT_v001.png",
+    "sha256": "1D692CB2327DFC2548E4F898518AF57203BE08CAD1A672FF658287D49620E442",
+    "designApproval": "Approved by Mustafa in this chat, 2026-09-30",
+    "productionReady": false,
+    "remaining": "Resolution, greybox dimensions and mesh validation"
+  },
+  {
+    "part": "GreatStair",
+    "file": "ApprovedDesigns/BRAV-329_GreatStair_45.png",
+    "source": "ReferenceDrafts/BRAV-329_GreatStair_45_DRAFT_v001.png",
+    "sha256": "F3B70A9A0A783CC000AC885A46F7058A54BA1B8FDF4C30551139F751ACE94D32",
+    "designApproval": "Approved by Mustafa in this chat, 2026-09-30",
+    "productionReady": false,
+    "remaining": "Resolution, greybox dimensions and mesh validation"
+  }
+]
