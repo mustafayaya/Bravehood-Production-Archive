@@ -1,0 +1,13 @@
+EDIT first attached image: Head Matron approval sheet. Second attached image is the APPROVED Head Matron v003 body/face, authoritative face design. Third attached image is actual Bravehood Knight facial STYLE anchor. Replace ONLY the noses and adjoining facial planes on EVERY Head Matron depiction in the sheet with the approved v003 LARGE WIDE SQUARE BLOCKY planar nose: wide straight rectangular bridge, broad squared flat front tip, distinct flat side planes and underside. Match her v003 stern female face and face colour. Update the Normal, Mend, Rage main figures and front/side/height/room miniatures consistently. Keep expressions appropriate to each existing state. Preserve all sheet layout, captions, clothing, headdress, keys, body shapes, poses, candleholders, right-hand candles, Mend turquoise effect, Knight, room architecture and colour. Exactly one warm candle in room inset, in her right hand. Never introduce a second room candle. No new objects. Native 2048 x 1536 requested; lower native draft size authorized, no upscaling.
+Renaissance plague hospital c. 1500, stylised low-poly game character in the style of the attached reference images,
+authored hand-placed planes, visibly faceted flat-shaded surfaces, hand-painted flat colour with broad value shapes,
+muted desaturated palette (forest green, oxblood, umber, charcoal, tarnished brass), stern face with a large square
+planar nose, angular jaw, thick brows, small eyes, hair as sculpted masses, heavy cloth with few broad folds,
+approval sheet, white background, flat even neutral light.
+Negative prompt:
+photorealistic, photo, realistic, hyperrealistic, PBR, physically based, cinematic, film still, concept art painting,
+subsurface skin, skin pores, stubble, individual hair strands, dirt overlay, grime, rust streaks, micro scratches,
+blood splatter, gore, wet shine, depth of field, bokeh, film grain, dramatic rim light, volumetric light, fog, smoke,
+glow, bloom, text, letters, logo, signage, watermark, frame, UI, modern clothing, electric lamp, light bulb, gas lamp,
+riveted steel plate, gears, pipes, gauge, rails, firearms, cropped, multiple characters, collage.
+Exceptions: preserve explicitly existing sheet captions, panel composition, figures, candle flames and Mend effect. The sheet is presentation only, never a Tripo input.

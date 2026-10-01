@@ -1,0 +1,23 @@
+BRAV-142 Head Matron — approved visual designs, 2026-10-01
+Reference workflow successor: BRAV-324. Model workflow: BRAV-328.
+
+Mustafa approved the complete BRAV-142 design package in this Codex chat.
+Current designs: body v003 (large square planar nose), candleholder v001,
+Normal/Mend/Rage state sheet v003. Built-in image_gen; attached Knight face
+and Gallery Halls style references. Images are copied byte-for-byte, never upscaled.
+
+ApprovedDesigns/HeadMatron_45_DESIGN_APPROVED_v003.png — 1254 x 1254
+ApprovedDesigns/HeadMatronCandle_45_DESIGN_APPROVED_v001.png — 1254 x 1254
+HeadMatron_ApprovalSheet_DESIGN_APPROVED_v003.png — 1448 x 1086
+
+Design approval is complete. These are NOT native 2048 px production inputs.
+Do not submit them to Tripo under the current ticket resolution requirement.
+The 3D_References production filenames are intentionally not populated.
+MANIFEST.json records all historical source filenames/hashes; selected delivery
+filenames are mapped to source hashes in DELIVERY_MANIFEST.json.
+
+Remaining: native-resolution production inputs or an explicit ticket-specific
+resolution exception; real regular Ward Matron comparison. Rig compatibility
+and model triangle budgets are downstream model checks, not completed here.
+Ward Matron source mesh requires the unavailable production-assets submodule.
+This package does not complete the other seven BRAV-324 references.
