@@ -1,0 +1,37 @@
+{
+  "ticket": "BRAV-329",
+  "part": "05 Coffered dome",
+  "revision": "v004",
+  "date": "2026-10-02",
+  "status": "pending_owner_approval",
+  "productionReady": false,
+  "geometry": {
+    "diameterM": 27.6,
+    "riseM": 6.9,
+    "shellM": 1.0,
+    "oculusDiameterM": 4.6,
+    "radialSectors": 12,
+    "cofferRows": 4
+  },
+  "existingApprovedView": "../Revision_v002/Tripo/BRAV-329_CofferedDome_45.png",
+  "images": [
+    {
+      "file": "BRAV-329_CofferedDome_Under45_v004.png",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "4d31c8994baf067a028f568c390da6bc0fcf44660a91cccedf75848b06f6d835"
+    },
+    {
+      "file": "BRAV-329_CofferedDome_UpAxis_v004.png",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "b2149fcbcb5f2f72a556f42a61c2f00799055992ec59642511781ea9cad7c09b"
+    },
+    {
+      "file": "BRAV-329_CofferedDome_Side_v004.png",
+      "width": 1774,
+      "height": 887,
+      "sha256": "a95de44712cffaf1ae68c129a3a3d0211f44ebc74890aaf6f3e2a3307d6d1bcf"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "ticket": "BRAV-329",
+  "part": "06 PointedDoorArch",
+  "version": "v003",
+  "date": "2026-10-01",
+  "reviewSource": "Jira comment10652",
+  "status": "Pending Mustafa approval",
+  "productionReady": false,
+  "file": "BRAV-329_PointedDoorArch_45_v003.png",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "6a026d6bfe90a1f9f92f9825a088b1dfdcc81fbfb423588fff98e6b043cedc7e",
+  "upscaled": false,
+  "resolutionPolicy": "Minimum resolution removed by Mustafa in comment10650;1254 accepted in10652",
+  "targetsMetres": {
+    "overall": [
+      6.2,
+      5.3,
+      1.0
+    ],
+    "clearOpening": [
+      4.6,
+      4.5
+    ],
+    "springing": 2.5
+  },
+  "geometryValidation": "Design reference only; exact dimensions and bearing interfaces require mesh validation",
+  "tool": "built-in image_gen",
+  "prompt": "Redraw BRAV-329 part 06 PointedDoorArch for Mustafa approval v003. Image 1 is the DECLINED design: keep its neutral grey faceted stone and broad doorway proportions, but correct the structure entirely. Image 2 is STYLE only, never copy its round arch or brass trim.\nMake ONE doorway frame with a clearly POINTED GOTHIC TWO-CENTRED OGIVE arch. Two curved arch halves meet at an unmistakable sharp central cusp, continuous mouldings follow the pointed profile. NO central keystone, no boss, no enlarged centre block. The inner opening silhouette is two straight vertical jambs topped by a sharp ogive, NOT semicircular, flattened, segmental, Tudor four-centred or triangular straight lintel.\nSeat BOTH arch feet fully ON TOP of the horizontal pier impost/capital bearing surfaces. Arch legs must continue up from the same vertical jamb line; no arch feet hanging off the inner or outer edge, no arch emerging from the side of the pier below its capital, no loose unsupported arch strips. Each pier is beneath its arch springer. The arch band is thick structural masonry. Short restrained capital on each broad square jamb pier, plain solid base. Remove tall tower-like projecting ornaments beside the crown.\nTarget overall width6.2m, height5.3m, depth1m; clear opening width4.6m, height4.5m. Opening vertical jamb to spring2.5m, pointed rise2m from spring to inner cusp4.5m; structural arch thickness rises to outer apex5.3m. Thus broad doorway, not tall narrow cathedral portal. Preserve opening size while making the central cusp pointed. No doorleaf.\nENVIRONMENT STYLE BLOCK:\nPointed Gothic stone doorway frame, overall6.2x5.3x1m and opening4.6x4.5m, neutral cool grey-blue stone, Renaissance plague hospital c. 1500,\na single isolated game asset in the style of the attached reference images, three-quarter view from 45 degrees,\ncamera slightly above, long lens, centred, the whole object visible with margin, pure white background, no shadow,\nflat even neutral studio lighting, unlit glass and lanterns, stylised low-poly game model, chiselled faceted planes,\nchamfered edges, muted low-saturation hand-painted colours, tarnished brass accents\nTask override: all stone and mouldings plain grey, NO brown/tan/brass/gold trim. Broad clean faceted planes, no microtexture. White background1254x1254; isolated complete object; front-right45degree long lens view camera slightly above; empty opening see-through white; no shadow.\nNEGATIVE:\nphotorealistic, photo, realistic, hyperrealistic, PBR, physically based, cinematic, film still, concept art painting,\nsubsurface skin, skin pores, stubble, individual hair strands, dirt overlay, grime, rust streaks, micro scratches,\nblood splatter, gore, wet shine, depth of field, bokeh, film grain, dramatic rim light, volumetric light, fog, smoke,\nglow, bloom, text, letters, logo, signage, watermark, frame, UI, modern clothing, electric lamp, light bulb, gas lamp,\nriveted steel plate, gears, pipes, gauge, rails, firearms, cropped, multiple characters, collage\nAdditional Avoid: text, letters, signage, logo, banner, person, hands, room, wall, floor, ground, cast shadow,\nfog, smoke, glow, bloom, light rays, coloured light, electric lamp, light bulb, rivets, steel plate, gears, pipes,\ngauge, rails, cropped, multiple objects, collage, wide angle, perspective distortion\nAlso avoid central keystone, shallow segmental arch, round arch, arch unsupported beside pier, two arcade bays, narrow doorway, room scene, captions, diagrams.\nTARGETED STRUCTURAL CORRECTION TO THE NEW INPUT: preserve the new clearly sharp pointed arch exactly, including its clean crown without a keystone. Remove the ENTIRE raised square neck and upper projecting cap above EACH existing lower capital. These decorative little towers beside the arch must disappear. There must be just ONE horizontal impost slab on each pier, at the arch springing height. Widen/centre the lower arch end over that slab so the full arch masonry foot sits flat ON TOP of the slab, fully supported by the solid pier directly beneath it. The pier shaft -> one impost slab -> arch foot is a continuous vertical load path. No portion of the arch slips down inside the pier beside the slab. Keep the doorway's overall width/height and broad opening, stone colour, camera and white background. Do not redesign anything else."
+}
