@@ -1,0 +1,7 @@
+PARTS PLAN — BRAV-144, v001, 2026-10-01
+1. Body: accepted v002 visual direction. Height and rig fit unverified; do not scale player rig. Preserve large square planar nose.
+2. Maul: approved visual design v001, proposed overall length 0.85 m. Final dimensions require grip/animation fitting.
+3. Hook: approved visual design v001, proposed overall length 0.55 m. No chain; final dimensions require grip/animation fitting.
+Approval sheet: visual design v001 approved. Scale comparison and morgue inset illustrative, not measured scene evidence. Hook grip/orientation on assembled sheet is presentation only; actual grip and handedness require rig validation.
+Body/props separate source images: native 1254 x 1254. Sheet: native 1448 x 1086. No upscaling. Not production-resolution Tripo inputs; no models generated.
+Pending: production resolution; actual room, clips, loot and Bleed verification; BRAV-348 model work.

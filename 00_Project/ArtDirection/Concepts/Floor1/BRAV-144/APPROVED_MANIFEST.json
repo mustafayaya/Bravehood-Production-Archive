@@ -1,0 +1,82 @@
+[
+  {
+    "file": "ApprovedDesigns/BRAV-144_Maul_45.png",
+    "source": "output/brav-144/MortuaryGrinderMaul_45_DRAFT_v001.png",
+    "sha256": "D03693FEEFF9E7D037A1F64F64EBD8FB204D1E743CA2812A52E1EF4421D8123B",
+    "bytes": 866135,
+    "status": "Approved visual design / supporting document",
+    "approvedDate": "2026-10-01"
+  },
+  {
+    "file": "PARTS_PLAN.txt",
+    "source": "output/brav-144/PARTS_PLAN.txt",
+    "sha256": "78C67984F04E8DF560878A2C5423D8147ACFF1DC71771FFDA42E71072BDD4382",
+    "bytes": 918,
+    "status": "Approved visual design / supporting document",
+    "approvedDate": "2026-10-01"
+  },
+  {
+    "file": "ApprovedDesigns/BRAV-144_Body_45.png",
+    "source": "output/brav-144/MortuaryGrinder_45_DRAFT_v002.png",
+    "sha256": "788DD25C782999018F83AB600AB662DC032201951DEE77D88A377797B4F83FB7",
+    "bytes": 1307241,
+    "status": "Approved visual design / supporting document",
+    "approvedDate": "2026-10-01"
+  },
+  {
+    "file": "BRAV-144_DesignReview_APPROVED_v001.png",
+    "source": "output/brav-144/MortuaryGrinder_ApprovalSheet_DRAFT_v001.png",
+    "sha256": "451BE4A58F36711979C33F7BA74A0CF6F51DB8836F3BA29D4B661B3BBD6B377C",
+    "bytes": 1529039,
+    "status": "Approved visual design / supporting document",
+    "approvedDate": "2026-10-01"
+  },
+  {
+    "file": "Prompts/prompt-Maul-v001.txt",
+    "source": "output/brav-144/prompt-Maul-v001.txt",
+    "sha256": "19C376215B2417CFC9434963491C9830A39058DEEB35AEED7268519035B4B55C",
+    "bytes": 1955,
+    "status": "Approved visual design / supporting document",
+    "approvedDate": "2026-10-01"
+  },
+  {
+    "file": "GAMEPLAY_DESIGN.txt",
+    "source": "output/brav-144/BRAV-144_Design_DRAFT_v001.txt",
+    "sha256": "AAB66AEDAEB32A1B120E5163CE688ED29FC308A9F8E26CE4AE695CA01D5BDEA3",
+    "bytes": 4320,
+    "status": "Approved visual design / supporting document",
+    "approvedDate": "2026-10-01"
+  },
+  {
+    "file": "Prompts/prompt-Hook-v001.txt",
+    "source": "output/brav-144/prompt-Hook-v001.txt",
+    "sha256": "F66019DE6ADF4B1B71160C95A2E1007B7673C89BB6F7FA6F3BF5B3A3A6C3B397",
+    "bytes": 1929,
+    "status": "Approved visual design / supporting document",
+    "approvedDate": "2026-10-01"
+  },
+  {
+    "file": "ApprovedDesigns/BRAV-144_Hook_45.png",
+    "source": "output/brav-144/MortuaryGrinderHook_45_DRAFT_v001.png",
+    "sha256": "54076F84FEFDC9E173715F797F1540E22A09CF8D7198878D294C9E6941F001B0",
+    "bytes": 966422,
+    "status": "Approved visual design / supporting document",
+    "approvedDate": "2026-10-01"
+  },
+  {
+    "file": "Prompts/prompt-ApprovalSheet-v001.txt",
+    "source": "output/brav-144/prompt-ApprovalSheet-v001.txt",
+    "sha256": "E2D088528A86C079EA2FA348CCF2377508F0169483EFF2823CCC9132CB42BED8",
+    "bytes": 2292,
+    "status": "Approved visual design / supporting document",
+    "approvedDate": "2026-10-01"
+  },
+  {
+    "file": "Prompts/prompt-Body-v002.txt",
+    "source": "output/brav-144/prompt-MortuaryGrinder-v002.txt",
+    "sha256": "19C64E91D41A91ACD07020E54DA6B999C1C025BC54E5F08BF89C0A5360A4FAED",
+    "bytes": 2011,
+    "status": "Approved visual design / supporting document",
+    "approvedDate": "2026-10-01"
+  }
+]
