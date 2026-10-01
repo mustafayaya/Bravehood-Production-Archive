@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="1000" viewBox="0 0 1100 1000">
+<rect width="1100" height="1000" fill="#faf8f3"/>
+<g font-family="Arial, sans-serif" fill="#303932">
+<text x="60" y="55" font-size="28" font-weight="bold">BRAV-201 — Oran hedefleri / 2D ölçü rehberi</text>
+<text x="60" y="90" font-size="18">Şematik hedef; paftadan ölçülmüş anatomi veya rig değildir.</text>
+<rect x="95" y="160" width="170" height="760" fill="#e2e8dc" stroke="#4b5d45" stroke-width="2"/>
+<line x1="80" y1="160" x2="280" y2="160" stroke="#4b5d45" stroke-width="2"/><text x="300" y="166" font-size="19">0 baş — tepeden 0,0000 m</text>
+<line x1="80" y1="320" x2="280" y2="320" stroke="#4b5d45" stroke-width="2"/><text x="300" y="326" font-size="19">1 baş — tepeden 0,3053 m</text>
+<line x1="80" y1="480" x2="280" y2="480" stroke="#4b5d45" stroke-width="2"/><text x="300" y="486" font-size="19">2 baş — tepeden 0,6105 m</text>
+<line x1="80" y1="640" x2="280" y2="640" stroke="#4b5d45" stroke-width="2"/><text x="300" y="646" font-size="19">3 baş — tepeden 0,9158 m</text>
+<line x1="80" y1="800" x2="280" y2="800" stroke="#4b5d45" stroke-width="2"/><text x="300" y="806" font-size="19">4 baş — tepeden 1,2211 m</text>
+<line x1="80" y1="920" x2="280" y2="920" stroke="#4b5d45" stroke-width="2"/><text x="300" y="926" font-size="19">4,75 baş — tepeden 1,4500 m</text>
+<rect x="95" y="160" width="170" height="160" fill="#ca794c" fill-opacity=".32"/>
+<text x="108" y="235" font-size="21">1 anatomik baş</text>
+<text x="108" y="265" font-size="17">0,3053 m</text>
+<text x="600" y="195" font-size="25" font-weight="bold">Boy: 1,4500 m</text>
+<text x="600" y="235" font-size="25" font-weight="bold">Oran: 4,75 baş</text>
+<text x="600" y="275" font-size="20">Baş / boy = %21,0526</text>
+<text x="600" y="335" font-size="18">Baş ölçüsü: kafatası tepesi → çene.</text>
+<text x="600" y="365" font-size="18">Saç yüksekliği ve sakal dahil edilmez.</text>
+<text x="600" y="430" font-size="20" font-weight="bold">Poz hedefi</text>
+<text x="600" y="465" font-size="18">Kollar: gövdeden yaklaşık 30°.</text>
+<text x="600" y="495" font-size="18">Dirsekler düz; eller rahat, avuçlar içe.</text>
+<text x="600" y="525" font-size="18">Başparmak + dört parmak okunmalı.</text>
+<text x="600" y="590" font-size="20" font-weight="bold">Görünüm eşleşmesi</text>
+<text x="600" y="625" font-size="18">Tepe, taban, omuz, dirsek ve diz hizası.</text>
+<text x="600" y="655" font-size="18">Kol ağzı, tunik eteği ve bot ağzı aynı.</text>
+<text x="600" y="720" font-size="18">Omuz / diz / bel için yeni sayısal ölçü</text>
+<text x="600" y="750" font-size="18">tanımlanmadı; Knight ölçüleri taşınmadı.</text>
+<text x="60" y="975" font-size="16">2026-10-01 • Sayısal oran hedefi kesindir; çizimin birebir doğrulandığı anlamına gelmez.</text>
+</g></svg>

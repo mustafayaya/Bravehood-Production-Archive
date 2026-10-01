@@ -1,0 +1,10 @@
+{
+  "height_m": 1.45,
+  "anatomical_heads": 4.75,
+  "head_unit_m": 0.30526315789473685,
+  "head_to_height_ratio": 0.21052631578947367,
+  "head_measurement": "skull crown to anatomical chin; exclude hair and beard",
+  "pose_target_arm_from_vertical_deg": 30,
+  "status": "design targets; raster anatomical measurements unverified",
+  "scope": "2D only; no 3D generation or rigging"
+}

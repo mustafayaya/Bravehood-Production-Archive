@@ -1,0 +1,35 @@
+BRAV-201 — ONAYLANAN GÖVDE TASARIMI / 2D TESLİM
+2026-10-01 | Teslim paketi v004; görsel sürümü v001
+
+ANA GÖRSEL
+BRAV-201_BodyReference_v001.png ilk onaylanan ön / yan / arka gövde paftasıdır. Kullanıcı sonraki revizyonlar yerine ilk tasarımı tercih etti ve bu yönle devam edilmesini onayladı. Bu dosya orijinal v001'in değiştirilmemiş kopyasıdır. Görsel üzerinde oran, yüz, kıyafet veya poz değişikliği yapılmadı.
+v002 ve v003 güncel teslim görselleri değildir; bu pakete dahil edilmedi. Önceki dosyalar yalnızca çalışma geçmişi olarak korunur. Tripo görseli de güncel teslimin parçası değildir.
+
+KAPSAM
+Yalnızca 2D tasarım teslimi, ölçü hedefleri ve gelecekte kullanılabilecek modelleme notları. Kullanıcı 3D üretimini kapsam dışında bıraktı. Model, rig, Tripo üretimi, Unity düzenlemesi ve runtime QA yapılmadı. BRAV-201'in asıl gövde + rig kabulü tamamlanmış sayılmaz.
+
+PAKET
+BRAV-201_BodyReference_v001.png — onaylanan ana pafta.
+BRAV-201_ProportionTargets.svg — ayrı sayısal ölçü hedefi şeması.
+BRAV-201_Measurements.json — ölçü hedefleri ve tanımları.
+prompt-v001.txt — ana paftanın yerleşik Imagegen üretim metni.
+manifest.json — dosya SHA256 değerleri.
+
+ÖLÇÜ HEDEFLERİ — TASARIMI DEĞİŞTİRMEZ
+Boy: 1,45 m, anatomik kafatası tepesinden tabana.
+Boy / anatomik baş uzunluğu: 4,75.
+Bir anatomik baş: 0,305263 m; boyun %21,052632'si.
+Baş uzunluğu kafatası tepesi ile anatomik çene arasındadır; saç ve sakal bu ölçüye dahil edilmez.
+Bu sayılar proje hedefidir, görselden alınmış ölçüm değildir. Sakal çeneyi gizlediği için v001'in 4,75 oranını birebir sağladığı doğrulanmış değildir. Kullanıcının görsel tercihi korunmuştur; şema paftayı yeniden şekillendirme talimatı değildir.
+
+TUTARLILIK VE MODELLEME NOTLARI
+Kimlik: kısa ve çok geniş insan veteran; köşeli sert yüz, büyük burun, kızıl saç ve bloklu sakal. Cüce ırkı ikonografisi, boynuz veya sivri kulak eklenmez.
+Kıyafet: sade toprak yeşili kısa kollu tunik, kahverengi pantolon ve alçak deri botlar. Zırh, kürk, kemer ve yeni aksesuar eklenmez.
+Ön V yaka / ön etek yarığı ile arka sade yaka / arka kapalı etek arasındaki yön farkı korunur. Kol ağızları, tunik etek yüksekliği, pantolon kütlesi ve bot ağızları görünümler arasında karşılaştırılarak tek tasarım olarak yorumlanır.
+Eller boş ve rahat tutulur; gelecekte el yapısı çözümlenirken başparmak ve dört parmak okunmalıdır. v003 el detayı artık seçili tasarım referansı değildir.
+Poz hedefi gövdeden yaklaşık 30° açılan kollar, düz dirsekler ve içe bakan avuçlardır; v001'de poz yaklaşık verilmiştir. Yan görünümde elin bacak siluetiyle örtüşmesi ayrı kol tasarımı veya farklı uzunluk olarak yorumlanmaz.
+Görünümler tek modelin kesin izdüşümleri değildir. Eklem yeri, tam poz açısı veya görünüm farkları gelecekteki teknik çalışmada ölçülür; bu aşamada yeni eklem sayıları icat edilmez.
+Gelecekte gerekirse kafa / torso-kollar-eller / bacaklar-botlar ayrımı gerçek model ve güncel rig üzerinde kararlaştırılır. Knight ölçüleri Barbarian'a doğrudan taşınmaz.
+
+SON DURUM
+Onaylanan v001 ana görsel olarak geri seçildi ve aynen korundu. Ölçü rehberi ile modelleme notları ayrı teslim edildi. Güncel kullanıcı kapsamındaki 2D paket hazır; ölçülmüş anatomi, 3D veya rig doğrulaması iddia edilmez.
