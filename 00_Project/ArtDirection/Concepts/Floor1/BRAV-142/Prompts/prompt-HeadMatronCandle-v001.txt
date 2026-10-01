@@ -1,0 +1,17 @@
+Native 2048 x 2048 requested, lower native resolution authorized for design draft. Never upscale.
+A brass hand candleholder with a finger ring and a thick half-burnt wax candle, unlit, simple shallow octagonal drip tray and thick socket, approximately 0.12 x 0.12 x 0.35 m overall; chunky finger ring sized to a human finger, joined to one side of the tray, ivory beeswax with a short black unlit wick. One complete portable candleholder asset with inserted candle. Hand-forged tarnished brass, wax.
+Renaissance plague hospital c. 1500,
+a single isolated game asset in the style of the attached reference images, three-quarter view from 45 degrees,
+camera slightly above, long lens, centred, the whole object visible with margin, pure white background, no shadow,
+flat even neutral studio lighting, unlit glass and lanterns, stylised low-poly game model, chiselled faceted planes,
+chamfered edges, muted low-saturation hand-painted colours, tarnished brass accents.
+Use the attached environment board as STYLE ONLY; do not copy its objects. Broad solid planes, matte painted ochre brass, no metallic reflections. No ornamentation, writing or heraldry. 10 percent margin.
+Negative prompt:
+photorealistic, photo, realistic, hyperrealistic, PBR, physically based, cinematic, film still, concept art painting,
+subsurface skin, skin pores, stubble, individual hair strands, dirt overlay, grime, rust streaks, micro scratches,
+blood splatter, gore, wet shine, depth of field, bokeh, film grain, dramatic rim light, volumetric light, fog, smoke,
+glow, bloom, text, letters, logo, signage, watermark, frame, UI, modern clothing, electric lamp, light bulb, gas lamp,
+riveted steel plate, gears, pipes, gauge, rails, firearms, cropped, multiple characters, collage.
+Avoid text, letters, signage, logo, banner, person, hands, room, wall, floor, ground, cast shadow,
+fog, smoke, glow, bloom, light rays, coloured light, electric lamp, light bulb, rivets, steel plate, gears, pipes,
+gauge, rails, cropped, multiple objects, collage, wide angle, perspective distortion.

@@ -1,0 +1,30 @@
+BRAV-142 / BRAV-324 — Head Matron parts plan, 2026-10-01
+
+01 HeadMatron — body, habitual clothing, headdress, apron, belt, keys, chest emblem.
+Target total height: approximately 2.0 m (BRAV-324). Width/depth not specified:
+do not treat the generated image as measured dimensions.
+Reference: HeadMatron_45_DRAFT_v003.png; body and square-nose design approved in chat.
+Humanoid enemy pipeline; compatibility with Ward Matron clips remains untested.
+Model target 15k–20k triangles (BRAV-328).
+Keys drawn chunky; thin key-ring geometry may require Blender cleanup.
+
+02 HeadMatronCandle — brass hand candleholder with finger ring and inserted
+half-burnt beeswax candle. Overall target 0.12 x 0.12 x 0.35 m (BRAV-324).
+Reference: HeadMatronCandle_45_DRAFT_v001.png; separately re-approved by Mustafa, 2026-10-01.
+Prop target 1k–4k triangles (BRAV-328). Attachment: right hand.
+Unlit reference; flame/light supplied in game, not baked into texture.
+
+Assembly/state presentation: HeadMatron_ApprovalSheet_DRAFT_v003.png.
+v003 updates noses to the approved body; sheet approved by Mustafa, 2026-10-01.
+v002 sheet approval was withdrawn by Mustafa, 2026-10-01.
+Sheet is not Tripo input. Front/side/back miniatures are design illustrations,
+not orthographic blueprints. Height comparison is illustrative, not calibrated.
+Real regular Ward Matron comparison pending a source render.
+v001 room inset mistakenly added warm candles to the beds. v002 removes them,
+reserving the last human light for the single candle in the Matron's hand.
+v002 adjusts scale comparison; it remains illustrative, not calibrated.
+
+Production names on BRAV-324: HeadMatron.png and HeadMatronCandle.png.
+Do not promote drafts to those names until production checks and approval.
+No native 2048 px image has been produced. Continue at native draft size
+authorized by Mustafa; no upscaling performed.

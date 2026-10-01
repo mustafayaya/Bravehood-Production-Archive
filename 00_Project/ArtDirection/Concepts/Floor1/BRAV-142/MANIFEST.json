@@ -1,0 +1,51 @@
+[
+  {
+    "name": "HeadMatron_45_DRAFT_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "055FED4E073142EBAF74576C6352E932E4A872007C85BE4DE580BE5409E6E494",
+    "approval": "historical draft; superseded"
+  },
+  {
+    "name": "HeadMatron_45_DRAFT_v002.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "BD474B8E113FF64B59C8297552640CDE48F1642CF0509410AB25C05D5DFEB993",
+    "approval": "historical approved body design; superseded by approved v003 face revision"
+  },
+  {
+    "name": "HeadMatron_ApprovalSheet_DRAFT_v001.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "8E1EB280E10973ED6996B23732C5961588E74C070C0D26D75A6DE8AA47390976",
+    "approval": "historical draft; superseded"
+  },
+  {
+    "name": "HeadMatronCandle_45_DRAFT_v001.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "D3FF60E5A1BB709A89F782B842CF3A8E5AEC575898C9F632AE1FDA788A50D24A",
+    "approval": "candleholder visual design re-approved by Mustafa, 2026-10-01"
+  },
+  {
+    "name": "HeadMatron_ApprovalSheet_DRAFT_v002.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "5F2ED915208756EF7FA84250EFE23BB5BA633D0AFE1333AD2F22C768CE44A4A7",
+    "approval": "UNAPPROVED; latest approval withdrawn by Mustafa, 2026-10-01"
+  },
+  {
+    "name": "HeadMatron_45_DRAFT_v003.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "47D6F5FBF8BA51670F08EFB6BA5DE9E3BB5AD0F18A8C856C4F0B310F9BDD195B",
+    "approval": "body and square-nose visual design approved by Mustafa, 2026-10-01"
+  },
+  {
+    "name": "HeadMatron_ApprovalSheet_DRAFT_v003.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "9EB8472079FB8DFE11A9E70719E8BB9388B497D9F3605BF77B3C420AD64CCF36",
+    "approval": "state-sheet visual design approved by Mustafa, 2026-10-01"
+  }
+]

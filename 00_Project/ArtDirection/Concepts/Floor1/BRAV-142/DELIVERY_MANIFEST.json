@@ -1,0 +1,20 @@
+[
+  {
+    "path": "HeadMatron_ApprovalSheet_DESIGN_APPROVED_v003.png",
+    "sha256": "9EB8472079FB8DFE11A9E70719E8BB9388B497D9F3605BF77B3C420AD64CCF36",
+    "status": "visual design approved; production resolution pending",
+    "approvedDate": "2026-10-01"
+  },
+  {
+    "path": "ApprovedDesigns/HeadMatron_45_DESIGN_APPROVED_v003.png",
+    "sha256": "47D6F5FBF8BA51670F08EFB6BA5DE9E3BB5AD0F18A8C856C4F0B310F9BDD195B",
+    "status": "visual design approved; production resolution pending",
+    "approvedDate": "2026-10-01"
+  },
+  {
+    "path": "ApprovedDesigns/HeadMatronCandle_45_DESIGN_APPROVED_v001.png",
+    "sha256": "D3FF60E5A1BB709A89F782B842CF3A8E5AEC575898C9F632AE1FDA788A50D24A",
+    "status": "visual design approved; production resolution pending",
+    "approvedDate": "2026-10-01"
+  }
+]

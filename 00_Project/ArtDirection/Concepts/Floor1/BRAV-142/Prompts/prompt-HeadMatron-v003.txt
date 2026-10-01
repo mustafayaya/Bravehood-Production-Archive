@@ -1,0 +1,12 @@
+Edit the FIRST attached image (Head Matron full-body v002). SECOND attached image is the actual Bravehood Knight FACE STYLE reference only. Correct her NOSE to the Bravehood house face: noticeably LARGE, WIDE, SQUARE, BLOCKY planar nose; strong broad straight rectangular bridge, a broad squared-off flat trapezoid front tip, distinct flat side planes and flat underside, sharply cut corners. Enlarge width and projection visibly so it reads even at full-body game distance. No pointed triangular tip, no narrow delicate nose, no hooked nose, no round bulb or realistic nostril sculpting. Match the reference's authored low-poly facial construction with a few large intentional planes and flat painted colour. Keep her female stern expression, thick brows, small eyes, angular jaw. Change ONLY the nose and directly adjoining face planes needed to join it naturally. Preserve her exact tall headpiece, veil, face identity, body shape, A-pose, hands, robe, apron, belt, keys, emblem, shoes, whole-body framing, camera, pure white background and flat lighting. Do not add Knight helmet, armour or beard. Native 2048 square requested; existing lower native draft resolution authorized, never upscale.
+Renaissance plague hospital c. 1500, stylised low-poly game character in the style of the attached reference images,
+authored hand-placed planes, visibly faceted flat-shaded surfaces, hand-painted flat colour with broad value shapes,
+muted desaturated palette (forest green, oxblood, umber, charcoal, tarnished brass), stern face with a large square
+planar nose, angular jaw, thick brows, small eyes, hair as sculpted masses, heavy cloth with few broad folds,
+single 45-degree three-quarter full-body view in A-pose, pure white background, flat even neutral light.
+Negative prompt:
+photorealistic, photo, realistic, hyperrealistic, PBR, physically based, cinematic, film still, concept art painting,
+subsurface skin, skin pores, stubble, individual hair strands, dirt overlay, grime, rust streaks, micro scratches,
+blood splatter, gore, wet shine, depth of field, bokeh, film grain, dramatic rim light, volumetric light, fog, smoke,
+glow, bloom, text, letters, logo, signage, watermark, frame, UI, modern clothing, electric lamp, light bulb, gas lamp,
+riveted steel plate, gears, pipes, gauge, rails, firearms, cropped, multiple characters, collage.

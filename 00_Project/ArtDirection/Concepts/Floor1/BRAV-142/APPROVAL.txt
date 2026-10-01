@@ -1,0 +1,17 @@
+Head Matron current visual design status — Mustafa, 2026-10-01
+
+Current approved body/face: HeadMatron_45_DRAFT_v003.png
+Earlier body v002 is approval history, superseded by v003.
+Current approved state sheet: HeadMatron_ApprovalSheet_DRAFT_v003.png — approved by Mustafa, 2026-10-01.
+Current approved candleholder: HeadMatronCandle_45_DRAFT_v001.png — re-approved by Mustafa, 2026-10-01.
+UNAPPROVED state sheet: HeadMatron_ApprovalSheet_DRAFT_v002.png
+Earlier withdrawal is superseded for candleholder v001 by Mustafa's separate re-approval.
+Old state sheet v002 remains unapproved; use approved v003 for current state design.
+
+Exact file hashes and native sizes: MANIFEST.json.
+Keep versioned source filenames to preserve provenance; DRAFT in source names
+does not override the explicit visual design approvals recorded here.
+Earlier body v001 and sheet v001 are historical versions, not current references.
+
+Current body-v003 approval is recorded. Native 2048 px production references,
+measured scale/Ward Matron comparison, rig compatibility and models remain pending.
