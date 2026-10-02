@@ -1,0 +1,26 @@
+[
+  {
+    "file": "ApprovedDesigns/BRAV-144_MortuaryGrinder_v002_45.png",
+    "source": "Artifacts/ConceptArt/BRAV-144/BRAV-144_MortuaryGrinder_v002_45.png",
+    "sha256": "38CB1ABC3A505C37B569CAE9EA84B534C67721B744AA062025F7D0CA1DA13431",
+    "bytes": 1243911,
+    "status": "Approved Bravehood-style visual design",
+    "approvedDate": "2026-10-02"
+  },
+  {
+    "file": "BRAV-144_DesignSheet_v002.md",
+    "source": "Artifacts/ConceptArt/BRAV-144/BRAV-144_DesignSheet_v002.md",
+    "sha256": "9C35478721311CAF24AA9BA9749342AAC8ABF2168447941EB580CA1C74E03FA0",
+    "bytes": 3315,
+    "status": "Approved design and proposed sizing sheet",
+    "approvedDate": "2026-10-02"
+  },
+  {
+    "file": "BRAV-144_ScaleDiagram_v002.svg",
+    "source": "Artifacts/ConceptArt/BRAV-144/BRAV-144_ScaleDiagram_v002.svg",
+    "sha256": "8D2622A2AE4B792C5B36C34C7100DFAEE6F370C4EAC7FCE33536684AAF371B68",
+    "bytes": 1329,
+    "status": "Approved supporting scale diagram",
+    "approvedDate": "2026-10-02"
+  }
+]
