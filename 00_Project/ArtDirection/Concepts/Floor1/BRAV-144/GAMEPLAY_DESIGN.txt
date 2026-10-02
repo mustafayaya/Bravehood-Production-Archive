@@ -1,17 +1,17 @@
 BRAV-144 — Mortuary Grinder / Morgue mini-boss
-Tasarım taslağı v001 • 2026-10-01 • Mustafa onayı bekliyor
+Tasarım v002 • 2026-10-02 • görsel yön Mustafa tarafından onaylandı; sayılar hâlâ öneri
 
 ROL VE DERS
 İsteğe bağlı yakın dövüş elit karşılaşması. Oyuncuya “bir vuruş daha” açgözlülüğü ile güvenli geri çekilme arasındaki seçimi öğretir. Ana rota, Veil shard ilerlemesi ve çıkış erişimi bu düşmanı öldürmeye bağlı değildir. Ward Matron destek düşmanı olarak kalır.
 
 KİMLİK VE SİLUET
-Rönesans veba hastanesinin eski morg görevlisi; insan yüz ailesini koruyan, geniş omuzlu ve ağır yapılı bir figür. Siluet: bir elde kısa saplı ağır morg tokmağı, diğerinde kısa el kancası. Kalın kumaş iş giysisi, sade deri önlük, kömür/umber tonları. Büyük kare düzlemsel burun, köşeli çene, küçük gözler; Knight ile aynı el yapımı yüzey düzlemleri. Veil etkisi yalnızca sınırlı, düzenli kristal yüzeyler; kan, gerçekçi kir ve endüstriyel makine yok. Boy ve gövde oranı görsel tasarımda ayrıca onaylanacak.
+Rönesans veba hastanesinin eski morg taşıyıcısı; insan yüz ailesini koruyan, 2.12 m boyunda, geniş ve asimetrik omuzlu ağır bir figür. Siluet: gövdeyi çaprazlayan tek bir 2.05 m iki-elli sedye/morg kancası; v001 tokmak ve ayrı kısa kanca reddedildi. Oxblood ağır yün iş giysisi, boyasız keten, kısa kefen mantosu ve seyrek demir ateller. Büyük kare düzlemsel burun, köşeli çene, küçük gözler; Knight ile aynı el yapımı yüzey düzlemleri. Kan, gerçekçi kir, deri önlük, Veil kristali ve endüstriyel makine yok. Görsel kaynak: BRAV-144_DesignSheet_v002.md.
 
 ODA VE KAÇIŞ
 Morgue/charnel bölümündeki yan oda adayı; gerçek greybox oda seçimi henüz doğrulanmadı. En az iki açık yaklaşım/geri çekilme hattı korunur. Kapılar kilitlenmez, koridorlara düşman veya dekor eklenmez. Düşman oda sınırını aşarak çıkış yolunu kovalamaz. Oyuncu odadan çıktığında yeni saldırı başlatmaz; başlamış saldırı hedef takibini sürdürmez. Görüş kesildiğinde hook duvarın içinden vuramaz. Sıfırlanma ve tekrar aggro davranışı uygulamada ayrıca test edilir.
 
 SALDIRILAR — İLK OYUN TESTİ İÇİN ÖNERİ, ONAYLANMIŞ SAYILAR DEĞİL
-1. Ağır yatay tokmak: 0.90 s hazırlık + 0.15 s aktif + 0.75 s toparlanma = 1.80 s. Menzil 2.6 m. 20 hasar / 25 poise önerisi. Göğüs hizası; mesafe veya roll ile aşılır.
+1. Ağır yatay kanca savuruşu: 0.90 s hazırlık + 0.15 s aktif + 0.75 s toparlanma = 1.80 s. Menzil 2.6 m. 20 hasar / 25 poise önerisi. Göğüs hizası; mesafe veya roll ile aşılır.
 2. Yere indirme: 1.35 s hazırlık + 0.15 s aktif + 1.00 s toparlanma = 2.50 s. Menzil 2.8 m. 30 hasar / 50 poise önerisi. Dar ön darbe alanı; yana kaçış, kaçırdığında açık ceza penceresi. Shockwave yok.
 3. Kanca çekişi: 1.20 s hazırlık + 0.15 s aktif + 0.95 s toparlanma = 2.30 s. Menzil 3.5 m, önerilen cooldown 7 s. 10 hasar / 20 poise ve en fazla 1.2 m çekiş önerisi. Dar, açıkça işaret edilen öne uzanış; duvar arkası ve yan hedeflere vurmaz. Yakalama animasyonu, stun kilidi veya otomatik takip darbesi yok. Çekişten sonra tam toparlanma korunur.
 
@@ -24,7 +24,7 @@ Bleed yalnızca kancanın başarılı vuruşunda; mevcut Bleed tanımı kullanı
 Tek isteğe bağlı elite loot çekilişi; mevcut loot tablosu ve rarity kuralları kullanılır. Yeni para birimi, anahtar veya zorunlu ilerleme ödülü eklenmez. Kesin tablo ve dağılım loot verisi incelendikten sonra belirlenir. Uzayan dövüşün sesi rakip oyuncular için doğal risk oluşturur.
 
 SONRAKİ KAPI
-Mustafa önce rol, morg kimliği, üç saldırı, kaçış ve ödül yaklaşımını onaylar veya düzeltir. Sonra Knight stil referanslarıyla görsel taslak hazırlanır; gövde, tokmak ve kanca ayrı parçalardır. Görseller native en az 2048 px olmalı; daha küçük çıktı için ticket özelinde karar gerekir. BRAV-348 modelleme bu tasarımın ve görsel referansların onayından sonra başlar.
+Mustafa 2026-10-02'de Bravehood tarzı v002 görsel yönünü ve tek iki-elli kanca siluetini onayladı. Sonraki kapı BRAV-348 modellemesidir: gövde ve kanca ayrı parçalar olarak üretilir; final rig/grip fit, capsule ve Floor 2 arena ölçüleri model işinde doğrulanır. Native 1145 x 1374 onay görseli büyütülmeden kullanılabilir.
 
 KAYNAKLAR
 Jira BRAV-144 canlı açıklaması ve yorumları (2026-10-01), AI/ENEMIES.md §6 ve roster constraints, AI/ART_DIRECTION.md, AI/TRIPO_REFERENCE_GENERATION.md. enemyagent/reference/new-enemy-checklist.md bu checkout içinde bulunamadı; checklist ve gerçek oyun assetleriyle doğrulama bekliyor. Bu belge bir öneridir, kanon veya uygulama teslimi değildir.

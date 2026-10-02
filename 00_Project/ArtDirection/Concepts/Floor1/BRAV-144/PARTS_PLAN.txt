@@ -1,7 +1,14 @@
-PARTS PLAN — BRAV-144, v001, 2026-10-01
-1. Body: accepted v002 visual direction. Height and rig fit unverified; do not scale player rig. Preserve large square planar nose.
-2. Maul: approved visual design v001, proposed overall length 0.85 m. Final dimensions require grip/animation fitting.
-3. Hook: approved visual design v001, proposed overall length 0.55 m. No chain; final dimensions require grip/animation fitting.
-Approval sheet: visual design v001 approved. Scale comparison and morgue inset illustrative, not measured scene evidence. Hook grip/orientation on assembled sheet is presentation only; actual grip and handedness require rig validation.
-Body/props separate source images: native 1254 x 1254. Sheet: native 1448 x 1086. No upscaling. Mustafa waived the 2048 px input requirement for BRAV-144 on 2026-10-01; existing native references accepted without upscaling. No models generated.
-Pending: actual room, clips, loot and Bleed verification; BRAV-348 model work.
+PARTS PLAN — BRAV-144, v002, 2026-10-02
+
+1. Body: approved v002 visual direction. Former mortuary bearer, 2.12 m visual height, 6.0 heads,
+   0.88 m shoulder width. Bravehood human face family and authored irregular planes are mandatory.
+2. Bier hook: one approved two-handed tool integrated into the body reference. Proposed 2.05 m
+   overall length, 0.46 x 0.12 x 0.38 m head and 0.62 m grip spacing. It replaces both the v001
+   maul and the separate short hook.
+3. Clothing/armour: oxblood wool coat, undyed linen coif and sleeves, short shroud mantle, one
+   mismatched iron shoulder splint and broad forearm bands. No leather apron.
+
+The v001 photoreal body, maul, hook and review sheet are rejected and retained only under
+RejectedDesigns_v001. Do not send them to Tripo.
+
+Pending: final rig fit, grip/animation fit, capsule, Floor 2 arena, loot and Bleed verification.

@@ -2,7 +2,7 @@
 
 Production documents, item inventories, concept images and review captures. Initial import: 2026-09-08 from the local Bravehood Unity working tree.
 
-- [Master index](MASTER_INDEX.csv): 464 entries with original project-relative source paths, byte counts and SHA-256 checksums.
+- [Master index](MASTER_INDEX.csv): 480 entries with original project-relative source paths, byte counts and SHA-256 checksums.
 - [Master item list](02_Weapons_Equipment/MASTER_ITEM_LIST.csv): 14 items exported from Unity ItemDefinition assets. Category names come from ItemCategory. Zero values and empty descriptions are retained. Payload fields preserve Unity references; the CSV does not resolve combat stats.
 
 The numbered folders follow the production archive structure. Knight concepts have their own character folder because the source does not identify them as Mage, Barbarian or Assassin. Empty folders are reserved with .gitkeep. No material has been assigned an Approved status during import.

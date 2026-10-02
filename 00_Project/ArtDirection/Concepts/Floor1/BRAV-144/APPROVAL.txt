@@ -1,3 +1,15 @@
-APPROVAL — 2026-10-01
-Mustafa approved the body v002 direction with "devam" after the square nose edit. After separate maul v001, hook v001 and review sheet v001 were displayed, Mustafa said "süper devam", accepting the visual design set and requesting continuation.
-Visual design approval only. Sources copied byte for byte; no upscaling. Body/maul/hook native 1254 x 1254, sheet 1448 x 1086. Mustafa explicitly waived the 2048 px requirement for BRAV-144 on 2026-10-01 ("2048 gerekli değil"). Existing native-resolution references are accepted without upscaling. No mesh, rig, animation, room or gameplay-number validation. BRAV-348 model generation pending.
+APPROVAL — 2026-10-02
+
+Mustafa rejected the prior photoreal Mortuary Grinder set and approved
+ApprovedDesigns/BRAV-144_MortuaryGrinder_v002_45.png as BRAV-144: "ok approve this one as brav 144. and push."
+
+This approval covers the Bravehood-style visual direction and the proportions recorded in
+BRAV-144_DesignSheet_v002.md: a 2.12 m former mortuary bearer with the Bravehood face family,
+faceted hand-placed planes, flat muted colour, Renaissance plague-house clothing and one 2.05 m
+two-handed bier hook. It supersedes the 2026-10-01 body, maul, hook and review-sheet approval.
+Those files are retained under RejectedDesigns_v001 for history and must not be used for Tripo or
+production.
+
+Visual design approval only. No mesh, rig, animation, arena or gameplay-number validation. Final
+capsule and arena fit wait for the Floor 2 greybox. The approved image is kept at native
+1145 x 1374 resolution; no upscaling is required.
