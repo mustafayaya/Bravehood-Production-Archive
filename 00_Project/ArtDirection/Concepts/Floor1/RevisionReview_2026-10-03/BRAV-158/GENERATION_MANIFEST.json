@@ -1,0 +1,59 @@
+{
+  "ticket": "BRAV-158",
+  "date": "2026-10-03",
+  "sourceCommit": "7ca7c6f",
+  "sourceComments": [
+    "10814",
+    "10711"
+  ],
+  "method": "built-in image_gen with canonical board and approved target board attached; originals retained",
+  "noTripo": true,
+  "noUnity": true,
+  "noGitJiraWrites": true,
+  "files": [
+    {
+      "part": "NurseCot",
+      "file": "BRAV-158_NurseCot_45_REVISION_DRAFT_v001.png",
+      "dimensions": "1.90 ×0.70m; mattress top0.45",
+      "qa": "view_image inspected; canonical broad faceted style checked; no cross; subject-specific correction visible; exact mesh fit/runtime not checked",
+      "status": "draft-user-and-Mustafa-approval-pending",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "7031ED24060CDCB728CDD96C53D0887A0C1A349C7AB1ACA0D6943C46B669BFFD"
+    },
+    {
+      "part": "WallMirror",
+      "file": "BRAV-158_WallMirror_45_REVISION_DRAFT_v001.png",
+      "dimensions": "0.60 ×0.90m; frontturnedaway",
+      "qa": "view_image inspected; canonical broad faceted style checked; no cross; subject-specific correction visible; exact mesh fit/runtime not checked",
+      "status": "draft-user-and-Mustafa-approval-pending",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "0FCFDA898D17B6E34C7FAF5D5F76AC85F76F933296132370FC7FCFC3E76D87E0"
+    },
+    {
+      "part": "UntouchedMealTray",
+      "file": "BRAV-158_UntouchedMealTray_45_REVISION_DRAFT_v001.png",
+      "dimensions": "0.45 ×0.30m tray; heightunspecified",
+      "qa": "view_image inspected; canonical broad faceted style checked; no cross; subject-specific correction visible; exact mesh fit/runtime not checked",
+      "status": "draft-user-and-Mustafa-approval-pending",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "6DD48F8F004DD9F6A5DB41925ABF4BB0EC86DE0D63F33A2F5EB442A84D7912D7"
+    },
+    {
+      "part": "LetterAndColdCup",
+      "file": "BRAV-158_LetterAndColdCup_45_REVISION_DRAFT_v001.png",
+      "dimensions": "table0.80 ×0.50 ×0.75m; letter/coldcup",
+      "qa": "view_image inspected; canonical broad faceted style checked; no cross; subject-specific correction visible; exact mesh fit/runtime not checked",
+      "status": "draft-user-and-Mustafa-approval-pending",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "69477C53F36685F9F0AE00E28C948FCB8C26F4FC4499DCAE3682FC4C11DD21E5"
+    }
+  ],
+  "pendingEvidence": "Ortak ana yatak 2.00×0.90, üst0.60, başlık≈1.05m aynen korunur; 123/154/145 reuse. WardLinen yeniden üretilmedi. Başucu ve ekran mevcut referansları korunur.",
+  "repairHistory": [],
+  "userApproval": "APPROVED_2026-10-03",
+  "finalReview": "AWAITING_MUSTAFA_APPROVAL"
+}

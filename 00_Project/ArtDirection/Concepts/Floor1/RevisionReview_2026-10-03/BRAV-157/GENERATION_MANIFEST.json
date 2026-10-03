@@ -1,0 +1,144 @@
+{
+  "ticket": "BRAV-157",
+  "date": "2026-10-03",
+  "approval": "DRAFT_USER_APPROVAL_PENDING",
+  "tool": "builtin_imagegen",
+  "outputs": [
+    {
+      "part": "DonorPanel",
+      "file": "BRAV-157_DonorPanel_45_DRAFT_v003.png",
+      "selected": true,
+      "status": "DRAFT_USER_APPROVAL_PENDING",
+      "target_dimensions": "2.3 ×0.2 ×3m;3panels6.9m",
+      "visual_qa": "Style/semantic review completed; exact proportions and mesh fit remain unverified.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "CCD4854B02B6D5CF663E20E625F637E2ED1C4B4609873B8A2232039C67D60F1E"
+    },
+    {
+      "part": "DonorPlaque",
+      "file": "BRAV-157_DonorPlaque_45_DRAFT_v001.png",
+      "selected": true,
+      "status": "DRAFT_USER_APPROVAL_PENDING",
+      "target_dimensions": "0.5 ×0.05 ×0.3m",
+      "visual_qa": "Style/semantic review completed; exact proportions and mesh fit remain unverified.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "A6F31B20FA5DC04DE0A561B45231D2C285D75CE8A895F32F93C103FEE3E2F1EC"
+    },
+    {
+      "part": "HalfPlaque",
+      "file": "BRAV-157_HalfPlaque_45_DRAFT_v002.png",
+      "selected": true,
+      "status": "DRAFT_USER_APPROVAL_PENDING",
+      "target_dimensions": "0.5 ×0.05 ×0.3m; halfcut",
+      "visual_qa": "Style/semantic review completed; exact proportions and mesh fit remain unverified.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "4FC000690CF74344CF45C147BD6A9AF0272A237CD7DC38495D65F16B4D96ABF4"
+    },
+    {
+      "part": "LedgerDesk",
+      "file": "BRAV-157_LedgerDesk_45_DRAFT_v002.png",
+      "selected": true,
+      "status": "DRAFT_USER_APPROVAL_PENDING",
+      "target_dimensions": "1.2 ×0.7 ×1.1m",
+      "visual_qa": "Style/semantic review completed; exact proportions and mesh fit remain unverified.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "86598BED5C76FD88276385C568385E3B21F7A9D8207470CAE7F871078EAA9354"
+    },
+    {
+      "part": "GreatLedger",
+      "file": "BRAV-157_GreatLedger_45_DRAFT_v001.png",
+      "selected": true,
+      "status": "DRAFT_USER_APPROVAL_PENDING",
+      "target_dimensions": "0.6 ×0.45 ×0.1m",
+      "visual_qa": "Style/semantic review completed; exact proportions and mesh fit remain unverified.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "8A40C5B27336877635C9137247E004E893CE16227ED78C8810207D7AB92A3FEA"
+    },
+    {
+      "part": "BenefactorDesk",
+      "file": "BRAV-157_BenefactorDesk_45_DRAFT_v002.png",
+      "selected": true,
+      "status": "DRAFT_USER_APPROVAL_PENDING",
+      "target_dimensions": "1.8 ×0.9 ×0.8m",
+      "visual_qa": "Style/semantic review completed; exact proportions and mesh fit remain unverified.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "B08BCEB1526F07FBC2A58239ABEE4569C6F9F7E615693EE9A1A840A85C3D42DF"
+    },
+    {
+      "part": "HighChair",
+      "file": "BRAV-157_HighChair_45_DRAFT_v002.png",
+      "selected": true,
+      "status": "DRAFT_USER_APPROVAL_PENDING",
+      "target_dimensions": "0.7 ×0.7 ×1.4m;seat0.45",
+      "visual_qa": "Style/semantic review completed; exact proportions and mesh fit remain unverified.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "C05D7F3BC5FA145FFE0F643B9C96E0F4AD057B2EF7A504F32FF70FB0A8CB5B1C"
+    },
+    {
+      "part": "PortraitFrame",
+      "file": "BRAV-157_PortraitFrame_45_DRAFT_v002.png",
+      "selected": true,
+      "status": "DRAFT_USER_APPROVAL_PENDING",
+      "target_dimensions": "Study0.9 ×0.08 ×1.2; Founder×2",
+      "visual_qa": "Style/semantic review completed; exact proportions and mesh fit remain unverified.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "569B156A7CACD69599029E4DE40E888209EEBE21560DE89A4FF220AFCE5BC0C5"
+    },
+    {
+      "part": "ChildShoe",
+      "file": "BRAV-157_ChildShoe_45_DRAFT_v001.png",
+      "selected": true,
+      "status": "DRAFT_USER_APPROVAL_PENDING",
+      "target_dimensions": "L≈0.15m",
+      "visual_qa": "Style/semantic review completed; exact proportions and mesh fit remain unverified.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "D0DA00587DE0BE668EFB5F7970CC17CBC1007BC53F6C4F82065DD2FB8CFE0655"
+    }
+  ],
+  "failed_attempts": [
+    {
+      "part": "DonorPanel",
+      "first": "BRAV-157_DonorPanel_45_DRAFT_v002.png",
+      "second": "BRAV-157_DonorPanel_45_DRAFT_v003.png",
+      "reason": "Tallpanel2.3W3H0.2D. EXACT15identical empty plaque slots in3columns5rows. Do NOT replace middlecolumnwithlongportraitslot. Founderplaque isseparatepart installedabove later. Keep plainstonepierstyle.",
+      "secondSelected": true
+    },
+    {
+      "part": "HalfPlaque",
+      "first": "BRAV-157_HalfPlaque_45_DRAFT_v001.png",
+      "second": "BRAV-157_HalfPlaque_45_DRAFT_v002.png",
+      "reason": "Small simple rectangular bronzeplaque0.5W0.3H0.05D. NO humanface nofigure noanimal noemblem no3Dpillars. Left half rough flat unworkedstone plane; right half smoothflatbronze plane. Thin oneplate.",
+      "secondSelected": true
+    }
+  ],
+  "noTripo": true,
+  "noUnity": true,
+  "dimensionsVerified": false,
+  "gitJiraSubmitted": false,
+  "reusedOutputs": [
+    {
+      "file": "MerchantMark_PRESERVED_v002.png",
+      "sha256": "F0EE02C20527E254BA3D8904F6810149053397AF9D83F4ADDDC064C4F9304DBB",
+      "status": "APPROVED_PRESERVED",
+      "generatedHere": false
+    },
+    {
+      "sha256": "A6F31B20FA5DC04DE0A561B45231D2C285D75CE8A895F32F93C103FEE3E2F1EC",
+      "generatedHere": false,
+      "status": "DRAFT_REUSE_SCALE_VARIANT",
+      "file": "FounderPlaque_REUSE_geometryx2_v001.png",
+      "target_dimensions": "1.0 W ×0.10 D ×0.6 H m; donorplaque geometry uniform ×2, top-centre; exact mesh fit pending"
+    }
+  ],
+  "userApproval": "APPROVED_2026-10-03",
+  "finalReview": "AWAITING_MUSTAFA_APPROVAL"
+}

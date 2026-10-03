@@ -1,0 +1,41 @@
+{
+  "ticket": "BRAV-143",
+  "date": "2026-10-03",
+  "sourceCommit": "7ca7c6f",
+  "sourceComments": [
+    "10805",
+    "10722"
+  ],
+  "method": "built-in image_gen with canonical board and approved target board attached; originals retained",
+  "noTripo": true,
+  "noUnity": true,
+  "noGitJiraWrites": true,
+  "files": [
+    {
+      "part": "Body",
+      "file": "BRAV-143_Body_45_REVISION_DRAFT_v002.png",
+      "dimensions": "Dik A-pose 1.80 m; omuz0.56; belt1.01; diz0.45",
+      "qa": "view_image inspected; canonical broad faceted style checked; no cross; subject-specific correction visible; exact mesh fit/runtime not checked",
+      "status": "draft-user-and-Mustafa-approval-pending",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "C321B2A0353FB18EE5D509D6ED5F71F50AFA49444888B17DDC8CFBDC34CD5AD7"
+    },
+    {
+      "part": "Censer",
+      "file": "BRAV-143_Censer_45_REVISION_DRAFT_v001.png",
+      "dimensions": "Ø0.30 ×0.45m; chainbuiltlater1.1m/free0.45",
+      "qa": "view_image inspected; canonical broad faceted style checked; no cross; subject-specific correction visible; exact mesh fit/runtime not checked",
+      "status": "draft-user-and-Mustafa-approval-pending",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "40A5F5FE731623E7FBD89260CA664087EEE97D6A1B8C3DA986ADCE371BBBC199"
+    }
+  ],
+  "pendingEvidence": "Dik model ve kıyafet değişti. Hunch/rig/animasyon BRAV-139 kapsamında; zincir Blender'da. Buhurdan emissive/VFX bu resme pişirilmez.",
+  "repairHistory": [
+    "Body v001 arms too close; v002 clear empty-hand A-pose"
+  ],
+  "userApproval": "APPROVED_2026-10-03",
+  "finalReview": "AWAITING_MUSTAFA_APPROVAL"
+}

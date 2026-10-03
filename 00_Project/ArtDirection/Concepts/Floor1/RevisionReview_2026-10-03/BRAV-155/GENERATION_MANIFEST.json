@@ -1,0 +1,67 @@
+{
+  "ticket": "BRAV-155",
+  "date": "2026-10-03",
+  "approval": "DRAFT_USER_APPROVAL_PENDING",
+  "tool": "builtin_imagegen",
+  "outputs": [
+    {
+      "part": "LandscapeFrame",
+      "file": "BRAV-155_LandscapeFrame_45_DRAFT_v003.png",
+      "selected": true,
+      "status": "DRAFT_USER_APPROVAL_PENDING",
+      "target_dimensions": "outer3.16 ×1.57 m; face3 ×1.41",
+      "visual_qa": "Style/semantic review completed; exact proportions and mesh fit remain unverified.",
+      "width": 1778,
+      "height": 885,
+      "sha256": "6D866E22393C2BF67CBBF2273920EAB73492DECD48D80082DADA880268FF349B"
+    },
+    {
+      "part": "SquareFrame",
+      "file": "BRAV-155_SquareFrame_45_DRAFT_v001.png",
+      "selected": true,
+      "status": "DRAFT_USER_APPROVAL_PENDING",
+      "target_dimensions": "outer3.16 ×3m; face3 ×2.84",
+      "visual_qa": "Style/semantic review completed; exact proportions and mesh fit remain unverified.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "1F3E84C2470769C3BEC45595251C8098662E904BB7302BFA97A86799691A5DDC"
+    },
+    {
+      "part": "TallyLantern",
+      "file": "BRAV-155_TallyLantern_45_DRAFT_v002.png",
+      "selected": true,
+      "status": "DRAFT_USER_APPROVAL_PENDING",
+      "target_dimensions": "W0.35 ×H0.5m",
+      "visual_qa": "Style/semantic review completed; exact proportions and mesh fit remain unverified.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "7913D6C6C11A6B32FFB4FAE7F243C439B1766B695D55302957585EDF9E10F5C5"
+    },
+    {
+      "part": "TallyBar",
+      "file": "BRAV-155_TallyBar_45_DRAFT_v001.png",
+      "selected": true,
+      "status": "DRAFT_USER_APPROVAL_PENDING",
+      "target_dimensions": "2.8m; hookpitch1.1m",
+      "visual_qa": "Style/semantic review completed; exact proportions and mesh fit remain unverified.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "C4161613952961CFF70243F9009F5101D33C1F4DFC8115419302EF899DB2487D"
+    }
+  ],
+  "failed_attempts": [
+    {
+      "part": "LandscapeFrame",
+      "first": "BRAV-155_LandscapeFrame_45_DRAFT_v002.png",
+      "second": "BRAV-155_LandscapeFrame_45_DRAFT_v003.png",
+      "reason": "Change ONLY proportions to a wide horizontal landscape frame EXACT width3.16 height1.57 so width DOUBLE height. Thinrails aroundblankparchmentface3x1.41. Noverticallegs belowframe. Keep oak corners.",
+      "secondSelected": true
+    }
+  ],
+  "noTripo": true,
+  "noUnity": true,
+  "dimensionsVerified": false,
+  "gitJiraSubmitted": false,
+  "userApproval": "APPROVED_2026-10-03",
+  "finalReview": "AWAITING_MUSTAFA_APPROVAL"
+}

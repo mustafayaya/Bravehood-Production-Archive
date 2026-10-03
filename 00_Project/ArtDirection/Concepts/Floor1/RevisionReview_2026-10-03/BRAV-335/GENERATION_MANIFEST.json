@@ -1,0 +1,47 @@
+{
+  "ticket": "BRAV-335",
+  "stage": "references_generated_visual_qa_pass",
+  "status": "proportion_approx_meshfit_pending",
+  "approval": "new_drafts_user_approval_pending",
+  "tool": "built-in imagegen",
+  "tripo": false,
+  "queued": [
+    {
+      "part": "LaundryChimney",
+      "file": "BRAV-335_LaundryChimney_45_DRAFT_v002.png",
+      "prompt": "Laundry wash-house chimney exterioronly,26m totalheight on5x5mstoneplinth,stoneplinthto7.5m, burntumberbrickstack3→2.2square to24.8m,crown2.8square1.2high, flueØ1.2. Similar image2chimneystonebricklanguage butmorebroadfacets fewerbricklines. No smoke, no interior, no human.",
+      "styleRef": "BOARD_Environment.png",
+      "designRef": "335"
+    },
+    {
+      "part": "CisternTower",
+      "file": "BRAV-335_CisternTower_45_DRAFT_v002.png",
+      "prompt": "Cistern tower exterioronly24m totalheight,5x5mstone shaftto16m,timbertankhouse6.9x6.9m oncorbels16–21m,terracotta hiproof to24m, smallhoistbeam2mout at20mwithpulleyrope. No light, absolutelydarktank, no interior no human. Preserveimage2stoneoaklanguage.",
+      "styleRef": "BOARD_Environment.png",
+      "designRef": "335"
+    },
+    {
+      "part": "BellTower",
+      "file": "BRAV-335_BellTower_45_DRAFT_v002.png",
+      "prompt": "Gothic campanile exterioronly30m totalheight5x5m base, shaftto22m,belfry22–27m withfourpointedopenings2.3x3.5m,pyramidspire27–30m. Plain finial NO CROSS NO RELIGIOUS SYMBOL. One small UNLIT brasslantern inbelfry. NO bell mesh (separateexistingasset), no rope pullstand, no interior. Preserveapprovedtowerlanguage.",
+      "styleRef": "BOARD_Environment.png",
+      "designRef": "335"
+    },
+    {
+      "part": "FumigationTower",
+      "file": "BRAV-335_FumigationTower_45_DRAFT_v002.png",
+      "prompt": "Fumigation smoke tower exterioronly22m totalheight5x5mbase,4x4mshaftto18m,ventchamber18–21m withlouvred1.2x2mopeningsfourfaces,hoodedcapto22m. Broadmutedstoneplanes andplainmutedforestgreenventinsets UNLIT. No smokeVFX, no lightglow, no interior.",
+      "styleRef": "BOARD_Environment.png",
+      "designRef": "335"
+    }
+  ],
+  "qa": "All four no-cross exterior references inspected; broad facets and muted palette; actual dimensions/LOD/emissive mesh fit pending.",
+  "outputs": [
+    "BRAV-335_LaundryChimney_45_DRAFT_v002.png",
+    "BRAV-335_CisternTower_45_DRAFT_v002.png",
+    "BRAV-335_BellTower_45_DRAFT_v002.png",
+    "BRAV-335_FumigationTower_45_DRAFT_v002.png"
+  ],
+  "userApproval": "APPROVED_2026-10-03",
+  "finalReview": "AWAITING_MUSTAFA_APPROVAL"
+}
