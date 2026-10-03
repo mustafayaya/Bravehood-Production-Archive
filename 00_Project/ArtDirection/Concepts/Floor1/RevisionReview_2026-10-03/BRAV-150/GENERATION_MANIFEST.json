@@ -1,0 +1,87 @@
+{
+  "ticket": "BRAV-150",
+  "date": "2026-10-03",
+  "approval": "DRAFT_USER_APPROVAL_PENDING",
+  "tool": "builtin_imagegen",
+  "outputs": [
+    {
+      "part": "Tabernacle",
+      "file": "BRAV-150_Tabernacle_45_DRAFT_v002.png",
+      "selected": true,
+      "status": "DRAFT_USER_APPROVAL_PENDING",
+      "target_dimensions": "1.2 × 0.45 × 2.4 m; sill 0.78; niche0.6 ×0.2 ×0.95",
+      "visual_qa": "Style/semantic review completed; exact proportions and mesh fit remain unverified.",
+      "width": 1145,
+      "height": 1374,
+      "sha256": "FAF252F528E09C63100382D5707F04F6C121C3C3FDC8D2786F445376371DD077"
+    },
+    {
+      "part": "HearthDish",
+      "file": "BRAV-150_HearthDish_45_DRAFT_v002.png",
+      "selected": true,
+      "status": "DRAFT_USER_APPROVAL_PENDING",
+      "target_dimensions": "Ø0.25 m",
+      "visual_qa": "Style/semantic review completed; exact proportions and mesh fit remain unverified.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "09A5641C7A68D9D36132A531E16E745EA9C22F3E1345BB423193DB4069B884EF"
+    },
+    {
+      "part": "SanctusBell",
+      "file": "BRAV-150_SanctusBell_45_DRAFT_v001.png",
+      "selected": true,
+      "status": "DRAFT_USER_APPROVAL_PENDING",
+      "target_dimensions": "Ø0.15 m",
+      "visual_qa": "Style/semantic review completed; exact proportions and mesh fit remain unverified.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "A74D84CFF1D9F5283F55A0181DF1F450AAFAEF55602D09BF8DC71269968D6DC0"
+    },
+    {
+      "part": "Offerings",
+      "file": "BRAV-150_Offerings_45_DRAFT_v001.png",
+      "selected": true,
+      "status": "DRAFT_USER_APPROVAL_PENDING",
+      "target_dimensions": "blanket0.36×0.30; cupØ0.07",
+      "visual_qa": "Style/semantic review completed; exact proportions and mesh fit remain unverified.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "8EE0B15A85EC98FAE9B0C0E2D9DF3C642CFDFA101A13CDDD5731CCA49B571F32"
+    }
+  ],
+  "failed_attempts": [
+    {
+      "part": "HearthDish",
+      "first": "BRAV-150_HearthDish_45_DRAFT_v001.png",
+      "second": "BRAV-150_HearthDish_45_DRAFT_v002.png",
+      "reason": "Remove the stem and foot. ONLY very shallow simple tarnished brass dish diameter0.25m, underside flat, no pedestal, no bowlstand.",
+      "secondSelected": true
+    }
+  ],
+  "noTripo": true,
+  "noUnity": true,
+  "dimensionsVerified": false,
+  "gitJiraSubmitted": false,
+  "reusedOutputs": [
+    {
+      "file": "SharedSaint_PRESERVED_v001.png",
+      "sha256": "995979D7C8B23B9A40E7A3090259732DEC1A4DE879C99B7B130DB020DF1C4FD6",
+      "status": "PRESERVED_OR_SHARED_DRAFT",
+      "generatedHere": false
+    },
+    {
+      "file": "KneelingMat_PRESERVED_v001.png",
+      "sha256": "95BBDE652F6A5FD6B47A77D92689952470E059E8D34BB2B608613630E807169F",
+      "status": "PRESERVED_OR_SHARED_DRAFT",
+      "generatedHere": false
+    },
+    {
+      "file": "OilLamp_SHARED_BRAV156_v001.png",
+      "sha256": "53E893A89957AB10052B9297A7F3F2D84B3EB4154A8AF40DCB7C79775DD0F5CC",
+      "status": "PRESERVED_OR_SHARED_DRAFT",
+      "generatedHere": false
+    }
+  ],
+  "userApproval": "APPROVED_2026-10-03",
+  "finalReview": "AWAITING_MUSTAFA_APPROVAL"
+}

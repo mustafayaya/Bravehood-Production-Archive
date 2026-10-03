@@ -1,0 +1,12 @@
+Edit targetimage2: CUT existing shortpier vertically throughcentral axis, removebackhalf. Halffootprint0.9wide0.45deep,totalH4.96. Samecapital/baseasoriginalbuteachhalved depth. Showfromrearoblique45degree so broad FLAT VERTICAL CUT BACK FACE and half-depthbase/capital are unmistakable, no wall included. Do not create fullcolumn. Entireobjectportrait.
+Renaissance plague hospital c. 1500,
+a single isolated game asset in the style of the attached reference images, three-quarter view from 45 degrees,
+camera slightly above, long lens, centred, the whole object visible with margin, pure white background, no shadow,
+flat even neutral studio lighting, unlit glass and lanterns, stylised low-poly game model, chiselled faceted planes,
+chamfered edges, muted low-saturation hand-painted colours, tarnished brass accents
+Avoid: photorealistic, photo, realistic, hyperrealistic, PBR, physically based, cinematic, film still, concept art painting,
+subsurface skin, skin pores, stubble, individual hair strands, dirt overlay, grime, rust streaks, micro scratches,
+blood splatter, gore, wet shine, depth of field, bokeh, film grain, dramatic rim light, volumetric light, fog, smoke,
+glow, bloom, text, letters, logo, signage, watermark, frame, UI, modern clothing, electric lamp, light bulb, gas lamp,
+riveted steel plate, gears, pipes, gauge, rails, firearms, cropped, multiple characters, collage.
+No crucifix, cross emblem or religious symbol. One object, no labels or dimension graphics. Broad low detail planes. Technical drawing dimensions are targets, no claimed meshfit.

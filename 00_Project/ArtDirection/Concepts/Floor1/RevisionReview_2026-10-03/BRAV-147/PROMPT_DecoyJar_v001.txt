@@ -1,0 +1,14 @@
+Revise the approved design per Mustafa review. Image1 is canonical style; Image2 is approved subject direction; ignore all obsolete dimensions/text on Image2.
+Subject: Ordinary decoy specimen bottle-jar Ø0.22 x0.35high includingsealedlid, preserve approved facetglass/brassclamp jar silhouette with blank faded0.12x0.08parchmenttag. Plain murkyolivefluid but NO organ, no lootglint,noemission; waxleadseal underforgedclamp. Onejaronly.
+Renaissance plague hospital c. 1500,
+a single isolated game asset in the style of the attached reference images, three-quarter view from 45 degrees,
+camera slightly above, long lens, centred, the whole object visible with margin, pure white background, no shadow,
+flat even neutral studio lighting, unlit glass and lanterns, stylised low-poly game model, chiselled faceted planes,
+chamfered edges, muted low-saturation hand-painted colours, tarnished brass accents
+Avoid: photorealistic, photo, realistic, hyperrealistic, PBR, physically based, cinematic, film still, concept art painting,
+subsurface skin, skin pores, stubble, individual hair strands, dirt overlay, grime, rust streaks, micro scratches,
+blood splatter, gore, wet shine, depth of field, bokeh, film grain, dramatic rim light, volumetric light, fog, smoke,
+glow, bloom, text, letters, logo, signage, watermark, frame, UI, modern clothing, electric lamp, light bulb, gas lamp,
+riveted steel plate, gears, pipes, gauge, rails, firearms, cropped, multiple characters, collage
+Additional avoid: cross, crucifix, coat of arms, heraldry, pedestal other than requested, dimension labels. Exactly ONE part image, square canvas, no extra views.
+

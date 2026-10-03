@@ -1,0 +1,49 @@
+{
+  "ticket": "BRAV-153",
+  "stage": "references_and_states_generated_visual_qa_pass",
+  "status": "proportion_approx_meshfit_pending",
+  "approval": "new_drafts_user_approval_pending",
+  "tool": "built-in imagegen",
+  "tripo": false,
+  "queued": [
+    {
+      "part": "Cart",
+      "file": "BRAV-153_Cart_45_DRAFT_v002.png",
+      "prompt": "Period dead-cart, TWO wooden wheels total one axle with forgediron tyres, oak handcart stood upright on its tail,3m length bed2m+shafts1m up,1.2m width over wheels, top3.16m; upright openbedface points toward viewer left, wheelsbehindbed. Two shroudedloads tightlylashed withropes within sidewalls. Wholecartonly, NO hinge floor stand, NO lever, NO chain. oldimage2 only materiallanguage; remove extra wheel axle. WheelsØ0.9m, cartdepth≈1.5m.",
+      "styleRef": "BOARD_Environment.png",
+      "designRef": "153"
+    },
+    {
+      "part": "HingeBracket",
+      "file": "BRAV-153_HingeBracket_45_DRAFT_v002.png",
+      "prompt": "Forged iron hinge cradle in stone sill0.5x1.3x0.16m, pin knuckle atcenter and small toothed iron ratchetquadrant withsinglepawl and ringpullstoppin. Historic handforged large simpleforms, noindustrialgears. Static isolatedhinge assemblyonly, no cart no chain.",
+      "styleRef": "BOARD_Environment.png",
+      "designRef": "153"
+    },
+    {
+      "part": "Lever",
+      "file": "BRAV-153_Lever_45_DRAFT_v002.png",
+      "prompt": "Single historic forged pawl lever 0.7m long, broad simple angular lever arm with woodenhandgrip, one pivotring atbottom; no post, no drum, no chain, no cart. Renaissance handmadeiron, darkcharcoal matte.",
+      "styleRef": "BOARD_Environment.png",
+      "designRef": "153"
+    },
+    {
+      "part": "Drum",
+      "file": "BRAV-153_Drum_45_DRAFT_v002.png",
+      "prompt": "Single small historic oak windlass drum diameter0.3m onshortironaxle, simplewoodcylinder withforgedendbands andshortaxle ends; plainunlit, no chain, no post no lever. Separate rotatingpart only.",
+      "styleRef": "BOARD_Environment.png",
+      "designRef": "153"
+    }
+  ],
+  "selectedStates": "BRAV-153_States_DRAFT_v003.png",
+  "qa": "Separate cart/two-wheel/hinge/lever/drum inspected; states v002 face-up failed, targeted v003 face-down passes; mesh contact and pivot fit pending.",
+  "outputs": [
+    "BRAV-153_Cart_45_DRAFT_v002.png",
+    "BRAV-153_HingeBracket_45_DRAFT_v002.png",
+    "BRAV-153_Lever_45_DRAFT_v002.png",
+    "BRAV-153_Drum_45_DRAFT_v002.png",
+    "BRAV-153_States_DRAFT_v003.png"
+  ],
+  "userApproval": "APPROVED_2026-10-03",
+  "finalReview": "AWAITING_MUSTAFA_APPROVAL"
+}
