@@ -1,0 +1,54 @@
+{
+  "ticket": "BRAV-356",
+  "date": "2026-10-05",
+  "approval": "USER_APPROVED_2026-10-05",
+  "files": [
+    {
+      "ticket": "BRAV-356",
+      "code": "W08",
+      "title": "Inspection Pike",
+      "file": "Lazzaretto_Knight_W08_InspectionPike.png",
+      "selected": true,
+      "status": "USER_APPROVED",
+      "target_dimensions": "totalL2.10m P, slimhead0.32m P, shaftdiameter0.032m P",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "52A4841BD49C8548F27324F19FEC9267098DAB14D42B21892B1CABE4C9492587",
+      "qa": "Visual review in QA_NOTES.md; exact mesh scale, rig clearance, gameplay readability remain unverified",
+      "tool": "builtin_imagegen"
+    },
+    {
+      "ticket": "BRAV-356",
+      "code": "W09",
+      "title": "Distance Keeper",
+      "file": "Lazzaretto_Knight_W09_DistanceKeeper.png",
+      "selected": true,
+      "status": "USER_APPROVED",
+      "target_dimensions": "totalL2.05m P, head0.35m P, shaftdiameter0.032m P",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "AA9236E5CA3C4A50FFB333F751B44DB074EAB0D7E94B42355BD1963EF647B0E9",
+      "qa": "Visual review in QA_NOTES.md; exact mesh scale, rig clearance, gameplay readability remain unverified",
+      "tool": "builtin_imagegen"
+    },
+    {
+      "ticket": "BRAV-356",
+      "code": "W10",
+      "title": "Grave Measure",
+      "file": "Lazzaretto_Knight_W10_GraveMeasure.png",
+      "selected": true,
+      "status": "USER_APPROVED",
+      "target_dimensions": "totalL1.95m P, head0.40m P, shaftdiameter0.035m P",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "D80885CE90CCC89BDA74D535F38F6521335FFA663F71F6B242F617994D5D3E01",
+      "qa": "Visual review in QA_NOTES.md; exact mesh scale, rig clearance, gameplay readability remain unverified",
+      "tool": "builtin_imagegen"
+    }
+  ],
+  "source": "Jira brief + docs7ca7c6f",
+  "noTripo": true,
+  "noUnity": true,
+  "mustafaSubmission": false,
+  "userDirection": "Prepare all concepts sequentially, then submit to user approval"
+}

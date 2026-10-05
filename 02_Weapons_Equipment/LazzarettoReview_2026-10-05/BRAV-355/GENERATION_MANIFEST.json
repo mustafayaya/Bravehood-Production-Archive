@@ -1,0 +1,54 @@
+{
+  "ticket": "BRAV-355",
+  "date": "2026-10-05",
+  "approval": "USER_APPROVED_2026-10-05",
+  "files": [
+    {
+      "ticket": "BRAV-355",
+      "code": "W05",
+      "title": "Mortuary Greatsword",
+      "file": "Lazzaretto_Knight_W05_MortuaryGreatsword.png",
+      "selected": true,
+      "status": "USER_APPROVED",
+      "target_dimensions": "totalL1.35m P, blade1.00m P, twohandgrip0.25m P, guard0.27m P",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "F4EBB8068DE6BF95752032220DB1D999EAF174E52A411691BE958FC1A1F886E0",
+      "qa": "Visual review in QA_NOTES.md; exact mesh scale, rig clearance, gameplay readability remain unverified",
+      "tool": "builtin_imagegen"
+    },
+    {
+      "ticket": "BRAV-355",
+      "code": "W06",
+      "title": "The Second Cut",
+      "file": "Lazzaretto_Knight_W06_TheSecondCut.png",
+      "selected": true,
+      "status": "USER_APPROVED",
+      "target_dimensions": "totalL1.40m P, blade1.04m P, twohandgrip0.26m P, guard0.28m P",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "7BD80A178B0B3FB3B26B7CD856D744FB3649CA0F506220F2A52D1CFE28B62CAB",
+      "qa": "Visual review in QA_NOTES.md; exact mesh scale, rig clearance, gameplay readability remain unverified",
+      "tool": "builtin_imagegen"
+    },
+    {
+      "ticket": "BRAV-355",
+      "code": "W07",
+      "title": "The Last Cart",
+      "file": "Lazzaretto_Knight_W07_TheLastCart.png",
+      "selected": true,
+      "status": "USER_APPROVED",
+      "target_dimensions": "totalL1.40m P, blade1.02m P, twohandgrip0.28m P, guard0.27m P",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "2DE5AB2A534B81B827A8209F546080D0B46095DDCB966AF4C13D07C4F87A7D84",
+      "qa": "Visual review in QA_NOTES.md; exact mesh scale, rig clearance, gameplay readability remain unverified",
+      "tool": "builtin_imagegen"
+    }
+  ],
+  "source": "Jira brief + docs7ca7c6f",
+  "noTripo": true,
+  "noUnity": true,
+  "mustafaSubmission": false,
+  "userDirection": "Prepare all concepts sequentially, then submit to user approval"
+}
