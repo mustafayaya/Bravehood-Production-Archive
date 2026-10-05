@@ -1,0 +1,68 @@
+{
+  "ticket": "BRAV-358",
+  "date": "2026-10-05",
+  "approval": "USER_APPROVED_2026-10-05",
+  "files": [
+    {
+      "ticket": "BRAV-358",
+      "code": "S01",
+      "title": "Dock Warden Shield",
+      "file": "Lazzaretto_Knight_S01_DockWardenShield.png",
+      "selected": true,
+      "status": "USER_APPROVED",
+      "target_dimensions": "W0.48 D0.07 H0.64m P",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "E71DC6B18E5A9DE20B4C0093C4A9E6EB92AC95D65D22F4B2F0FD9741D7FD5C24",
+      "qa": "Visual review in QA_NOTES.md; exact mesh scale, rig clearance, gameplay readability remain unverified",
+      "tool": "builtin_imagegen"
+    },
+    {
+      "ticket": "BRAV-358",
+      "code": "S02",
+      "title": "Closed Gate",
+      "file": "Lazzaretto_Knight_S02_ClosedGate.png",
+      "selected": true,
+      "status": "USER_APPROVED",
+      "target_dimensions": "W0.52 D0.09 H0.76m P",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "64D1B3BD99D9EA02BBF48F3AB971ADE446BA244EC4931C8F812862E0B28C7B42",
+      "qa": "Visual review in QA_NOTES.md; exact mesh scale, rig clearance, gameplay readability remain unverified",
+      "tool": "builtin_imagegen"
+    },
+    {
+      "ticket": "BRAV-358",
+      "code": "S03",
+      "title": "Theatre Guard",
+      "file": "Lazzaretto_Knight_S03_TheatreGuard.png",
+      "selected": true,
+      "status": "USER_APPROVED",
+      "target_dimensions": "W0.46 D0.07 H0.66m P",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "80A350A7CC6214A5FF3203D7FAAFFB5D3E884B7C1EA97BF54ADA2A252C014298",
+      "qa": "Visual review in QA_NOTES.md; exact mesh scale, rig clearance, gameplay readability remain unverified",
+      "tool": "builtin_imagegen"
+    },
+    {
+      "ticket": "BRAV-358",
+      "code": "S04",
+      "title": "Burial Door",
+      "file": "Lazzaretto_Knight_S04_BurialDoor.png",
+      "selected": true,
+      "status": "USER_APPROVED",
+      "target_dimensions": "W0.54 D0.10 H0.84m P",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "C7AA8FB4F77A339D9626CFE5E6866F90A0154C75F356E3CB30F350DED4DA85B6",
+      "qa": "Visual review in QA_NOTES.md; exact mesh scale, rig clearance, gameplay readability remain unverified",
+      "tool": "builtin_imagegen"
+    }
+  ],
+  "source": "Jira brief + docs7ca7c6f",
+  "noTripo": true,
+  "noUnity": true,
+  "mustafaSubmission": false,
+  "userDirection": "Prepare all concepts sequentially, then submit to user approval"
+}

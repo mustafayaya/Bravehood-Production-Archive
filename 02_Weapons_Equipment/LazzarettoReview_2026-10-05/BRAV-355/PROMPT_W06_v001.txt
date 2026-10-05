@@ -1,0 +1,13 @@
+Use case: stylized-concept. BRAV-355 W06 The Second Cut. ONE DESIGN ONLY. Exact brief: Two-stage surgical/incision metaphor in blade geometry while remaining a believable greatsword.. Design-specific silhouette: continuousdoubleedgedblade subtlystepsinwidth oncetowardtip, surgicalprecisiontwozones, intactstrongcore, longtwohandgrip; not serrated,nodetachedsegments..
+Target sizes: totalL1.40m P, blade1.04m P, twohandgrip0.26m P, guard0.28m P. P means PROPOSED concept sizes, not approved meshscale. Knightapprovedheight1.59m, sixhead proportions, no rigresize. Materials forgediron, agedbrass,darkleather,dirtylinen,mutedforestgreen wherecloth,oak whenweaponshaft; no actualreligioussymbols,crosses,flags,Latin,text,cyan/tealplayerdecoration,crystal,whitegoldglow,VFX. ExactlyONEisolatedobjectonly, oneview. NOcharacter, nohand/finger, nocollage, no duplicatefront/backobjects. Inventoryreadability, practicalfightconstruction notgiantfantasy/anime. ReferenceimagesSTYLEONLY, nevercopyenvironmentarchitecture.
+Renaissance plague hospital c. 1500,
+a single isolated game asset in the style of the attached reference images, three-quarter view from 45 degrees,
+camera slightly above, long lens, centred, the whole object visible with margin, pure white background, no shadow,
+flat even neutral studio lighting, unlit glass and lanterns, stylised low-poly game model, chiselled faceted planes,
+chamfered edges, muted low-saturation hand-painted colours, tarnished brass accents
+Negative prompt: photorealistic, photo, realistic, hyperrealistic, PBR, physically based, cinematic, film still, concept art painting,
+subsurface skin, skin pores, stubble, individual hair strands, dirt overlay, grime, rust streaks, micro scratches,
+blood splatter, gore, wet shine, depth of field, bokeh, film grain, dramatic rim light, volumetric light, fog, smoke,
+glow, bloom, text, letters, logo, signage, watermark, frame, UI, modern clothing, electric lamp, light bulb, gas lamp,
+riveted steel plate, gears, pipes, gauge, rails, firearms, cropped, multiple characters, collage
+No horns, spikes, excessiveornament, skullmotifs or modernmechanisms. Broadmutedhandpaintedvalueplanes, fewlargefacets. No scratchtexture. 

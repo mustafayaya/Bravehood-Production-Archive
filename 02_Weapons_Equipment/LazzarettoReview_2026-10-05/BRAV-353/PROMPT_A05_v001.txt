@@ -1,0 +1,13 @@
+Use case: stylized-concept. BRAV-353 A05 Last Warden Plate. ONE DESIGN ONLY. Exact brief: — legendary bulwark. Tall fortress-like read, strong shoulder line, powerful chest, long cape. Hero armor of the set.. Design-specific silhouette: Hero armor verticalfortress breastplate withstrongupright shoulderline, matte heirloomiron minimalagedbrass, longdeepforestgreencape hangingbehindbody toaboveankle withopenside gaps forarms; tallREAD fromarmor noresizingbody..
+Target sizes: body1.59m F SAMEunchangedbody, shoulders0.64m maxF, capeends0.15mabovefloor P, belt0.89m F. P means PROPOSED concept sizes, not approved meshscale. Knightapprovedheight1.59m, sixhead proportions, no rigresize. Materials forgediron, agedbrass,darkleather,dirtylinen,mutedforestgreen wherecloth,oak whenweaponshaft; no actualreligioussymbols,crosses,flags,Latin,text,cyan/tealplayerdecoration,crystal,whitegoldglow,VFX. Full bareheaded SAMEKnight wearingarmor, emptyhands relaxedApose, nose/facefamilyascanonicalreference. Maximum0.64mshoulderwidth, belt0.89m. ExactlyONEfullbodyONEview, notsheet. Preserveknees/elbowsjointclearance. Nohelmet, no weapons.
+Renaissance plague hospital c. 1500, stylised low-poly game character in the style of the attached reference images,
+authored hand-placed planes, visibly faceted flat-shaded surfaces, hand-painted flat colour with broad value shapes,
+muted desaturated palette (forest green, oxblood, umber, charcoal, tarnished brass), stern face with a large square
+planar nose, angular jaw, thick brows, small eyes, hair as sculpted masses, heavy cloth with few broad folds,
+one full-body three-quarter front view, pure white background, flat even neutral light
+Negative prompt: photorealistic, photo, realistic, hyperrealistic, PBR, physically based, cinematic, film still, concept art painting,
+subsurface skin, skin pores, stubble, individual hair strands, dirt overlay, grime, rust streaks, micro scratches,
+blood splatter, gore, wet shine, depth of field, bokeh, film grain, dramatic rim light, volumetric light, fog, smoke,
+glow, bloom, text, letters, logo, signage, watermark, frame, UI, modern clothing, electric lamp, light bulb, gas lamp,
+riveted steel plate, gears, pipes, gauge, rails, firearms, cropped, multiple characters, collage
+No horns, spikes, excessiveornament, skullmotifs or modernmechanisms. Broadmutedhandpaintedvalueplanes, fewlargefacets. No scratchtexture. 

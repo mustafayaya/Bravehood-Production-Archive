@@ -1,0 +1,82 @@
+{
+  "ticket": "BRAV-360",
+  "date": "2026-10-05",
+  "approval": "USER_APPROVED_2026-10-05",
+  "files": [
+    {
+      "ticket": "BRAV-360",
+      "code": "R01",
+      "title": "Keeper's Measure",
+      "file": "Lazzaretto_Knight_R01_KeepersMeasure.png",
+      "selected": true,
+      "status": "USER_APPROVED",
+      "target_dimensions": "insideØ0.020m P, outsideØ0.027m P, bandW0.006m P",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "8A0D37000E64BD060098C388FD033C11E8AE82682DE42461DE457FA9C307DB58",
+      "qa": "Visual review in QA_NOTES.md; exact mesh scale, rig clearance, gameplay readability remain unverified",
+      "tool": "builtin_imagegen"
+    },
+    {
+      "ticket": "BRAV-360",
+      "code": "R02",
+      "title": "Glass Oath",
+      "file": "Lazzaretto_Knight_R02_GlassOath.png",
+      "selected": true,
+      "status": "USER_APPROVED",
+      "target_dimensions": "insideØ0.020m P, outsideØ0.028m P, glassface0.014×0.010m P",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "DCF6B09FA4EF6CEDB2DF40C04FEE07E5B0869A05CE8FB16868069368956CC30E",
+      "qa": "Visual review in QA_NOTES.md; exact mesh scale, rig clearance, gameplay readability remain unverified",
+      "tool": "builtin_imagegen"
+    },
+    {
+      "ticket": "BRAV-360",
+      "code": "R03",
+      "title": "Tempered Pulse",
+      "file": "Lazzaretto_Knight_R03_TemperedPulse.png",
+      "selected": true,
+      "status": "USER_APPROVED",
+      "target_dimensions": "insideØ0.020m P, outsideØ0.028m P, bandW0.007m P",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "12BE480B851781F55D4AB0F48CB555FE9ECFB1544298CFE64BFC428218A5886F",
+      "qa": "Visual review in QA_NOTES.md; exact mesh scale, rig clearance, gameplay readability remain unverified",
+      "tool": "builtin_imagegen"
+    },
+    {
+      "ticket": "BRAV-360",
+      "code": "R04",
+      "title": "Iron Pulse",
+      "file": "Lazzaretto_Knight_R04_IronPulse.png",
+      "selected": true,
+      "status": "USER_APPROVED",
+      "target_dimensions": "insideØ0.020m P, outsideØ0.030m P, bandW0.010m P",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "C62FD8040F9E711BBD5163FDDC2511310B3FCDAE0A62968F9142614FD1BD1A01",
+      "qa": "Visual review in QA_NOTES.md; exact mesh scale, rig clearance, gameplay readability remain unverified",
+      "tool": "builtin_imagegen"
+    },
+    {
+      "ticket": "BRAV-360",
+      "code": "R05",
+      "title": "Dead Man's Coin",
+      "file": "Lazzaretto_Knight_R05_DeadMansCoin.png",
+      "selected": true,
+      "status": "USER_APPROVED",
+      "target_dimensions": "insideØ0.020m P, coinfaceØ0.019m P",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "F181AA4706231559D7C45D2D82ADC71741E203C0C900F7D877995A8ABB6C4298",
+      "qa": "Visual review in QA_NOTES.md; exact mesh scale, rig clearance, gameplay readability remain unverified",
+      "tool": "builtin_imagegen"
+    }
+  ],
+  "source": "Jira brief + docs7ca7c6f",
+  "noTripo": true,
+  "noUnity": true,
+  "mustafaSubmission": false,
+  "userDirection": "Prepare all concepts sequentially, then submit to user approval"
+}

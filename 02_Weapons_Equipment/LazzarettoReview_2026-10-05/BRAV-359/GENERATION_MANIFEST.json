@@ -1,0 +1,68 @@
+{
+  "ticket": "BRAV-359",
+  "date": "2026-10-05",
+  "approval": "USER_APPROVED_2026-10-05",
+  "files": [
+    {
+      "ticket": "BRAV-359",
+      "code": "H01",
+      "title": "Port Warden Helm",
+      "file": "Lazzaretto_Knight_H01_PortWardenHelm.png",
+      "selected": true,
+      "status": "USER_APPROVED",
+      "target_dimensions": "W0.24D0.26H0.28m P",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "5C6AD2ED14513EE897A7221998788B15634D91527C06DC200DC2FF2BF1C42DCC",
+      "qa": "Visual review in QA_NOTES.md; exact mesh scale, rig clearance, gameplay readability remain unverified",
+      "tool": "builtin_imagegen"
+    },
+    {
+      "ticket": "BRAV-359",
+      "code": "H02",
+      "title": "Lancet Visor",
+      "file": "Lazzaretto_Knight_H02_LancetVisor.png",
+      "selected": true,
+      "status": "USER_APPROVED",
+      "target_dimensions": "W0.23D0.27H0.28m P",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "66DEC0DECB834D0AAB9FEB4E2F067028E6881E5932AB9D455E6EF08216B8BEDA",
+      "qa": "Visual review in QA_NOTES.md; exact mesh scale, rig clearance, gameplay readability remain unverified",
+      "tool": "builtin_imagegen"
+    },
+    {
+      "ticket": "BRAV-359",
+      "code": "H03",
+      "title": "Brass Lung Helm",
+      "file": "Lazzaretto_Knight_H03_BrassLungHelm.png",
+      "selected": true,
+      "status": "USER_APPROVED",
+      "target_dimensions": "W0.25D0.29H0.30m P",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "608075B0F61F73BD10E4A7A038F16BF5491B56D7E5A69C6D62D4DCF889D27F92",
+      "qa": "Visual review in QA_NOTES.md; exact mesh scale, rig clearance, gameplay readability remain unverified",
+      "tool": "builtin_imagegen"
+    },
+    {
+      "ticket": "BRAV-359",
+      "code": "H04",
+      "title": "Burial Warden Helm",
+      "file": "Lazzaretto_Knight_H04_BurialWardenHelm.png",
+      "selected": true,
+      "status": "USER_APPROVED",
+      "target_dimensions": "W0.26D0.29H0.30m P",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "D67FF8CFD6C5C9A35AA035C3C2BFE55C2EB1191AC00818CC9B6268A1509D8AAA",
+      "qa": "Visual review in QA_NOTES.md; exact mesh scale, rig clearance, gameplay readability remain unverified",
+      "tool": "builtin_imagegen"
+    }
+  ],
+  "source": "Jira brief + docs7ca7c6f",
+  "noTripo": true,
+  "noUnity": true,
+  "mustafaSubmission": false,
+  "userDirection": "Prepare all concepts sequentially, then submit to user approval"
+}
