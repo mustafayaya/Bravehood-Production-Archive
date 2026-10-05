@@ -9,3 +9,5 @@ Existing player/rig scale unchanged. H04's new closed visor is a specifically fl
 ## User approval — 2026-10-05
 
 User explicitly approved all 32 selected designs in the review gallery. Superseded/rejected attempts are excluded. User concept approval does not certify runtime fit or authorize Tripo. Mustafa submission has not occurred.
+
+2026-10-05: Published 32 approved concepts in Git commit 43d821137bfe3d228d2bc33366cb8fcbe27b7751, PR #9. Submitted to Mustafa via all nine Jira comments (10931–10939). Final approval pending.
