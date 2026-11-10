@@ -1,0 +1,92 @@
+{
+  "source_task": "fd5df216-fb3e-41cd-b5ca-417d59b4eafc",
+  "source_triangles": 17346,
+  "normalization_scale": 1.000488519901564,
+  "facing": "-Y",
+  "up": "Z",
+  "parts": [
+    {
+      "name": "Knight_Head",
+      "vertices": 7568,
+      "triangles": 15199,
+      "materials": 1,
+      "bounds": [
+        [
+          -0.060332201421260834,
+          0.05984368175268173
+        ],
+        [
+          -0.08475814759731293,
+          0.07547634840011597
+        ],
+        [
+          0.800000011920929,
+          1.0
+        ]
+      ],
+      "origin": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Knight_Torso",
+      "vertices": 813,
+      "triangles": 1530,
+      "materials": 1,
+      "bounds": [
+        [
+          -0.26502200961112976,
+          0.26502200961112976
+        ],
+        [
+          -0.09843673557043076,
+          0.09892528504133224
+        ],
+        [
+          0.3507572114467621,
+          0.8485588431358337
+        ]
+      ],
+      "origin": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Knight_Legs",
+      "vertices": 444,
+      "triangles": 741,
+      "materials": 1,
+      "bounds": [
+        [
+          -0.247110515832901,
+          0.247110515832901
+        ],
+        [
+          -0.09892529249191284,
+          0.07547633349895477
+        ],
+        [
+          0.0,
+          0.5799999833106995
+        ]
+      ],
+      "origin": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "waist_overlap": {
+    "z_min": 0.54,
+    "z_max": 0.58,
+    "inner_radial_offset": 0.001
+  },
+  "collar_cut": 0.8,
+  "rig": false,
+  "acceptance": "Approved by Mustafa 2026-09-26 as Knight base v2 replacing v1; rig integration pending"
+}
