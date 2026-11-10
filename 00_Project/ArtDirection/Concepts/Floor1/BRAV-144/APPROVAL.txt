@@ -1,0 +1,15 @@
+APPROVAL — 2026-10-02
+
+Mustafa rejected the prior photoreal Mortuary Grinder set and approved
+ApprovedDesigns/BRAV-144_MortuaryGrinder_v002_45.png as BRAV-144: "ok approve this one as brav 144. and push."
+
+This approval covers the Bravehood-style visual direction and the proportions recorded in
+BRAV-144_DesignSheet_v002.md: a 2.12 m former mortuary bearer with the Bravehood face family,
+faceted hand-placed planes, flat muted colour, Renaissance plague-house clothing and one 2.05 m
+two-handed bier hook. It supersedes the 2026-10-01 body, maul, hook and review-sheet approval.
+Those files are retained under RejectedDesigns_v001 for history and must not be used for Tripo or
+production.
+
+Visual design approval only. No mesh, rig, animation, arena or gameplay-number validation. Final
+capsule and arena fit wait for the Floor 2 greybox. The approved image is kept at native
+1145 x 1374 resolution; no upscaling is required.

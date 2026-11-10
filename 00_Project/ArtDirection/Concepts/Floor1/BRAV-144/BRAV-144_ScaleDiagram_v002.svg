@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="700" viewBox="0 0 1000 700">
+  <rect width="1000" height="700" fill="#f6f3ea"/>
+  <line x1="90" y1="610" x2="920" y2="610" stroke="#332f2a" stroke-width="4"/>
+  <g fill="#49543c" stroke="#292d24" stroke-width="5">
+    <circle cx="260" cy="245" r="48"/><path d="M216 294 L304 294 L327 470 L295 610 L225 610 L193 470 Z"/>
+    <path d="M215 325 L150 470 L177 486 L240 365 Z"/><path d="M305 325 L370 470 L343 486 L280 365 Z"/>
+  </g>
+  <g fill="#6d2d2b" stroke="#342522" stroke-width="5">
+    <circle cx="620" cy="145" r="60"/><path d="M552 208 L688 208 L735 440 L684 610 L556 610 L505 440 Z"/>
+    <path d="M548 245 L448 430 L480 452 L595 290 Z"/><path d="M687 245 L780 420 L747 444 L646 288 Z"/>
+  </g>
+  <g fill="none" stroke="#3f3b35" stroke-width="24" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M470 515 L792 145 L850 120"/>
+    <path d="M850 120 Q920 145 866 222"/>
+  </g>
+  <g font-family="Arial, sans-serif" fill="#272522">
+    <text x="184" y="655" font-size="28">Knight 1.59 m</text>
+    <text x="530" y="655" font-size="28">Mortuary Grinder 2.12 m</text>
+    <text x="615" y="68" font-size="25">6.0 heads · 0.88 m shoulders</text>
+    <text x="700" y="540" font-size="25" transform="rotate(-49 700 540)">bier hook 2.05 m</text>
+  </g>
+</svg>

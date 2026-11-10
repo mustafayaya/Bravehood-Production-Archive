@@ -1,0 +1,12 @@
+Edit FIRST image: Mortuary Grinder body. SECOND image is the actual Bravehood Knight face STYLE reference ONLY. Correct ONLY the nose and adjoining facial planes. User specifically requires a BIG SQUARE nose suited to the game. Make it visibly much LARGER, WIDER, BLOCKIER, with broad straight rectangular bridge, wide squared-off flat front tip, flat side faces and flat underside, sharply cut corners, clear projection. The nose must read as a bold boxlike planar volume even at full-body distance. No pointed triangular nose, delicate narrow bridge, hooked or rounded bulb tip, realistic nostrils. Match Knight hand-authored low-poly face family. Preserve stern human face, jaw, brows, eyes, hair, body, apron, tunic, belt, shoulder crystals, empty hands, pose, shoes, camera and whole-body framing exactly. Do not add Knight helmet or armour.
+Renaissance plague hospital c. 1500, stylised low-poly game character in the style of the attached reference images,
+authored hand-placed planes, visibly faceted flat-shaded surfaces, hand-painted flat colour with broad value shapes,
+muted desaturated palette (forest green, oxblood, umber, charcoal, tarnished brass), stern face with a large square
+planar nose, angular jaw, thick brows, small eyes, hair as sculpted masses, heavy cloth with few broad folds,
+single 45-degree full-body view, pure white background, flat even neutral light.
+Native 2048 x 2048 requested, never upscale.
+Negative: photorealistic, photo, realistic, hyperrealistic, PBR, physically based, cinematic, film still, concept art painting,
+subsurface skin, skin pores, stubble, individual hair strands, dirt overlay, grime, rust streaks, micro scratches,
+blood splatter, gore, wet shine, depth of field, bokeh, film grain, dramatic rim light, volumetric light, fog, smoke,
+glow, bloom, text, letters, logo, signage, watermark, frame, UI, modern clothing, electric lamp, light bulb, gas lamp,
+riveted steel plate, gears, pipes, gauge, rails, firearms, cropped, multiple characters, collage.
