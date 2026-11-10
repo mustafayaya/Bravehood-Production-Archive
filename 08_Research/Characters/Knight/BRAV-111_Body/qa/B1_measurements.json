@@ -1,0 +1,134 @@
+{
+  "issue": "BRAV-111",
+  "date": "2026-09-25",
+  "method": "Human/AI visual pixel annotation, independently reviewed; not automatic skeletal detection",
+  "crown_y": 30,
+  "sole_y": 1441,
+  "height_px": 1411,
+  "chin_includes_beard_y": 258,
+  "heads": 6.18859649122807,
+  "tolerance": 0.02,
+  "rows": [
+    {
+      "name": "Crown",
+      "target": 1,
+      "y": 30,
+      "measured": 1,
+      "delta": 0,
+      "evidence": "visible",
+      "status": "PASS"
+    },
+    {
+      "name": "Eyes",
+      "target": 0.917,
+      "y": 147,
+      "measured": 0.9170800850460666,
+      "delta": 0.0000800850460666025,
+      "evidence": "visible",
+      "status": "PASS"
+    },
+    {
+      "name": "Chin incl. beard",
+      "target": 0.833,
+      "y": 258,
+      "measured": 0.8384124734231042,
+      "delta": 0.005412473423104247,
+      "evidence": "visible",
+      "status": "PASS"
+    },
+    {
+      "name": "Shoulder line",
+      "target": 0.78,
+      "y": 330,
+      "measured": 0.7873848334514528,
+      "delta": 0.007384833451452799,
+      "evidence": "visible contour",
+      "status": "PASS"
+    },
+    {
+      "name": "Armpit",
+      "target": 0.7,
+      "y": 446,
+      "measured": 0.705173635719348,
+      "delta": 0.005173635719348035,
+      "evidence": "visible",
+      "status": "PASS"
+    },
+    {
+      "name": "Elbow",
+      "target": 0.59,
+      "y": 590,
+      "measured": 0.6031183557760453,
+      "delta": 0.013118355776045365,
+      "evidence": "visible sleeve hinge",
+      "status": "PASS"
+    },
+    {
+      "name": "Waist seam",
+      "target": 0.56,
+      "y": 631,
+      "measured": 0.5740609496810772,
+      "delta": 0.014060949681077184,
+      "evidence": "visible",
+      "status": "PASS"
+    },
+    {
+      "name": "Hip",
+      "target": 0.5,
+      "y": 737,
+      "measured": 0.49893692416725727,
+      "delta": -0.0010630758327427325,
+      "evidence": "inferred under tunic; plausible y710–765",
+      "status": "compatible estimate, not directly verified"
+    },
+    {
+      "name": "Wrist",
+      "target": 0.475,
+      "y": 773,
+      "measured": 0.47342310418143163,
+      "delta": -0.0015768958185683468,
+      "evidence": "visible cuff/hand boundary",
+      "status": "PASS"
+    },
+    {
+      "name": "Fingertips",
+      "target": 0.35,
+      "y": 940,
+      "measured": 0.3550673281360737,
+      "delta": 0.0050673281360737454,
+      "evidence": "visible",
+      "status": "PASS"
+    },
+    {
+      "name": "Knee",
+      "target": 0.25,
+      "y": 1076,
+      "measured": 0.258681785967399,
+      "delta": 0.008681785967398992,
+      "evidence": "visible trouser hinge",
+      "status": "PASS"
+    },
+    {
+      "name": "Ankle",
+      "target": 0.042,
+      "y": 1362,
+      "measured": 0.05598866052445074,
+      "delta": 0.01398866052445074,
+      "evidence": "inferred inside boot; plausible y1355–1370",
+      "status": "compatible estimate, not directly verified"
+    }
+  ],
+  "widths": {
+    "shoulder_outer_contour_px": 449,
+    "shoulder_outer_contour_fraction": 0.3182140326009922,
+    "shoulder_target": 0.31,
+    "shoulder_note": "silhouette proxy; skeletal centers require 3D verification",
+    "heel_spacing_estimate_px": 377,
+    "heel_spacing_fraction": 0.2671863926293409,
+    "heel_spacing_target": 0.28,
+    "nose_width_px": 41,
+    "cheekbone_face_width_px": 119,
+    "nose_fraction": 0.3445378151260504
+  },
+  "qa": "Visible joint-height rows PASS. Hip/ankle only inferred. B2/B4/B5 form/anatomy PASS; corrected B3 elbow .598–.609 PASS. PNG 5/5 readable; corner samples252–255 visually white, not uniformly exact #FFFFFF."
+}
