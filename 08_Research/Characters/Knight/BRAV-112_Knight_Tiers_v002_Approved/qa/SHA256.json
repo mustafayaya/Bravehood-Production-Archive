@@ -1,0 +1,25 @@
+{
+  "ticket": "BRAV-112",
+  "version": "v002",
+  "status": "approved concept research / production input",
+  "approved_by": "Mustafa",
+  "approved_on": "2026-09-26",
+  "files": {
+    "T1_Militia/Knight_Militia_01_FrontA.png": "a449df6f701c884c94e2d68ab051b7a841d95de0060486760721c2976e6e9f5d",
+    "T1_Militia/Knight_Militia_02_BackA.png": "8cf0423cff03ab3c8b614ed73522a48887ecba879be2221d112e24cb08090666",
+    "T1_Militia/Knight_Militia_03_ThreeQuarter.png": "95302da80373b46915c0021fb305ef71028016b5699910eeb61aa467860df170",
+    "T1_Militia/Knight_Militia_04_Helm.png": "1fcf450e78025fc6a6b7f6e475bc2eeb67e282036df50463d8e010ad5b7413e8",
+    "T2_ManAtArms/Knight_ManAtArms_01_FrontA.png": "3796dd9844cb9f30ccad1580cdd054c42afd12a89a83f748626969938a3ee420",
+    "T2_ManAtArms/Knight_ManAtArms_02_BackA.png": "45f13c8bf34afef74c15bd61b2de1ea864092b0554dc375ed28b6ce99f913496",
+    "T2_ManAtArms/Knight_ManAtArms_03_ThreeQuarter.png": "5f9a1f22a68ef928750ef7446ae1faf9adfde349e0ffb6c2c863615bafb29f78",
+    "T2_ManAtArms/Knight_ManAtArms_04_Helm.png": "3bdd84cfba94f824b19b208fe2642dcdcb6239671abb28ac98f5fcc1b772bff3",
+    "T3_DungeonKnight/Knight_DungeonKnight_01_FrontA.png": "e9aa78d4b9d859480dc31ed5ae2d0d64196a781c34daddca43dd4d09d7d3505b",
+    "T3_DungeonKnight/Knight_DungeonKnight_02_BackA.png": "99862ed9578554abbc5fd285c0faea8a6112281e6bfe34c7aff2cc1fe3f9d667",
+    "T3_DungeonKnight/Knight_DungeonKnight_03_ThreeQuarter.png": "0c4e1b5589d4bfc14f267b2209081cf5c245cdcd337a2cb6fff7ddd64ed280d8",
+    "T3_DungeonKnight/Knight_DungeonKnight_04_Helm.png": "55a7add3f83270ac1382764d58b18b420e123e4659437bbb0f1703425eae5dca",
+    "T4_Vanguard/Knight_Vanguard_01_FrontA.png": "df6d49eddf77d634e8b36ce7473049d0553d5a8f814e675a59ff230ccb566d9c",
+    "T4_Vanguard/Knight_Vanguard_02_BackA.png": "6169ea8b8a7ee7f7cf86b550df4d82a4e5da19997719e4f76e4908d3b59363f3",
+    "T4_Vanguard/Knight_Vanguard_03_ThreeQuarter.png": "7d8b595911445f709e67963524f07093e65ae2da69d28d463d6d9de0863a3442",
+    "T4_Vanguard/Knight_Vanguard_04_Helm.png": "231984de436f41deae48c524ac2d83039be83e0a7b4faf3ebb154aa1351b8150"
+  }
+}
