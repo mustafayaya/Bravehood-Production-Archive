@@ -1,0 +1,89 @@
+{
+  "ticket": "BRAV-156",
+  "date": "2026-10-03",
+  "approval": "DRAFT_USER_APPROVAL_PENDING",
+  "tool": "builtin_imagegen",
+  "outputs": [
+    {
+      "part": "WallLantern",
+      "file": "BRAV-156_WallLantern_45_DRAFT_v002.png",
+      "selected": true,
+      "status": "DRAFT_USER_APPROVAL_PENDING",
+      "target_dimensions": "0.22 ×0.22 ×0.4m; arm0.35",
+      "visual_qa": "Style/semantic review completed; exact proportions and mesh fit remain unverified.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "2CC36119EB85F05F0A90ACE397E6DC2F58AA64D7F4BF432CB77E890A2D5BB79F"
+    },
+    {
+      "part": "HangingLantern",
+      "file": "BRAV-156_HangingLantern_45_DRAFT_v002.png",
+      "selected": true,
+      "status": "DRAFT_USER_APPROVAL_PENDING",
+      "target_dimensions": "Ø0.3 ×H0.45; hoodØ0.45",
+      "visual_qa": "Style/semantic review completed; exact proportions and mesh fit remain unverified.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "F0A462BB68E3FB84FA2ACBE3720C1E64DA7E0D604ECCB22BB886C7CF47E41676"
+    },
+    {
+      "part": "OilLamp",
+      "file": "BRAV-156_OilLamp_45_DRAFT_v001.png",
+      "selected": true,
+      "status": "DRAFT_USER_APPROVAL_PENDING",
+      "target_dimensions": "Ø0.12 ×H0.07",
+      "visual_qa": "Style/semantic review completed; exact proportions and mesh fit remain unverified.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "53E893A89957AB10052B9297A7F3F2D84B3EB4154A8AF40DCB7C79775DD0F5CC"
+    },
+    {
+      "part": "Pricket",
+      "file": "BRAV-156_Pricket_45_DRAFT_v001.png",
+      "selected": true,
+      "status": "DRAFT_USER_APPROVAL_PENDING",
+      "target_dimensions": "0.25 ×H0.35",
+      "visual_qa": "Style/semantic review completed; exact proportions and mesh fit remain unverified.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "D7663F46B8EB092C34F67AC87486ED324536E6015F756F9CCCFFF283B5E2412D"
+    },
+    {
+      "part": "InteractionRim",
+      "file": "BRAV-156_InteractionRim_45_DRAFT_v003.png",
+      "selected": true,
+      "status": "DRAFT_USER_APPROVAL_PENDING",
+      "target_dimensions": "Ø0.15–0.18 ×D0.03; emberØ0.1",
+      "visual_qa": "Style/semantic review completed; exact proportions and mesh fit remain unverified.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "4E539C975640F3C4E10F3A1FBDBC307BA22CBBF0B86ED3A73170939E9D115206"
+    },
+    {
+      "part": "CandleCrown",
+      "file": "BRAV-156_CandleCrown_45_DRAFT_v001.png",
+      "selected": true,
+      "status": "DRAFT_USER_APPROVAL_PENDING",
+      "target_dimensions": "Ø1.2m",
+      "visual_qa": "Style/semantic review completed; exact proportions and mesh fit remain unverified.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "F21C86824A12FFEB7DAB4D405D8AB516C2EBC66B13DBFF3099EC85EBEF41E258"
+    }
+  ],
+  "failed_attempts": [
+    {
+      "part": "InteractionRim",
+      "first": "BRAV-156_InteractionRim_45_DRAFT_v002.png",
+      "second": "BRAV-156_InteractionRim_45_DRAFT_v003.png",
+      "reason": "Small flat circular wallmounted brass rim plate diameter0.16m thickness0.03m. Center is whitegold angular EMBER STONE diameter0.1, UNLIT. NO candle NO wick NO wax NO cup bowl NO legs. Frontfacevertical. Entirethinplate45view.",
+      "secondSelected": true
+    }
+  ],
+  "noTripo": true,
+  "noUnity": true,
+  "dimensionsVerified": false,
+  "gitJiraSubmitted": false,
+  "userApproval": "APPROVED_2026-10-03",
+  "finalReview": "AWAITING_MUSTAFA_APPROVAL"
+}

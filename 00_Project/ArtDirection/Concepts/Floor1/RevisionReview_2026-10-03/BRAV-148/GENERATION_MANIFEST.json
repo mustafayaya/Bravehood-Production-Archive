@@ -1,0 +1,126 @@
+{
+  "ticket": "BRAV-148",
+  "stage": "references_and_states_generated_visual_qa_pass_reuse_dependencies_pending",
+  "status": "proportion_approx_meshfit_pending",
+  "approval": "new_drafts_user_approval_pending",
+  "tool": "built-in imagegen",
+  "tripo": false,
+  "queued": [
+    {
+      "part": "E6_Frame",
+      "file": "BRAV-148_E6_Frame_45_DRAFT_v002.png",
+      "prompt": "Only stonearchframe from approved E6 image2,NO oakleaves, no pavingring no lantern meshes. Frame target4.6mwide5.5mhigh,approvedsame darkgreige stone withrestrainedbrassstriping,columnbases. Wholeframeisolated.",
+      "styleRef": "BOARD_Environment.png",
+      "designRef": "E6"
+    },
+    {
+      "part": "E6_Leaf",
+      "file": "BRAV-148_E6_Leaf_45_DRAFT_v002.png",
+      "prompt": "One oakdoorleaf from approved E6 image2,2.3wide≈4.5high0.15thickP, plainverticaloakplanks twohorizontalforgedironbands ringhandle hingesatouteredge NO cross NO amblem. Onlyoneleaf isolated, no frame no beacon no ring.",
+      "styleRef": "BOARD_Environment.png",
+      "designRef": "E6"
+    },
+    {
+      "part": "E2_Frame",
+      "file": "BRAV-148_E2_Frame_45_DRAFT_v002.png",
+      "prompt": "Single floorflush laundrychute hatchframe1.8x1.8m opening,squareoak&forgedironcurb, no lid no stairs no wall.",
+      "styleRef": "BOARD_Environment.png",
+      "designRef": "style"
+    },
+    {
+      "part": "E2_Lid",
+      "file": "BRAV-148_E2_Lid_45_DRAFT_v002.png",
+      "prompt": "Single squarefloorchute hatchlid1.8x1.8m0.15thickoakplainforgeironedge strapshingesringpull,isolatedhorizontal45view, no frame.",
+      "styleRef": "BOARD_Environment.png",
+      "designRef": "style"
+    },
+    {
+      "part": "E3_Frame",
+      "file": "BRAV-148_E3_Frame_45_DRAFT_v002.png",
+      "prompt": "Single hearsegate plainstoneframe opening4.6wide4.5high,facetedgreystoneforgedironhinges. No doorleaves no buyerprops.",
+      "styleRef": "BOARD_Environment.png",
+      "designRef": "style"
+    },
+    {
+      "part": "E3_Leaf",
+      "file": "BRAV-148_E3_Leaf_45_DRAFT_v002.png",
+      "prompt": "Single hearsegate oakdoorleaf2.3wide4.5high0.15thickP,twohorizontaldarkironbands,plainringhandle,no cross no inscriptions. noframe.",
+      "styleRef": "BOARD_Environment.png",
+      "designRef": "style"
+    },
+    {
+      "part": "E3_BuyerDesk",
+      "file": "BRAV-148_E3_BuyerDesk_45_DRAFT_v002.png",
+      "prompt": "Singlebuyer oakdesk2.0wide0.8deep1.0high,plainheavyfourlegframe no drawersornament,no ledger no cart.",
+      "styleRef": "BOARD_Environment.png",
+      "designRef": "style"
+    },
+    {
+      "part": "E3_Ledger",
+      "file": "BRAV-148_E3_Ledger_45_DRAFT_v002.png",
+      "prompt": "One closedplainhearsebuyer ledger,0.3x0.22x0.06mP,dullumberwoodleathercoverplainforgedclasp, no lettering nosymbols no desk.",
+      "styleRef": "BOARD_Environment.png",
+      "designRef": "style"
+    },
+    {
+      "part": "E4_RopePull",
+      "file": "BRAV-148_E4_RopePull_45_DRAFT_v002.png",
+      "prompt": "Singlehistoric hemp bellropepull endsimpleloopandwoodhandgrip1mhighP, ropecontinuestopoffasset throughplain forgedwallpulleybracket; no bell no stand. Floorreachablepull.",
+      "styleRef": "BOARD_Environment.png",
+      "designRef": "style"
+    },
+    {
+      "part": "E5_Frame",
+      "file": "BRAV-148_E5_Frame_45_DRAFT_v002.png",
+      "prompt": "Single inclinedfloorcellardoorframe2.3x2.3m inlowstonecurb,fixedslope35degreesP,openingempty,no leaves no wall no stairs.",
+      "styleRef": "BOARD_Environment.png",
+      "designRef": "style"
+    },
+    {
+      "part": "E5_Leaf",
+      "file": "BRAV-148_E5_Leaf_45_DRAFT_v002.png",
+      "prompt": "Oneplain oak inclinedcellardoorleaf1.15x2.3m0.15thickP,forgedironstrapshingealonglongouteredge ringpull. No frame no secondleaf no symbols.",
+      "styleRef": "BOARD_Environment.png",
+      "designRef": "style"
+    }
+  ],
+  "reuseDependencies": [
+    "E1 Gate_Obsidian_01 actual source unavailable; schematic states only, no replacement asset generated.",
+    "E4 Signal_Bell_01 actual source unavailable; external tower reuse+rope-pull design only, no replacement bell generated."
+  ],
+  "preservedE6": {
+    "sha256": "FC3AF869A6DD5B82574FA7A4A1AA1A70A25AC63E706735213F9D6A9EE351BFD0",
+    "attachmentId": "11950",
+    "commentId": "10801",
+    "file": "BRAV-148_E6_States_APPROVED_v004.png"
+  },
+  "outputs": [
+    "BRAV-148_E6_Frame_45_DRAFT_v002.png",
+    "BRAV-148_E6_Leaf_45_DRAFT_v003.png",
+    "BRAV-148_E2_Frame_45_DRAFT_v003.png",
+    "BRAV-148_E2_Lid_45_DRAFT_v002.png",
+    "BRAV-148_E3_Frame_45_DRAFT_v002.png",
+    "BRAV-148_E3_Leaf_45_DRAFT_v002.png",
+    "BRAV-148_E3_BuyerDesk_45_DRAFT_v002.png",
+    "BRAV-148_E3_Ledger_45_DRAFT_v003.png",
+    "BRAV-148_E4_RopePull_45_DRAFT_v002.png",
+    "BRAV-148_E5_Frame_45_DRAFT_v002.png",
+    "BRAV-148_E5_Leaf_45_DRAFT_v002.png",
+    "BRAV-148_E2_States_DRAFT_v002.png",
+    "BRAV-148_E3_States_DRAFT_v003.png",
+    "BRAV-148_E5_States_DRAFT_v003.png"
+  ],
+  "diagrams": [
+    "E1_REUSE_STATES.svg",
+    "E4_ROPE_LAYOUT.svg",
+    "E4_ROPE_STATES.svg"
+  ],
+  "qa": [
+    "All selected raster outputs visually inspected. E6 ring handle, E2 floor curb, E3 ledger and E3/E5 state sheets have one targeted repair selected.",
+    "E3 floor ring and matching buyer desk/ledger repaired. E5 floor ring and channel pose repaired.",
+    "Raster dimensions, mirrored hinge fit, ring radius and Knight scale remain approximate; actual mesh and source reuse validation pending.",
+    "E4 first output request was blocked by moderation, neutral rope+handgrip rephrasing completed. No replacement bell generated."
+  ],
+  "userApproval": "APPROVED_2026-10-03",
+  "finalReview": "AWAITING_MUSTAFA_APPROVAL"
+}

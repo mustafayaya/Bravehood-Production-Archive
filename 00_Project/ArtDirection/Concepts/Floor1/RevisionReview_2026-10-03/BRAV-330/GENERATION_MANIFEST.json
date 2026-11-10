@@ -1,0 +1,49 @@
+{
+  "ticket": "BRAV-330",
+  "date": "2026-10-03",
+  "sourceCommit": "7ca7c6f",
+  "sourceComments": [
+    "10817",
+    "10724"
+  ],
+  "method": "built-in image_gen with canonical board and approved target board attached; originals retained",
+  "noTripo": true,
+  "noUnity": true,
+  "noGitJiraWrites": true,
+  "files": [
+    {
+      "part": "BalanceAssembly",
+      "file": "BRAV-330_BalanceAssembly_45_REVISION_DRAFT_v001.png",
+      "dimensions": "0.40 ×0.20 ×0.50m; panØ0.14",
+      "qa": "view_image inspected; canonical broad faceted style checked; no cross; subject-specific correction visible; exact mesh fit/runtime not checked",
+      "status": "draft-user-and-Mustafa-approval-pending",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "64EB5CD616AD540C712F974A60F2F6B30ABD1765FEB9CD3C1C3078D90031EBFE"
+    },
+    {
+      "part": "InstrumentRollOpen",
+      "file": "BRAV-330_InstrumentRollOpen_45_REVISION_DRAFT_v001.png",
+      "dimensions": "0.60 ×0.30 ×0.04m open",
+      "qa": "view_image inspected; canonical broad faceted style checked; no cross; subject-specific correction visible; exact mesh fit/runtime not checked",
+      "status": "draft-user-and-Mustafa-approval-pending",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "65AA332BB640D18DC9DFFB58FDFC797D99E3C9A47840F554AEF265B6530D537C"
+    },
+    {
+      "part": "BrokenToppledJar",
+      "file": "BRAV-330_BrokenToppledJar_45_REVISION_DRAFT_v001.png",
+      "dimensions": "Mjar uprightH0.25/Ø0.15; toppledstate",
+      "qa": "view_image inspected; canonical broad faceted style checked; no cross; subject-specific correction visible; exact mesh fit/runtime not checked",
+      "status": "draft-user-and-Mustafa-approval-pending",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "8E21FB962DB4D938CFD7A01786BF0E1F6348C67694C1D6E1509FA83055CE83D9"
+    }
+  ],
+  "pendingEvidence": "Alchemist_Shelf_01 gerçek model/prefab yok: ≥0.40m raf açıklığı doğrulanmadı. Reuse varlıklar yeniden üretilmedi. Talljar fit pending; mevcut S/M/L ve ayrıbalanceparts korunur.",
+  "repairHistory": [],
+  "userApproval": "APPROVED_2026-10-03",
+  "finalReview": "AWAITING_MUSTAFA_APPROVAL"
+}

@@ -1,0 +1,18 @@
+Use case: stylized-concept. Asset: BRAV-353 A01 Warden Harness ONLY. Attached canonical board is both APPROVED KNIGHT BODY proportions/face and STYLE reference. Preserve body proportions exactly: 1.59m six-head Knight, compact thick torso, sturdy relatively short legs, oversized hands, no tall heroic anatomy. Full bare-headed Knight wearing a new balanced medium Warden Harness, symmetrical medium silhouette, moderate single shoulder plates (outer width target0.59m and never above0.64m), clean compact forged-iron breastplate, articulated plain tassets, dark leather straps, restrained aged brass fittings, forest-green cloth underarmor, boots. No cape or mantle. Empty hands slightly away from body in relaxed A-pose, no sword/shield/accessories. Waist seam target0.89m from sole. Torso depth envelope0.30m proposed. Functional Renaissance quarantine guard harness, no fantasy paladin ornament. Symmetrical outline, one discreet planar repair on strap permitted. Body stays1.59m; do not add height through anatomy. Bare face matches house face, no helmet.
+
+Warden Knight, six heads tall compact broad human build, forged iron medium plate over forest green cloth and dark leather with sparse aged brass, balanced symmetrical moderate-shouldered clean-chested pelerinsiz harness,
+Renaissance plague hospital c. 1500, stylised low-poly game character in the style of the attached reference images,
+authored hand-placed planes, visibly faceted flat-shaded surfaces, hand-painted flat colour with broad value shapes,
+muted desaturated palette (forest green, oxblood, umber, charcoal, tarnished brass), stern face with a large square
+planar nose, angular jaw, thick brows, small eyes, hair as sculpted masses, heavy cloth with few broad folds,
+full body three-quarter FRONT view, camera neutral long lens slightly above, whole body head and boots visible with margin, pure white background, flat even
+neutral light
+
+Negative prompt:
+photorealistic, photo, realistic, hyperrealistic, PBR, physically based, cinematic, film still, concept art painting,
+subsurface skin, skin pores, stubble, individual hair strands, dirt overlay, grime, rust streaks, micro scratches,
+blood splatter, gore, wet shine, depth of field, bokeh, film grain, dramatic rim light, volumetric light, fog, smoke,
+glow, bloom, text, letters, logo, signage, watermark, frame, UI, modern clothing, electric lamp, light bulb, gas lamp,
+riveted steel plate, gears, pipes, gauge, rails, firearms, cropped, multiple characters, collage.
+Also forbidden: real religious symbols, crosses, flags, readableLatin, teal/cyan decoration, crystals, white-gold, gigantic shoulderextensions, horns, spikedpauldrons, cape, mantle, helmet, weapons. No detailed scratch/grunge noise. Flat broad handpainted colors as canonical board.
+CRITICAL COMPOSITION CORRECTION: The reference BOARD is a collage only for style. Output EXACTLY ONE figure, ONE view, NOT a sheet. ONE full-body Knight only centered in portrait composition. No duplicate front or back views, no triptych. Show only three-quarter front. Keep all same A01 design requirements.

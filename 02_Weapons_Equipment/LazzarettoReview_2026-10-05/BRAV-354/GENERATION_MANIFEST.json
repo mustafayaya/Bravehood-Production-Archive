@@ -1,0 +1,68 @@
+{
+  "ticket": "BRAV-354",
+  "date": "2026-10-05",
+  "approval": "USER_APPROVED_2026-10-05",
+  "files": [
+    {
+      "ticket": "BRAV-354",
+      "code": "W01",
+      "title": "Quarantine Longsword",
+      "file": "Lazzaretto_Knight_W01_QuarantineLongsword.png",
+      "selected": true,
+      "status": "USER_APPROVED",
+      "target_dimensions": "totalL1.05m P, blade0.80m P, guardW0.20m P",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "CB488610E907288DDD1221077D8563C5E1F594CB1E56720B946ECF6626B88557",
+      "qa": "Visual review in QA_NOTES.md; exact mesh scale, rig clearance, gameplay readability remain unverified",
+      "tool": "builtin_imagegen"
+    },
+    {
+      "ticket": "BRAV-354",
+      "code": "W02",
+      "title": "The Sealed Passage",
+      "file": "Lazzaretto_Knight_W02_TheSealedPassage.png",
+      "selected": true,
+      "status": "USER_APPROVED",
+      "target_dimensions": "totalL1.05m P, blade0.79m P, guardW0.22m P",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "73B24070BD6C12D7C8F3A2074ED0FD8A886B0AB4ACF5C6B11CA2E2904021ECB3",
+      "qa": "Visual review in QA_NOTES.md; exact mesh scale, rig clearance, gameplay readability remain unverified",
+      "tool": "builtin_imagegen"
+    },
+    {
+      "ticket": "BRAV-354",
+      "code": "W03",
+      "title": "Porter's Blade",
+      "file": "Lazzaretto_Knight_W03_PortersBlade.png",
+      "selected": true,
+      "status": "USER_APPROVED",
+      "target_dimensions": "totalL1.00m P, blade0.75m P, guardW0.18m P",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "9DD7E73C07829B642BE41B1E1186BFB142AF5460DD16B1F00A0B875581EC8353",
+      "qa": "Visual review in QA_NOTES.md; exact mesh scale, rig clearance, gameplay readability remain unverified",
+      "tool": "builtin_imagegen"
+    },
+    {
+      "ticket": "BRAV-354",
+      "code": "W04",
+      "title": "Forty-Day Oath",
+      "file": "Lazzaretto_Knight_W04_FortyDayOath.png",
+      "selected": true,
+      "status": "USER_APPROVED",
+      "target_dimensions": "totalL1.10m P, blade0.83m P, guardW0.22m P",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "DA2563969915AF361705A6C9F3B20338C57AF183CD9DDC62D129155A2D987DB5",
+      "qa": "Visual review in QA_NOTES.md; exact mesh scale, rig clearance, gameplay readability remain unverified",
+      "tool": "builtin_imagegen"
+    }
+  ],
+  "source": "Jira brief + docs7ca7c6f",
+  "noTripo": true,
+  "noUnity": true,
+  "mustafaSubmission": false,
+  "userDirection": "Prepare all concepts sequentially, then submit to user approval"
+}

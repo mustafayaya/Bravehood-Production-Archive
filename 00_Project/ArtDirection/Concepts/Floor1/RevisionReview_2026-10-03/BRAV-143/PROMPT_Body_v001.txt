@@ -1,0 +1,15 @@
+Revise the approved design per Mustafa review. Image1 is canonical style; Image2 is approved subject direction; ignore all obsolete dimensions/text on Image2.
+Subject: Censer Wretch orderly enemy. Preserve approved forest-green cloth and oxblood scarf, stern human face, broad faceted construction. Change to upright 1.80m empty-hand A-pose, hood worn over head, bare feet not boots, knee-length skirt hem at about0.54m with clearly open side slits so legs read. Shoulders0.56wide, shoulderheight1.40,belt1.01,knee0.45. No armour or shield. Match Knight face construction. Fullbody singlecharacter, not board.
+Renaissance plague hospital c. 1500, stylised low-poly game character in the style of the attached reference images,
+authored hand-placed planes, visibly faceted flat-shaded surfaces, hand-painted flat colour with broad value shapes,
+muted desaturated palette (forest green, oxblood, umber, charcoal, tarnished brass), stern face with a large square
+planar nose, angular jaw, thick brows, small eyes, hair as sculpted masses, heavy cloth with few broad folds,
+full body empty-handed upright A-pose 45-degree three-quarter view, pure white background, flat even
+neutral light
+Avoid: photorealistic, photo, realistic, hyperrealistic, PBR, physically based, cinematic, film still, concept art painting,
+subsurface skin, skin pores, stubble, individual hair strands, dirt overlay, grime, rust streaks, micro scratches,
+blood splatter, gore, wet shine, depth of field, bokeh, film grain, dramatic rim light, volumetric light, fog, smoke,
+glow, bloom, text, letters, logo, signage, watermark, frame, UI, modern clothing, electric lamp, light bulb, gas lamp,
+riveted steel plate, gears, pipes, gauge, rails, firearms, cropped, multiple characters, collage
+Additional avoid: cross, crucifix, coat of arms, heraldry, pedestal other than requested, dimension labels. Exactly ONE part image, square canvas, no extra views.
+

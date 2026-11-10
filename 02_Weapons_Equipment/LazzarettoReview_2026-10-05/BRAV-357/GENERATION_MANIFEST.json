@@ -1,0 +1,40 @@
+{
+  "ticket": "BRAV-357",
+  "date": "2026-10-05",
+  "approval": "USER_APPROVED_2026-10-05",
+  "files": [
+    {
+      "ticket": "BRAV-357",
+      "code": "W11",
+      "title": "Fumigator's Maul",
+      "file": "Lazzaretto_Knight_W11_FumigatorsMaul.png",
+      "selected": true,
+      "status": "USER_APPROVED",
+      "target_dimensions": "totalL0.95m P, headW0.25D0.16H0.19m P",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "9BC48746F86C6D0644E618235A8A3A77037640DC69F35AA4D426C238EF557514",
+      "qa": "Visual review in QA_NOTES.md; exact mesh scale, rig clearance, gameplay readability remain unverified",
+      "tool": "builtin_imagegen"
+    },
+    {
+      "ticket": "BRAV-357",
+      "code": "W12",
+      "title": "Distiller's Hammer",
+      "file": "Lazzaretto_Knight_W12_DistillersHammer.png",
+      "selected": true,
+      "status": "USER_APPROVED",
+      "target_dimensions": "totalL0.75m P, headW0.20D0.12H0.15m P",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "D09325BBB2967ADA85A4B0A2B0CC1594B2B4E75228F4AC4FA18833CE4985119D",
+      "qa": "Visual review in QA_NOTES.md; exact mesh scale, rig clearance, gameplay readability remain unverified",
+      "tool": "builtin_imagegen"
+    }
+  ],
+  "source": "Jira brief + docs7ca7c6f",
+  "noTripo": true,
+  "noUnity": true,
+  "mustafaSubmission": false,
+  "userDirection": "Prepare all concepts sequentially, then submit to user approval"
+}

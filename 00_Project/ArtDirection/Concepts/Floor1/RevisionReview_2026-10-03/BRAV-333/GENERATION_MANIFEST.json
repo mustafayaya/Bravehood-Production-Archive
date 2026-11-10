@@ -1,0 +1,103 @@
+{
+  "ticket": "BRAV-333",
+  "date": "2026-10-03",
+  "approval": "DRAFT_USER_APPROVAL_PENDING",
+  "tool": "builtin_imagegen",
+  "outputs": [
+    {
+      "part": "StrawTruss",
+      "file": "BRAV-333_StrawTruss_45_DRAFT_v002.png",
+      "selected": true,
+      "status": "DRAFT_USER_APPROVAL_PENDING",
+      "target_dimensions": "1 ×0.5 ×0.45m",
+      "visual_qa": "Style/semantic review completed; exact proportions and mesh fit remain unverified.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "7B4DCE7BA3881E36D3BEFC5DF076443C3D0D0448EB74721E42FE1D45A617C197"
+    },
+    {
+      "part": "TallIceStack",
+      "file": "BRAV-333_TallIceStack_45_DRAFT_v002.png",
+      "selected": true,
+      "status": "DRAFT_USER_APPROVAL_PENDING",
+      "target_dimensions": "1.5 ×1 ×1.6m",
+      "visual_qa": "Style/semantic review completed; exact proportions and mesh fit remain unverified.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "D02D54D4B4ED023BD6833C26BAA230BD1593A266DE3A7586F1A446B9A43B40EE"
+    },
+    {
+      "part": "LowIceStack",
+      "file": "BRAV-333_LowIceStack_45_DRAFT_v002.png",
+      "selected": true,
+      "status": "DRAFT_USER_APPROVAL_PENDING",
+      "target_dimensions": "1 ×1 ×0.6m",
+      "visual_qa": "Style/semantic review completed; exact proportions and mesh fit remain unverified.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "7AEC10ED028F63F518502D8E7DD661479752C33277F27A688B3A975CBC17D0E4"
+    },
+    {
+      "part": "StrawNest",
+      "file": "BRAV-333_StrawNest_45_DRAFT_v002.png",
+      "selected": true,
+      "status": "DRAFT_USER_APPROVAL_PENDING",
+      "target_dimensions": "1.4 ×1 ×0.35m",
+      "visual_qa": "Style/semantic review completed; exact proportions and mesh fit remain unverified.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "E0E01390D9F52A9B3A9330C676FBEFD6D9C94F3EC329F1CEF179E657E26F09BE"
+    },
+    {
+      "part": "LooseStraw",
+      "file": "BRAV-333_LooseStraw_45_DRAFT_v002.png",
+      "selected": true,
+      "status": "DRAFT_USER_APPROVAL_PENDING",
+      "target_dimensions": "1.2 ×0.9 ×0.3m",
+      "visual_qa": "Style/semantic review completed; exact proportions and mesh fit remain unverified.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "77FE1C8C9D589122FA8B3D511DA7D04405E2DA5C3FA6489CCE2790D3F4F22385"
+    },
+    {
+      "part": "IceBlock",
+      "file": "BRAV-333_IceBlock_45_DRAFT_v002.png",
+      "selected": true,
+      "status": "DRAFT_USER_APPROVAL_PENDING",
+      "target_dimensions": "0.5m cube",
+      "visual_qa": "Style/semantic review completed; exact proportions and mesh fit remain unverified.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "1F49C16DB5F013B9F9267683CBE43F2D0C96DDCA780D0E8D878B88FF75A788FA"
+    }
+  ],
+  "failed_attempts": [
+    {
+      "part": "LowIceStack",
+      "first": "BRAV-333_LowIceStack_45_DRAFT_v001.png",
+      "second": "BRAV-333_LowIceStack_45_DRAFT_v002.png",
+      "reason": "EXACT FOUR icecubes ONE layer arranged2wide2deep, every cube0.5m; totalenvelope1x1x0.6incl0.1m dullstrawTOP. NO secondlayer NO verticaltower. No blue tint.",
+      "secondSelected": true
+    },
+    {
+      "part": "IceBlock",
+      "first": "BRAV-333_IceBlock_45_DRAFT_v001.png",
+      "second": "BRAV-333_IceBlock_45_DRAFT_v002.png",
+      "reason": "ONLY one neutral greywhite ice CUBE0.5m wide0.5deep0.5high, chamferedcorners matte broadplanarsurface. Absolutely NO arch no pillars no architecture no metal no stone. A simple cube isolated.",
+      "secondSelected": true
+    },
+    {
+      "part": "StrawNest",
+      "first": "BRAV-333_StrawNest_45_DRAFT_v001.png",
+      "second": "BRAV-333_StrawNest_45_DRAFT_v002.png",
+      "reason": "Same Ushapeofstrawbutsoft ragged and handwovenrope tiesinstead dark metalband. Flatnest1.4x1x0.35,no machinebales.",
+      "secondSelected": true
+    }
+  ],
+  "noTripo": true,
+  "noUnity": true,
+  "dimensionsVerified": false,
+  "gitJiraSubmitted": false,
+  "userApproval": "APPROVED_2026-10-03",
+  "finalReview": "AWAITING_MUSTAFA_APPROVAL"
+}

@@ -1,0 +1,105 @@
+{
+  "ticket": "BRAV-334",
+  "stage": "references_generated_visual_qa_pass",
+  "status": "proportion_approx_meshfit_pending",
+  "approval": "new_drafts_user_approval_pending",
+  "tool": "built-in imagegen",
+  "tripo": false,
+  "queued": [
+    {
+      "part": "Cypress",
+      "file": "BRAV-334_Cypress_45_DRAFT_v002.png",
+      "prompt": "Italian cypress,canopyØ1.8m10mhigh, narrow facetedspindlefewlargeforestgreen masses onplainoaktrunk. Preserve tree/hedge/well language of old approved courtyardboard, but no crosses anywhere.",
+      "styleRef": "BOARD_Environment.png",
+      "designRef": "334"
+    },
+    {
+      "part": "BroadTree",
+      "file": "BRAV-334_BroadTree_45_DRAFT_v002.png",
+      "prompt": "Olive tree,canopyØ6m6mhigh,trunkØ0.4m,lowcostfewlargeirregularfacetedmutedolivecanopy masses. Preserve tree/hedge/well language of old approved courtyardboard, but no crosses anywhere.",
+      "styleRef": "BOARD_Environment.png",
+      "designRef": "334"
+    },
+    {
+      "part": "HedgeStraight",
+      "file": "BRAV-334_HedgeStraight_45_DRAFT_v002.png",
+      "prompt": "Single boxhedge straight2.3m long0.6m deep0.8m high,flatcontinuousendplanes exacttileprofile. Preserve tree/hedge/well language of old approved courtyardboard, but no crosses anywhere.",
+      "styleRef": "BOARD_Environment.png",
+      "designRef": "334"
+    },
+    {
+      "part": "HedgeCorner",
+      "file": "BRAV-334_HedgeCorner_45_DRAFT_v002.png",
+      "prompt": "Single L-shaped boxhedge corner two1.15m arms0.6m deep0.8m high,flatendplanes matchingstraighthedge. Preserve tree/hedge/well language of old approved courtyardboard, but no crosses anywhere.",
+      "styleRef": "BOARD_Environment.png",
+      "designRef": "334"
+    },
+    {
+      "part": "HerbBed",
+      "file": "BRAV-334_HerbBed_45_DRAFT_v002.png",
+      "prompt": "Raised timberherbbed2.3x1.15x0.35m, herbclumps≤0.5m aboveedge, herbsfewbroadfacetedmasses. Preserve tree/hedge/well language of old approved courtyardboard, but no crosses anywhere.",
+      "styleRef": "BOARD_Environment.png",
+      "designRef": "334"
+    },
+    {
+      "part": "Well",
+      "file": "BRAV-334_Well_45_DRAFT_v002.png",
+      "prompt": "Stonewellhead outerØ1.5innerØ1m0.9mhigh, twotimberposts2.2mhigh,windlassaxle1.8m,ropeandbucketØ0.3m alloneassembly. Preserve tree/hedge/well language of old approved courtyardboard, but no crosses anywhere.",
+      "styleRef": "BOARD_Environment.png",
+      "designRef": "334"
+    },
+    {
+      "part": "TimberStake",
+      "file": "BRAV-334_TimberStake_45_DRAFT_v002.png",
+      "prompt": "Single plain unmarkedtimbergrave stake1.1m aboveground0.10mwide0.06mdeep P. Oneverticalwoodpostonly NO horizontalbar NO cross NO inscriptions. No stoneplinth. Preserve tree/hedge/well language of old approved courtyardboard, but no crosses anywhere.",
+      "styleRef": "BOARD_Environment.png",
+      "designRef": "334"
+    },
+    {
+      "part": "StoneMarker",
+      "file": "BRAV-334_StoneMarker_45_DRAFT_v002.png",
+      "prompt": "Single smallplain unmarkedstonegravemarker0.45wide0.15deep0.6high,plainchamferedslab NO symbols NO cross noinscriptions. Preserve tree/hedge/well language of old approved courtyardboard, but no crosses anywhere.",
+      "styleRef": "BOARD_Environment.png",
+      "designRef": "334"
+    },
+    {
+      "part": "GraveMound",
+      "file": "BRAV-334_GraveMound_45_DRAFT_v002.png",
+      "prompt": "Single lowgraveearthmound1.9long0.8wide0.25high,plainpaleumberfacetedsurface, no marker no bones. Preserve tree/hedge/well language of old approved courtyardboard, but no crosses anywhere.",
+      "styleRef": "BOARD_Environment.png",
+      "designRef": "334"
+    },
+    {
+      "part": "PitEdgeStraight",
+      "file": "BRAV-334_PitEdgeStraight_45_DRAFT_v002.png",
+      "prompt": "Single openplaguepit earthlip straightedgemodule2.3long1.0wide0.5high,palelimestoneearthbroadfacets2–3shortoakboardsoverlip,verticalinsidefaceandflattileableends. NOT pitcover NOT enclosedgrave. Preserve tree/hedge/well language of old approved courtyardboard, but no crosses anywhere.",
+      "styleRef": "BOARD_Environment.png",
+      "designRef": "334"
+    },
+    {
+      "part": "PitCorner",
+      "file": "BRAV-334_PitCorner_45_DRAFT_v002.png",
+      "prompt": "Single openplaguepit earthlipcornermodule1.0x1.0x0.5m, rightangleinsidecorner, palechalkearthbroadfacetsandtwooakboards,NOTpitcover NOT enclosedgrave. Preserve tree/hedge/well language of old approved courtyardboard, but no crosses anywhere.",
+      "styleRef": "BOARD_Environment.png",
+      "designRef": "334"
+    }
+  ],
+  "selectedStoneMarker": "BRAV-334_StoneMarker_45_DRAFT_v003.png",
+  "qa": "All11refs inspected. StoneMarker v003 plain slab; PitEdgeStraight v003 single edge; other v002refs selected. Exact module joints/dimensions meshfit pending.",
+  "selectedPitEdge": "BRAV-334_PitEdgeStraight_45_DRAFT_v003.png",
+  "outputs": [
+    "BRAV-334_Cypress_45_DRAFT_v002.png",
+    "BRAV-334_BroadTree_45_DRAFT_v002.png",
+    "BRAV-334_HedgeStraight_45_DRAFT_v002.png",
+    "BRAV-334_HedgeCorner_45_DRAFT_v002.png",
+    "BRAV-334_HerbBed_45_DRAFT_v002.png",
+    "BRAV-334_Well_45_DRAFT_v002.png",
+    "BRAV-334_TimberStake_45_DRAFT_v002.png",
+    "BRAV-334_StoneMarker_45_DRAFT_v003.png",
+    "BRAV-334_GraveMound_45_DRAFT_v002.png",
+    "BRAV-334_PitEdgeStraight_45_DRAFT_v003.png",
+    "BRAV-334_PitCorner_45_DRAFT_v002.png"
+  ],
+  "userApproval": "APPROVED_2026-10-03",
+  "finalReview": "AWAITING_MUSTAFA_APPROVAL"
+}

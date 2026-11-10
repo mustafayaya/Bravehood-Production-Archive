@@ -1,0 +1,59 @@
+{
+  "ticket": "BRAV-147",
+  "date": "2026-10-03",
+  "sourceCommit": "7ca7c6f",
+  "sourceComments": [
+    "10815",
+    "10716"
+  ],
+  "method": "built-in image_gen with canonical board and approved target board attached; originals retained",
+  "noTripo": true,
+  "noUnity": true,
+  "noGitJiraWrites": true,
+  "files": [
+    {
+      "part": "DecoyJar",
+      "file": "BRAV-147_DecoyJar_45_REVISION_DRAFT_v001.png",
+      "dimensions": "Ø0.22 ×0.35m; tag0.12 ×0.08",
+      "qa": "view_image inspected; canonical broad faceted style checked; no cross; subject-specific correction visible; exact mesh fit/runtime not checked",
+      "status": "draft-user-and-Mustafa-approval-pending",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "FFDF94368996B05B4D6E0B11616327932855565DD04073C27CF9F7F058D3CC13"
+    },
+    {
+      "part": "ShelfRack",
+      "file": "BRAV-147_ShelfRack_45_REVISION_DRAFT_v001.png",
+      "dimensions": "1.20 ×0.45 ×1.90m; Socket_Jar1.00m",
+      "qa": "view_image inspected; canonical broad faceted style checked; no cross; subject-specific correction visible; exact mesh fit/runtime not checked",
+      "status": "draft-user-and-Mustafa-approval-pending",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "DA53AE8F219E12701B1681714A374F80B68845500F0C163D81F31D781555B376"
+    },
+    {
+      "part": "NamedJar",
+      "file": "BRAV-147_NamedJar_45_REVISION_DRAFT_v001.png",
+      "dimensions": "Ø0.22 ×0.35m; label0.12 ×0.08",
+      "qa": "view_image inspected; canonical broad faceted style checked; no cross; subject-specific correction visible; exact mesh fit/runtime not checked",
+      "status": "draft-user-and-Mustafa-approval-pending",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "ED0E45605FED6C6C614A5E5D93BC9749003F0CBC5E580542934E1F53F51AE6C7"
+    },
+    {
+      "part": "SpoiledJar",
+      "file": "BRAV-147_SpoiledJar_45_REVISION_DRAFT_v001.png",
+      "dimensions": "Ø0.22 ×0.35m; crackedseal/murkybrownfluid",
+      "qa": "view_image inspected; canonical broad faceted style checked; no cross; subject-specific correction visible; exact mesh fit/runtime not checked",
+      "status": "draft-user-and-Mustafa-approval-pending",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "88A6D5420CBA9DCCDF013284718CA68CD2B8515D84E78A80C7C073C25FF2535E"
+    }
+  ],
+  "pendingEvidence": "16 gerçek SpecimenNames kaynak kodu bu workspace'de bulunamadı. Atlas yalnız boş4×4 düzen prototipi; isim uydurulmadı. 1–2m kamera okunurluğu ve Socket_Jar placement/gameplay pending.",
+  "repairHistory": [],
+  "userApproval": "APPROVED_2026-10-03",
+  "finalReview": "AWAITING_MUSTAFA_APPROVAL"
+}

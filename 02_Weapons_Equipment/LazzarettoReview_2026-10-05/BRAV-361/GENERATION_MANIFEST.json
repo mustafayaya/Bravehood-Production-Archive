@@ -1,0 +1,40 @@
+{
+  "ticket": "BRAV-361",
+  "date": "2026-10-05",
+  "approval": "USER_APPROVED_2026-10-05",
+  "files": [
+    {
+      "ticket": "BRAV-361",
+      "code": "RL01",
+      "title": "Broken Quarantine Seal",
+      "file": "Lazzaretto_Knight_RL01_BrokenQuarantineSeal.png",
+      "selected": true,
+      "status": "USER_APPROVED",
+      "target_dimensions": "pairedfragmentsassembledenvelopeW0.10D0.02H0.10m P",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "5474825C0A3509DBCC7DDCEF533E4643FC031F5356A959C67C46C1E0F1FC556A",
+      "qa": "Visual review in QA_NOTES.md; exact mesh scale, rig clearance, gameplay readability remain unverified",
+      "tool": "builtin_imagegen"
+    },
+    {
+      "ticket": "BRAV-361",
+      "code": "RL02",
+      "title": "Bell Without a Tongue",
+      "file": "Lazzaretto_Knight_RL02_BellWithoutATongue.png",
+      "selected": true,
+      "status": "USER_APPROVED",
+      "target_dimensions": "bellØ0.07 H0.12m P, missingclapper",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "2FAD368162A9D66F9019AB108A04D9071144565E72CC4411CEB49588150D3177",
+      "qa": "Visual review in QA_NOTES.md; exact mesh scale, rig clearance, gameplay readability remain unverified",
+      "tool": "builtin_imagegen"
+    }
+  ],
+  "source": "Jira brief + docs7ca7c6f",
+  "noTripo": true,
+  "noUnity": true,
+  "mustafaSubmission": false,
+  "userDirection": "Prepare all concepts sequentially, then submit to user approval"
+}

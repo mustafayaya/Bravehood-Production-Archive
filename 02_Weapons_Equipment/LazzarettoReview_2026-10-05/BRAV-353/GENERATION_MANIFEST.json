@@ -1,0 +1,82 @@
+{
+  "ticket": "BRAV-353",
+  "date": "2026-10-05",
+  "approval": "USER_APPROVED_2026-10-05",
+  "files": [
+    {
+      "ticket": "BRAV-353",
+      "code": "A01",
+      "title": "Warden Harness",
+      "file": "Lazzaretto_Knight_A01_WardenHarness.png",
+      "selected": true,
+      "status": "USER_APPROVED",
+      "target_dimensions": "Knight1.59m F, shoulders0.59m P, belt0.89m F",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "9813EF5645401E2854E5BF66A37791261FF489F757C43240B41FB54BF4390FC9",
+      "qa": "Visual review in QA_NOTES.md; exact mesh scale, rig clearance, gameplay readability remain unverified",
+      "tool": "builtin_imagegen"
+    },
+    {
+      "ticket": "BRAV-353",
+      "code": "A02",
+      "title": "Surgical Duelist Harness",
+      "file": "Lazzaretto_Knight_A02_SurgicalDuelistHarness.png",
+      "selected": true,
+      "status": "USER_APPROVED",
+      "target_dimensions": "body1.59m F, shoulders0.54m P, belt0.89m F",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "4FCAC55A14300E14E5305605FBCC89A6EC97730AF8D5E9EB0DF91B1DA5DE65FC",
+      "qa": "Visual review in QA_NOTES.md; exact mesh scale, rig clearance, gameplay readability remain unverified",
+      "tool": "builtin_imagegen"
+    },
+    {
+      "ticket": "BRAV-353",
+      "code": "A03",
+      "title": "Fumigator Mantle",
+      "file": "Lazzaretto_Knight_A03_FumigatorMantle.png",
+      "selected": true,
+      "status": "USER_APPROVED",
+      "target_dimensions": "body1.59m F, shoulders0.62m P, mantle endsabovehip0.95m P, belt0.89m F",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "6AA21451DC6FAD2F89D8A9AA2E1260A60130B8E1054C57E55E4133D11E4C8F14",
+      "qa": "Visual review in QA_NOTES.md; exact mesh scale, rig clearance, gameplay readability remain unverified",
+      "tool": "builtin_imagegen"
+    },
+    {
+      "ticket": "BRAV-353",
+      "code": "A04",
+      "title": "Mortuary Plate",
+      "file": "Lazzaretto_Knight_A04_MortuaryPlate.png",
+      "selected": true,
+      "status": "USER_APPROVED",
+      "target_dimensions": "body1.59m F, shoulders0.64m maxF, shortmantle endsatbelt0.89m, belt0.89m F",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "E4B38DEE025CBFFE74426AF09413B1E5A489B9E9D5DC4397B134A6ECBC006B43",
+      "qa": "Visual review in QA_NOTES.md; exact mesh scale, rig clearance, gameplay readability remain unverified",
+      "tool": "builtin_imagegen"
+    },
+    {
+      "ticket": "BRAV-353",
+      "code": "A05",
+      "title": "Last Warden Plate",
+      "file": "Lazzaretto_Knight_A05_LastWardenPlate.png",
+      "selected": true,
+      "status": "USER_APPROVED",
+      "target_dimensions": "body1.59m F SAMEunchangedbody, shoulders0.64m maxF, capeends0.15mabovefloor P, belt0.89m F",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "89BD4CBF363835F8F5447B6DA97E836A58F92F6CDAEAEFF1507D80AE2A0C1C0C",
+      "qa": "Visual review in QA_NOTES.md; exact mesh scale, rig clearance, gameplay readability remain unverified",
+      "tool": "builtin_imagegen"
+    }
+  ],
+  "source": "Jira brief + docs7ca7c6f",
+  "noTripo": true,
+  "noUnity": true,
+  "mustafaSubmission": false,
+  "userDirection": "Prepare all concepts sequentially, then submit to user approval"
+}

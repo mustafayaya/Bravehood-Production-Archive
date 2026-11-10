@@ -1,0 +1,25 @@
+{
+  "ticket": "BRAV-352",
+  "status": "proportion_approx_meshfit_pending",
+  "approval": "new_drafts_user_approval_pending",
+  "tool": "built-in imagegen",
+  "sourceComments": [
+    "10802",
+    "10800",
+    "10798"
+  ],
+  "outputs": [
+    "BRAV-352_PierShort_45_DRAFT_v002.png",
+    "BRAV-352_PierTall_45_DRAFT_v003.png",
+    "BRAV-352_WallRespond_45_DRAFT_v003.png"
+  ],
+  "qa": {
+    "style": "pass",
+    "short": "approximate",
+    "tall": "targeted_repair_shaft_longer_shared_capital_base_approx_meshfit_pending",
+    "respond": "targeted_repair_half_cut_flat_back_pass"
+  },
+  "tripo": false,
+  "userApproval": "APPROVED_2026-10-03",
+  "finalReview": "AWAITING_MUSTAFA_APPROVAL"
+}

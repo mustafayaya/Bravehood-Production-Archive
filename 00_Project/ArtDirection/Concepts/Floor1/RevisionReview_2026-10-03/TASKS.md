@@ -1,0 +1,3 @@
+- [ ] Mustafa final design review for all 17 user-approved revision packages.
+- [ ] Resolve actual-source mesh/label/shelf/reuse checks listed in DECISIONS.md.
+- [ ] Production handoff only after the required approvals; no Tripo in this submission.

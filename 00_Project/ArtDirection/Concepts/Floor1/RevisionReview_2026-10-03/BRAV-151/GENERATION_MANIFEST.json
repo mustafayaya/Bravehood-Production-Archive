@@ -1,0 +1,100 @@
+{
+  "ticket": "BRAV-151",
+  "date": "2026-10-03",
+  "approval": "DRAFT_USER_APPROVAL_PENDING",
+  "tool": "builtin_imagegen",
+  "outputs": [
+    {
+      "part": "Quickened",
+      "file": "BRAV-151_Quickened_45_DRAFT_v003.png",
+      "selected": true,
+      "status": "DRAFT_USER_APPROVAL_PENDING",
+      "target_dimensions": "total floor height2.6–2.8 m; footprint≤0.5²",
+      "visual_qa": "Style/semantic review completed; exact proportions and mesh fit remain unverified.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "0095C22EA6A2F353AAEAD8C9BBD78678EF526A07DA22DF5D38A425696A3AA759"
+    },
+    {
+      "part": "Ironhide",
+      "file": "BRAV-151_Ironhide_45_DRAFT_v004.png",
+      "selected": true,
+      "status": "DRAFT_USER_APPROVAL_PENDING",
+      "target_dimensions": "1.0 ×1.0; totalH1.9 m",
+      "visual_qa": "Fresh approach authorized by user: measured guide plus environment style only. Broad block/blade and flat bottom reviewed; exact mesh fit unverified.",
+      "width": 1312,
+      "height": 1199,
+      "sha256": "4591AA31B80D40D4783AE85913D1B2B2804055EC9BDD84596AE4BA75D9085B1A"
+    },
+    {
+      "part": "Keen",
+      "file": "BRAV-151_Keen_45_DRAFT_v004.png",
+      "selected": true,
+      "status": "DRAFT_USER_APPROVAL_PENDING",
+      "target_dimensions": "0.9 ×0.25; totalH2.4 m",
+      "visual_qa": "Fresh approach authorized by user: measured guide plus environment style only. Broad block/blade and flat bottom reviewed; exact mesh fit unverified.",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "79DA807EA7B254109AE1CE5B2C37412779C984231B43171C04751AD6BB491A7B"
+    },
+    {
+      "part": "SharedPlinth",
+      "file": "BRAV-151_SharedPlinth_45_DRAFT_v002.png",
+      "selected": true,
+      "status": "DRAFT_USER_APPROVAL_PENDING",
+      "target_dimensions": "Ø1.6 ×H0.24 m",
+      "visual_qa": "Style/semantic review completed; exact proportions and mesh fit remain unverified.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "0CE626D1E097907A08B751343D06210DE19810EB24A76E45F27629B6959E2E1D"
+    },
+    {
+      "part": "RadialFloor",
+      "file": "BRAV-151_RadialFloor_45_DRAFT_v002.png",
+      "selected": true,
+      "status": "DRAFT_USER_APPROVAL_PENDING",
+      "target_dimensions": "Ø4 m; flush≤0.03",
+      "visual_qa": "Style/semantic review completed; exact proportions and mesh fit remain unverified.",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "D8F3B8C95C2E86C8C4A0153DA419F0806C44E5DF7F59D897706E0A48749FEC0B"
+    }
+  ],
+  "failed_attempts": [
+    {
+      "part": "Quickened",
+      "first": "BRAV-151_Quickened_45_DRAFT_v002.png",
+      "second": "BRAV-151_Quickened_45_DRAFT_v003.png",
+      "reason": "ONLY bare symmetrical violet spire with FLAT CUT BASE standing upright; height2.46m width0.5m. REMOVE all stoneclamps, goldornament, whitegem and lowerpoint. Keep upperpoint. No pedestal.",
+      "secondSelected": true
+    },
+    {
+      "part": "Ironhide",
+      "first": "BRAV-151_Ironhide_45_DRAFT_v002.png",
+      "second": "BRAV-151_Ironhide_45_DRAFT_v003.png",
+      "reason": "İki deneme başarısız: ilk referans ortak kaideyi ve sütunları tekrar birleştirdi; ikinci referansın tabanı hâlâ sivri/floating, 1×1×1.66m düz tabanlı block yerine dik kristal. Yeni üretim durdu.",
+      "secondSelected": false
+    },
+    {
+      "part": "Keen",
+      "first": "BRAV-151_Keen_45_DRAFT_v002.png",
+      "second": "BRAV-151_Keen_45_DRAFT_v003.png",
+      "reason": "İki deneme başarısız: ilk ve ikinci referans geniş W0.9/D0.25 blade yerine dar uzun spire okuyor; ilk alt sivri ve fittings birleşik, ikinci hedef blade oranını karşılamıyor. Yeni üretim durdu.",
+      "secondSelected": false
+    },
+    {
+      "part": "RadialFloor",
+      "first": "BRAV-151_RadialFloor_45_DRAFT_v001.png",
+      "second": "BRAV-151_RadialFloor_45_DRAFT_v002.png",
+      "reason": "Flatten the circular radialfloor to paperthin thickness0.03m at diameter4m. Sideedge almostinvisible; no pedestal/drum.",
+      "secondSelected": true
+    }
+  ],
+  "noTripo": true,
+  "noUnity": true,
+  "dimensionsVerified": false,
+  "gitJiraSubmitted": false,
+  "newUserDirection": "Follow the measured brief, appropriate to the game; new approach using only measured geometry guide and environment style. v002/v003 remain rejected, v004 now selected draft.",
+  "userApproval": "APPROVED_2026-10-03",
+  "finalReview": "AWAITING_MUSTAFA_APPROVAL"
+}

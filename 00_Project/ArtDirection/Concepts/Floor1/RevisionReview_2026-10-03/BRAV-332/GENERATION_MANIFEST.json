@@ -1,0 +1,61 @@
+{
+  "ticket": "BRAV-332",
+  "date": "2026-10-03",
+  "sourceCommit": "7ca7c6f",
+  "sourceComments": [
+    "10818",
+    "10726"
+  ],
+  "method": "built-in image_gen with canonical board and approved target board attached; originals retained",
+  "noTripo": true,
+  "noUnity": true,
+  "noGitJiraWrites": true,
+  "files": [
+    {
+      "part": "AltarBlock",
+      "file": "BRAV-332_AltarBlock_45_REVISION_DRAFT_v001.png",
+      "dimensions": "2.00 ×0.90 ×1.00m",
+      "qa": "view_image inspected; canonical broad faceted style checked; no cross; subject-specific correction visible; exact mesh fit/runtime not checked",
+      "status": "draft-user-and-Mustafa-approval-pending",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "077B050D720170868D3EA07D13FA9A671653A4F9EC2F62BF31D50E5B1E442B77"
+    },
+    {
+      "part": "AltarCloth",
+      "file": "BRAV-332_AltarCloth_45_REVISION_DRAFT_v001.png",
+      "dimensions": "top2.10 ×1.00m; frontdrop0.60/sides0.30",
+      "qa": "view_image inspected; canonical broad faceted style checked; no cross; subject-specific correction visible; exact mesh fit/runtime not checked",
+      "status": "draft-user-and-Mustafa-approval-pending",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "8A3300943E7BAA4FDB0C8D7DF0ACCF5AACF50314C57F21352F727890593EABBB"
+    },
+    {
+      "part": "Candlestick",
+      "file": "BRAV-332_Candlestick_45_REVISION_DRAFT_v001.png",
+      "dimensions": "baseØ0.18 ×H0.50m",
+      "qa": "view_image inspected; canonical broad faceted style checked; no cross; subject-specific correction visible; exact mesh fit/runtime not checked",
+      "status": "draft-user-and-Mustafa-approval-pending",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "56511CA4B603206723A76A6BAE933198F854DEC10AC958CEB9B3A92E264CE8BB"
+    },
+    {
+      "part": "PredellaStep",
+      "file": "BRAV-332_PredellaStep_45_REVISION_DRAFT_v002.png",
+      "dimensions": "3.00 ×1.80 ×0.15m",
+      "qa": "view_image inspected; canonical broad faceted style checked; no cross; subject-specific correction visible; exact mesh fit/runtime not checked",
+      "status": "draft-user-and-Mustafa-approval-pending",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "569BB8BBE6FBBE95224B9F54E18A4F69144FCB9E793CA1D57F428D4B3A35CF07"
+    }
+  ],
+  "pendingEvidence": "İki raw monk kaynak modeli yok; Knight yanında reuse karşılaştırması henüz yapılamadı. Yeni heykel üretilmedi. BRAV-150 dahil ortak heykel mesh'i şartı korunur; Chapel teması kaldırılmadı. Altar doğuda, E4ip batıda.",
+  "repairHistory": [
+    "PredellaStep v001 too thick ornamental; v002 single thin slab"
+  ],
+  "userApproval": "APPROVED_2026-10-03",
+  "finalReview": "AWAITING_MUSTAFA_APPROVAL"
+}

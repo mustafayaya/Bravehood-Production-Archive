@@ -1,0 +1,41 @@
+{
+  "ticket": "BRAV-331",
+  "date": "2026-10-03",
+  "sourceCommit": "7ca7c6f",
+  "sourceComments": [
+    "10819",
+    "10725"
+  ],
+  "method": "built-in image_gen with canonical board and approved target board attached; originals retained",
+  "noTripo": true,
+  "noUnity": true,
+  "noGitJiraWrites": true,
+  "files": [
+    {
+      "part": "HangingSheet",
+      "file": "BRAV-331_HangingSheet_45_REVISION_DRAFT_v002.png",
+      "dimensions": "1.80 ×1.40m flat; folded0.70m drop",
+      "qa": "view_image inspected; canonical broad faceted style checked; no cross; subject-specific correction visible; exact mesh fit/runtime not checked",
+      "status": "draft-user-and-Mustafa-approval-pending",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "600DA8FF1F793E2F67496CA86E8B458464D9BC75D6A04B00098E558330BD329E"
+    },
+    {
+      "part": "BreadTallyBoard",
+      "file": "BRAV-331_BreadTallyBoard_45_REVISION_DRAFT_v001.png",
+      "dimensions": "1.00 ×0.10 ×0.80m; notchedsticks+loaves",
+      "qa": "view_image inspected; canonical broad faceted style checked; no cross; subject-specific correction visible; exact mesh fit/runtime not checked",
+      "status": "draft-user-and-Mustafa-approval-pending",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "3AFAE89AEACA76803451F4A19E174F31662356223898DBC0D4E367D7C98D0BE9"
+    }
+  ],
+  "pendingEvidence": "Kitchen hearth soğuk; warm light table candle. E2Ø5m ring/door→chute lane≥2.5m, racksparallel; scene ölçümü/placement yapılmadı. WardLinen materyal reuse.",
+  "repairHistory": [
+    "HangingSheet v001 narrow/tall; v002 wide/short folded proportions"
+  ],
+  "userApproval": "APPROVED_2026-10-03",
+  "finalReview": "AWAITING_MUSTAFA_APPROVAL"
+}
